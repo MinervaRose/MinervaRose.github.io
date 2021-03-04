@@ -53,7 +53,12 @@ search_full_content: true
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"  
+tag_archive_path: "/tags/#"
+
+# Site Author
+author:
+  name: Jamie Bree
+  picture: /images/jamie-photo.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
