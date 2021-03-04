@@ -8,7 +8,7 @@ date:   2021-04-03 09:45:06 -0500
 categories: update
 ---
 
-![no-alignment]({{ '/images/image-alignment-1200x4002.jpg' | absolute_url }})
+![no-alignment]({{ '/images/image-1.jpg' | absolute_url }})
 
 We are very excited to start our official Violet and Oberon blog.
 
