@@ -41,6 +41,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
