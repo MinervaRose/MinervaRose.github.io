@@ -70,6 +70,12 @@ defaults:
 author:
   name: Jamie Bree
   picture: /images/jamie-photo.jpg
+  email:
+  twitter:
+  links:
+    - title:
+    url:
+    icon:
 
 # Copyright
 copyright: "This site is made with <3 by *Violet and Oberon*."
