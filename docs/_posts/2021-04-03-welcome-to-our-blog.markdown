@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to our blog!"
 image:
 	path:/images/image-1.jpg
@@ -8,6 +7,7 @@ image:
 date:   2021-04-03 09:45:06 -0500
 categories: update
 ---
+
 ![no-alignment]({{ '/images/image-alignment-1200x4002.jpg' | absolute_url }})
 
 We are very excited to start our official Violet and Oberon blog.
