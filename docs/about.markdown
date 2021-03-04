@@ -1,6 +1,5 @@
 ---
-title: About
-image: /images/image-2.jpg
+title: About us
 permalink: /about/
 ---
 
