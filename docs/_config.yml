@@ -60,7 +60,26 @@ collections:
   about-us:
     output: true
     permalink: /:collection/:path/
-    
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: false
+      share: false
+  # Recipe defaults
+  - scope:
+      path: "_about-us"
+      type: about-us
+    values:
+      layout: post
+      comments: false
+      share: false
+
 # Site Author
 author:
   name: Jamie Bree
