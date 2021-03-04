@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Print and surface pattern designers with a passion for everything literary and particularly Sherlock Holmes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/violet-and-oberon-site-logo.png"
+logo: "/images/violet-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -71,12 +71,7 @@ defaults:
 author:
   name: Jamie Bree
   picture: /images/jamie-photo.jpg
-  email:
-  twitter:
-  links:
-    - title:
-    url:
-    icon:
+
 
 # Copyright
 copyright: "This site is made with <3 by *Violet and Oberon*."
