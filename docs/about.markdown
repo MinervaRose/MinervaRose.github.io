@@ -4,7 +4,8 @@ image: /images/image-2.jpg
 permalink: /about/
 ---
 
-![no-alignment]({{ '/images/image-2.jpg' | absolute_url }})
+
+![image-center]({{ '/images/image-2.jpg' | absolute_url }}){: .align-center}
 
 Violet and Oberon, team of print and surface pattern designers.
 
