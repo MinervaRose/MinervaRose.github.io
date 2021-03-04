@@ -71,7 +71,8 @@ author:
   name: Jamie Bree
   picture: /images/jamie-photo.jpg
 
-
+# Copyright
+copyright: "This site is made with <3 by *Violet and Oberon*."
 
 # Exclude from processing.
 # The following items will not be processed, by default.
