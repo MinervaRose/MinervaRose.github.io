@@ -1,8 +1,10 @@
 ---
-layout: page
 title: About
+image: /images/image-2.jpg
 permalink: /about/
 ---
+
+![no-alignment]({{ '/images/image-2.jpg' | absolute_url }})
 
 Violet and Oberon, team of print and surface pattern designers.
 
