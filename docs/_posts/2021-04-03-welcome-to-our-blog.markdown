@@ -1,10 +1,7 @@
 ---
-title:  "Welcome to our blog!"
-image:
-	path:/images/image-1.jpg
-	thumbnail: /images/image-1-300x200.jpg
-	caption: "Photo from [Unsplash](https://unsplash.com/photos/IuLgi9PWETU)"
-date:   2021-04-03 09:45:06 -0500
+title: "Welcome to our blog!"
+image: /images/image-1.jpg
+date: 2021-04-03 09:45:06 -0500
 categories: update
 ---
 
