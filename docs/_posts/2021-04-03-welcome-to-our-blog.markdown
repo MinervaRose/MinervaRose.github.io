@@ -9,5 +9,5 @@ categories: update
 
 We are very excited to start our official Violet and Oberon blog.
 
-We hope that you will enjoy our posts dedicated to our work and how we try to pay hommage to not only the amazing writers but also the talented illustrators and painteds who enhanced books and magazines with gorgeous scenes and portraits.
+We hope that you will enjoy our posts dedicated to our work and how we try to pay hommage to not only the amazing writers but also the talented illustrators and painters who enhanced books and magazines with gorgeous scenes and portraits.
 
