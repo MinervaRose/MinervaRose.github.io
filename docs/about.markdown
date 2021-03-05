@@ -21,3 +21,7 @@ a different colour, please let us know.
 
 We warmly welcome commissions.
 
+<form>
+<input type="button" value="Send eMail" onclick="window.location.href='mailto:me@example.com'" />
+</form> 
+
