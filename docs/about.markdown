@@ -22,6 +22,6 @@ a different colour, please let us know.
 We warmly welcome commissions.
 
 <form>
-<input type="button" value="Send eMail" onclick="window.location.href='mailto:me@example.com'" />
+<input style="width: 300px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #000000; color: #fff; border-radius: 10px; border: 1px solid #999; font-size: 100%;" type="button" value="Click to send us an email" onclick="window.location.href='mailto:contact@violetandoberon.com'" />
 </form> 
 
