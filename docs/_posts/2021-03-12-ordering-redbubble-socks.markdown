@@ -45,6 +45,7 @@ The socks we received, while not exactly identical to the simulated images still
 ![Edgar Allan Poe real socks 1](/images/img-poe-real-1.jpg)
 
 
+
 As can be seen above, they perfectly fit a size 9. They are so very comfortable. The top does not squeeze the calf but still stays high. They are the right amount of stretch. The sole has extra cushioning, and so do the toe and heel.
 
 
