@@ -44,7 +44,7 @@ The socks we received, while not exactly identical to the simulated images still
 
 *Modelling on the leg of yours truly*
 
-![Poe real socks 1](/images/img-poe-real-1.JPG)
+![Poe real socks 1](/images/img-poe-real-1.jpg)
 
 
 
