@@ -1,7 +1,6 @@
 ---
 title: "Review of Redbubble socks featuring our designs"
-image: /images/img-socks-sample.jpg
-date: 2021-12-03 09:45:06 -0500
+date: 2021-03-12 09:45:06 -0500
 categories: redbubble socks
 ---
 
