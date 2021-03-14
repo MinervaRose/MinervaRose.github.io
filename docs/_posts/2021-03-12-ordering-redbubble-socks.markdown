@@ -1,5 +1,5 @@
 ---
-title: "Review of Redbubble socks featuring our designs"
+title: "An honest review of Redbubble socks featuring our designs"
 date: 2021-03-12 09:45:06 -0500
 categories: redbubble socks
 ---
