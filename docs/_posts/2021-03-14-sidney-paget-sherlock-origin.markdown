@@ -11,7 +11,7 @@ categories: Sherlock design
 Sherlock Holmes, what is the image that forms in your mind's eye when you think of the world's greatest consulting detective?
 
 
-Television and films have featured so many versions brought to life with wildly varying successand acceptance by the public of the day. But what is the original source for all of these interpretations and images of Sherlock Holmes? For this, we must look back to 1891 and The Strand magazine.
+Television and films have featured so many versions brought to life with wildly varying success and acceptance by the public of the day. But what is the original source for all of these interpretations and images of Sherlock Holmes? For this, we must look back to 1891 and The Strand magazine.
 
 
 Arthur Conan Doyle described his most famous creation as a tall thin man, over 6 feet, appearing taller due to his extreme leanness. He had heavy tufted brows and a thin hawk-like nose, with eyes rather close together on his thin face. Not a handsome man by any stretch of the imagination! And yet, when his stories first began appearing in The Strand magazine this is not the image we see.
