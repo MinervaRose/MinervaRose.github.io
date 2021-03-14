@@ -18,6 +18,7 @@ Arthur Conan Doyle described his most famous creation as a tall thin man, over 6
 
 
 ![Photo of Sidney Paget](/images/img-Sidney-Paget.jpg){: width=289 height=397 style="float:none; padding:16px"}
+
 *Portrait of Sidney Paget*
 
 
