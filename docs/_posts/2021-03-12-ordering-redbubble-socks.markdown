@@ -54,6 +54,23 @@ As can be seen above, they perfectly fit a size 9. They are so very comfortable.
 We are really very pleased with how this specific design was printed on the socks we purchased from Redbubble. We really believe that they can make great gifts for anybody who loves Edgar Allan Poe's works. I personally will wear them as much as I can. 
 
 
+# Taking care of socks purchased on Redbubble
+
+### *Important: Before wearing them we washed our socks by hand with cold water and gentle laundry product or soap*
+
+
+Upon receiving our socks, we made sure to wash them by hand inside out with cold water. The socks that had dark colours in them gushed out quite a bit of ink, while pastel and beige socks did not. We expected it: they are **printed**. 
+
+
+Later we washed them in the washing machine with the rest of our laundry. The colours of the socks remained vibrant and the designs clear.
+
+
+We did not put them in the tumble dryer - they contain nylon. 
+
+
+The **Redbubble label provides clear instructions**, make sure to read it carefully if you purchase some of the socks we designed.
+
+
 We hope that this blog post was informative and helped you to know what to expect when ordering socks on Redbubble and particularly from our [Violet And Oberon shop.](https://www.redbubble.com/people/VioletAndOberon/shop)
 
 
