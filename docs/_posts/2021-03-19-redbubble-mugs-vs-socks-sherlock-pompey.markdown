@@ -1,6 +1,6 @@
 ---
 title: "Comparing our Sherlockian design on Redbubble socks and mugs"
-date: 2021-03-12 09:45:06 -0500
+date: 2021-03-19 09:45:06 -0500
 categories: redbubble socks mugs Sherlock
 ---
 
