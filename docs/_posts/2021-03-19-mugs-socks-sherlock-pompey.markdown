@@ -13,6 +13,7 @@ Reflecting back on our first designs on socks and mugs, we thought it would be g
 One of our Sherlockian designs consists in Sherlock Holmes walking with Pompey on a leash, as originally created by American ilustrator Frederic Dorr Steele for *The adventure of the missing three-quarter.*
 
 ![Frederic Dorr Steele](/images/Photograph_of_Frederic_Dorr_Steele.jpg){: width=166.5 height=274 style="float:none; padding:16px"}
+
 *Photograph of Frederic Dorr Steele*
 
 
@@ -20,10 +21,12 @@ Our design places the two characters in an oval cameo. It lies on a background m
 
 
 ![Sherlock and Pompey Frederic Dorr Steele](/images/img-missing-three-quarter.JPG){: width=156.15 height=185 style="float:none; padding:16px"}
+
 *Art by Frederic Dorr Steele*
 
 
 ![Sherlock and Pompey Violet and Oberon](/images/img-vao-design-pompey-lowres.jpg){: width=167 height=145 style="float:none; padding:16px"}
+
 *Low resolution image of our re-creation for mugs and socks*
 
 
@@ -33,6 +36,7 @@ The **simulated images** of the [mug](https://www.redbubble.com/i/mug/Sherlock-H
 Upon checking the mugs and socks in broad daylight, we noticed a slight colour variation *even though it was the same colour in our files*. While the socks background are definitely beige brown, the mug background is way more of an old mustardy brown - which is great, both products are very beautiful. 
 
 ![Sherlock and Pompey Violet and Oberon mug and sock](/images/img-mug-and-sock-pompey-couch-400.JPG ){: width=400 height=400 style="float:none; padding:16px"}
+
 *Definitely not a simulated image*
 
 As the Redbubble team states in their blog ["Color profiles are a really tricky topic"](https://help.redbubble.com/hc/en-us/articles/202270679-Dimensions-Format#color). Furthermore mugs and socks are printed in very different ways.
@@ -40,6 +44,7 @@ As the Redbubble team states in their blog ["Color profiles are a really tricky 
 We really love how the ceramic mug shines in the light. It is absolutely gorgeous. 
 
 ![Sherlock and Pompey Violet and Oberon shiny mug](/images/img-pompey-mug-modelled-400.JPG){: width=400 height=400 style="float:none; padding:16px"}
+
 *The Sherlock and Pompey mug*
 
 
@@ -47,6 +52,7 @@ The socks have a real nice stretch to them, and the design, while slightly fuzzy
 
 
 ![Sherlock and Pompey Violet and Oberon socks](/images/IMG-sock-pompey-modelled-400.JPG){: width=400 height=400 style="float:none; padding:16px"}
+
 *The Sherlock and Pompey socks modelled by yours truly*
 
 
