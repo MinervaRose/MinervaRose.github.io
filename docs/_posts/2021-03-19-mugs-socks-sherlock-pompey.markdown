@@ -48,12 +48,12 @@ We really love how the ceramic mug shines in the light. It is absolutely gorgeou
 *The Sherlock and Pompey mug*
 
 
-The socks have a real nice stretch to them, and the design, while slightly fuzzy - more about this in this [honest review](https://www.violetandoberon.com/redbubble/socks/2021/03/12/ordering-redbubble-socks.html), looks really clear. We have however decided to create a new version of the socks without the shadow under Pompey's belly in order to improve the legibility of the artwork on the socks specifically.
+The socks have a real nice stretch to them, and the design, while slightly fuzzy - more about this in this [honest review](https://www.violetandoberon.com/redbubble/socks/2021/03/12/ordering-redbubble-socks.html), looks really clear. We have however decided to create a [new version of the socks](https://www.redbubble.com/i/socks/Sherlock-Holmes-Missing-Three-Quarter-Dog-Rugby-Socks-by-VioletAndOberon/73438714.9HZ1B) without the shadow under Pompey's belly in order to improve the legibility of the artwork on the socks specifically.
 
 
 ![Sherlock and Pompey Violet and Oberon socks](/images/IMG-sock-pompey-modelled-400.JPG){: width=400 height=400 style="float:none; padding:16px"}
 
-*The Sherlock and Pompey socks modelled by yours truly*
+*The Sherlock and Pompey socks in the sunlight*
 
 
 We hope that this blog post was informative and helped you to know what to expect in terms of colour variations across the products of [our Redbubble shop.](https://www.redbubble.com/people/VioletAndOberon/shop)
