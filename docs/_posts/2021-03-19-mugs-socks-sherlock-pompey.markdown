@@ -20,7 +20,7 @@ One of our Sherlockian designs consists in Sherlock Holmes walking with Pompey o
 Our design places the two characters in an oval cameo. It lies on a background made of a repeat pattern of a dark brown vintage rugby ball on a light brown beige background.
 
 
-![Sherlock and Pompey Frederic Dorr Steele](/images/img-missing-three-quarter.JPG){: width=156.15 height=185 style="float:none; padding:16px"}
+![Sherlock and Pompey Frederic Dorr Steele](/images/img-missing-three-quarter-156.JPG)
 
 *Art by Frederic Dorr Steele*
 
