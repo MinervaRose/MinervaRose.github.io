@@ -12,7 +12,7 @@ Reflecting back on our first designs on socks and mugs, we thought it would be g
 
 One of our Sherlockian designs consists in Sherlock Holmes walking with Pompey on a leash, as originally created by American ilustrator Frederic Dorr Steele for *The adventure of the missing three-quarter.*
 
-![Frederic Dorr Steele](/images/Photograph_of_Frederic_Dorr_Steele.jpg){: width=166.5 height=274 style="float:none; padding:16px"}
+![Frederic Dorr Steele](/images/Photograph_of_Frederic_Dorr_Steele-166.jpg){: width=166.5 height=274 style="float:none; padding:16px"}
 
 *Photograph of Frederic Dorr Steele*
 
