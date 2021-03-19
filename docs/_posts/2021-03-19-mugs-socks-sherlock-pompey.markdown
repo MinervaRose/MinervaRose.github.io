@@ -4,7 +4,7 @@ date: 2021-03-19 09:45:06 -0500
 categories: redbubble socks mugs Sherlock
 ---
 
-At Violet and Oberon, we love re-creating the canonical illustrations for Sherlock Holmes by revisiting the beautiful artworks published along the original stories and redrawing and colorizing them.
+At Violet and Oberon, we love re-creating the canonical illustrations of Sherlock Holmes by revisiting the beautiful artworks published along the original stories and redrawing and colorizing them.
 
 Reflecting back on our first designs on socks and mugs, we thought it would be great to write a quick blog post to share how they compare.
 
