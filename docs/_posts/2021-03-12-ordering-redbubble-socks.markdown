@@ -82,7 +82,7 @@ We did not put them in the tumble dryer - they contain nylon.
 The **Redbubble label provides clear instructions**, make sure to read it carefully if you purchase some of the socks we designed.
 
 
-We hope that this blog post was informative and helped you to know what to expect when ordering socks on Redbubble and particularly from our [Violet And Oberon shop.](https://www.redbubble.com/people/VioletAndOberon/shop)
+We hope that this blog post was informative and helped you to know what to expect when ordering socks on Redbubble and particularly from our [VioletAndOberon shop.](https://www.redbubble.com/people/VioletAndOberon/shop)
 
 
 
