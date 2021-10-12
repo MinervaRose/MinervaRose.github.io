@@ -26,7 +26,7 @@ Since the printing process happens on woven fabric and not for instance on a pie
 
 You will notice when ordering your socks that they come as one size fits all. 
 Don't be alarmed! We have tested them ourselves: **they can be comfortably worn by those whose size ranges from size 6 to 13EEE.**
-The proof is in the pictures.
+The proof is in the pictures. 
 
 ![Socks Sherlock Holmes and Pompey size 8](/images/img_sock_pompey_size_8.JPG)
 
