@@ -22,7 +22,18 @@ Redbubble uses 360 Degree Sock Printing as stated in [this article](https://blog
 Since the printing process happens on woven fabric and not for instance on a piece of paper, a "slight fuzziness" is to be expected and the designs might not come out as crispy clear as on the simulated images but they are still very much amazing.
 
 
-### The case of the fantastic Edgar Allan Poe socks
+## Exceptional comfort and one size fits all
+
+You will notice when ordering your socks that they come as one size fits all. 
+Don't be alarmed! We have tested them ourselves: **they can be comfortably worn by those whose size ranges from size 6 to 13EEE.**
+The proof is in the pictures.
+
+![Socks Sherlock Holmes and Pompey size 8](/images/img_sock_pompey_size_8.JPG)
+
+![Socks Sherlock Holmes and Pompey size 13EEE](/images/img_sock_pompeu_size_13_EEE.JPG)
+
+
+## The case of the fantastic Edgar Allan Poe socks
 
 Let's take the example of our [Edgar Allan Poe The Raven design](https://www.redbubble.com/i/socks/Edgar-Allan-Poe-Raven-by-VioletAndOberon/70129308.9HZ1B).
 
