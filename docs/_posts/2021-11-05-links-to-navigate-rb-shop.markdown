@@ -44,7 +44,7 @@ I am not sure why, maybe it depends whether I am using my phone or using my desk
 [Latest tote bags](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=all-totes&sortOrder=recent)
 
 
-[![Latest mugs](/images/img-latest-mug.jpg){: width=250 height=333 style="float:none; padding:16px"}](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-mugs&sortOrder=recent&style=u-mug-regular)
+[![Latest mugs](/images/img-latest-mug.jpg){: width=75 height=100 style="float:none; padding:16px"}](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-mugs&sortOrder=recent&style=u-mug-regular)
 
 [Latest mugs](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-mugs&sortOrder=recent&style=u-mug-regular)
 
