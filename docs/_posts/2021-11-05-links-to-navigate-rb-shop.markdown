@@ -13,36 +13,44 @@ I am not sure why, maybe it depends whether I am using my phone or using my desk
 
 
 [![Baskerville blanket](/images/img-latest-designs-bed.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=all-departments&sortOrder=recent)
+
 Latest designs[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=all-departments&sortOrder=recent]
 
 
 [![Latest classic t-shirts](/images/img-latest-classic-t.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-tees&sortOrder=recent&style=u-tee-regular-crew
 )
+
 Latest classic t-shirts[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-tees&sortOrder=recent&style=u-tee-regular-crew
 ]
 
 
 [![Latest sleeveless tops](/images/img-latest-sleeveless-top.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-tees&sortOrder=recent&style=w-tank-panel-contrast)
+
 Latest sleeveless tops[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-tees&sortOrder=recent&style=w-tank-panel-contrast]
 
 
 [![Latest dresses](/images/img-latest-dresses.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=w-dresses)
+
 Latest dresses[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=w-dresses]
 
 
 [![Latest accessories](/images/img-latest-accessories.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=w-dresses)
+
 Latest accessories[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-accessories&sortOrder=recent]
 
 
 [![Latest tote bags](/images/img-latest-tote.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=all-totes&sortOrder=recent)
+
 Latest tote bags[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=all-totes&sortOrder=recent]
 
 
 [![Latest mugs](/images/img-latest-mug.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-mugs&sortOrder=recent&style=u-mug-regular)
+
 Latest mugs[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&iaCode=u-mugs&sortOrder=recent&style=u-mug-regular]
 
 
 [![The Christmas collection](/images/img-christmas-collection.jpg)](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&collections=2470387&iaCode=all-departments&sortOrder=trending)
+
 The Christmas collection[https://www.redbubble.com/people/violetandoberon/shop?artistUserName=violetandoberon&collections=2470387&iaCode=all-departments&sortOrder=trending]
 
 
