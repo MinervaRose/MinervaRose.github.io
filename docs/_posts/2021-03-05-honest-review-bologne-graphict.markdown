@@ -44,7 +44,7 @@ As you can see on the images above, the graphic t-shirt simulated images from Re
 
 VioletAndOberon chose the portrait by Mather Brown as the main reference for creating the design. Then created [9 different color palettes graphic t-shirts](https://www.redbubble.com/shop/?iaCode=u-tees&query=violetandoberon%20joseph%20bologne&sortOrder=relevant&style=m-tee-panel-slim-crew) for every occasion and oufits
 
-As stated on Redbubble Graphic t-shirts are printed with the *Sublimation transfer technique prints*. It allows for crisp, vivid colors and Edge-to-edge front print. Graphic t-shirts feel very soft. The front panel that gets printed is 96% polyester/4% spandex. The back panel, sleeves and neck bind are 100% cotton, and customers can choose either black or white.
+As stated on Redbubble, graphic t-shirts are printed with the *Sublimation transfer technique prints*. It allows for crisp, vivid colors and edge-to-edge front print. Graphic t-shirts feel very soft. The front panel that gets printed is 96% polyester/4% spandex. The back panel, sleeves and neck bind are 100% cotton, and customers can choose either black or white.
 
 I ordered [the one that preserved the original classical color scheme](https://www.redbubble.com/i/t-shirt/Joseph-Bologne-Chevalier-de-Saint-Georges-classical-portrait-by-VioletAndOberon/82480758.1YYVU).
 
@@ -54,7 +54,7 @@ Here it is, on a hanger.
 
 ![Joseph Bologne t-shirt on hanger](/images/Real graphic t shirt bologne1.png)
 
-The image is printed in such a crip way on the fabric. I can't state enough how delighted I am. 
+The image is printed in such a crisp way on the fabric. I can't state enough how delighted I am. 
 
 VioletAndOberon even featured it on [Instagram](https://www.instagram.com/violetandoberon/). 
 
