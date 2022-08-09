@@ -17,15 +17,15 @@ I had only purchased a beautiful graphic tank top from Hot Topic in the past, an
 
 ## Joseph Bologne, Chevalier de Saint-Georges, the Black Mozart
 
-Classical music has always been a part of my life. I started playing musical intruments before I could even read. The first concert I attended was the Symphony No.40 in G minor, K.550 by Wolfgang Amadeus Mozart. It took place in a Cathedral. I still remember how overwhelmed I felt, how the music took over the child that I was. I have been cherishing Mozart ever since.
+Classical music has always been a part of my life. I started playing musical intruments before I could even read. The first concert I attended was the Symphony No.40 in G minor, K.550 by Wolfgang Amadeus Mozart. It took place in a Cathedral. I still remember how overwhelmed I felt, how the music took over the child that I was. I have been cherishing the Viennese “school” ever since.
 
 Later on I was gifted books about Music History and read a line, above the Mozart entry, that stated, ***"Joseph Boulogne: Symphonies concertantes"***, not much really. But my curiosity was piqued. I was about eleven at the time, and this one line about a composer that I had never heard of felt like a Famous Five mystery. I remember asking my music theory teacher about him, and he said he did not know him. The next time I went to the music sheet store, I inquired, and the same answer was given to me. 
 
 I filed that strange case in my brain attic. 
 
-**30 years later, the mystery was solved!** I was reading the [Classic FM newsletter](https://www.classicfm.com/discover-music/periods-genres/film-tv/black-mozart-biopic-chevalier-de-saint-georges/), and saw his name again, and came to learn it was misspelled. *It's not Boulogne, it's Bologne.*
+**30 years later, the mystery was solved!** I was reading the [Classic FM newsletter](https://www.classicfm.com/discover-music/periods-genres/film-tv/black-mozart-biopic-chevalier-de-saint-georges/), and saw his name again, and upon extensive research, Icame to learn it was misspelled. *It's not Boulogne, it's Bologne.*
 
-I then listened to his music and I was shocked. It had a lot of Mozart's flair, but it dated from before Mozart!
+I then listened to the music he composed. Amazing. Enchanting, brilliant, superb, so much panache but not as over the top as Mozart. My musical brain was charmed and could not get enough. I could hear some of the motives composed by Mozart and probably representative of Mozart's time... but it dated from before Mozart.
 
 **Joseph Bologne, Chevalier de Saint-Georges**, was the [Black Mozart](https://www.wikiwand.com/en/Chevalier_de_Saint-Georges), a champion fencer, 18th-century amazing French prodigy.
 
