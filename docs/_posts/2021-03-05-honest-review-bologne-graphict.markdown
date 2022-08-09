@@ -1,5 +1,5 @@
 ---
-title: "How beautiful are Redbubble graphic t-shirts?"
+title: "How beautiful are our Redbubble graphic t-shirts Chevalier de Saint-Georges "
 date: 2021-03-05 09:45:06 -0500
 categories: redbubble
 ---
