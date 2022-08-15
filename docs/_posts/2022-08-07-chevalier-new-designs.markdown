@@ -64,10 +64,10 @@ I was so excited when I realised I could create my own designs on Redbubble to f
 We have more colors available, and even more types of gifts. Please discover our collection [here](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant) at VioletAndOberon on Redbubble and play around with the product filter to learn more. 
 
 
-We hope you will appreciate the love and care we put in our Chevalier de Saint-Georges designs and that you will acquire them on one of the Redbubble gorgeous products soon.
+We hope you will appreciate the love and care we put in our Chevalier de Saint-Georges designs and that you will acquire one of these gorgeous products soon.
 
 
-We warmly accept commisions, kindly reach out to our email address, contact at violetandoberon dot com.
+We warmly welcome commisions, kindly reach out to our email address, contact at violetandoberon dot com.
 
 
 Please consider following us on [Instagram](https://www.instagram.com/violetandoberon/).
