@@ -11,13 +11,13 @@ categories: redbubble
 # *We are so excited by our new Joseph Bologne T-shirts*
 
 
-We have been adding some [Joseph Bologne designs to on our Redbubble store](https://www.redbubble.com/people/VioletAndOberon/shop?ref=account-nav-dropdown) and can't wait to order some for ourselves.
+We have been adding some [Joseph Bologne designs to on our Redbubble store](https://www.redbubble.com/people/VioletAndOberon/shop?ref=account-nav-dropdown) and our recently opened [Teepublic store](https://www.teepublic.com/user/violetandoberon) and we can't wait to order some T-shirts and mugs for ourselves.
 
 
 ## Joseph Bologne, Chevalier de Saint-Georges, first classical composer of African ancestry
 
 
-As we mentioned in [this previous blog post](https://www.violetandoberon.com/redbubble/2021/03/05/honest-review-bologne-graphict.html), I am in love with his music. 
+As mentioned in [this previous blog post](https://www.violetandoberon.com/redbubble/2021/03/05/honest-review-bologne-graphict.html), I am in love with his music. 
  
  
 **Joseph Bologne, Chevalier de Saint-Georges**, was a [composer](https://www.wikiwand.com/en/Chevalier_de_Saint-Georges), son of a slave and a French plantation owner. He rose to the heights of French society.
@@ -65,7 +65,7 @@ I was so excited when I realised I could create my own designs on Redbubble to f
 
 
 
-We have more colors available, and even more types of gifts. Please discover our collection [here](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant) at VioletAndOberon on Redbubble and play around with the product filter to learn more. 
+We have more colors available, and even more types of gifts. Please discover our collection [here](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant) at VioletAndOberon on Redbubble and at VioletAndOberon on [Teepublic](https://www.teepublic.com/user/violetandoberon) and play around with the product filter to learn more. 
 
 
 We hope you will appreciate the love and care we put in our Chevalier de Saint-Georges designs and that you will acquire one of these gorgeous products soon.
