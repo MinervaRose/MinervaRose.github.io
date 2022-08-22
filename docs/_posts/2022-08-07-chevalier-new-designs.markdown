@@ -55,7 +55,7 @@ I was so excited when I realised I could create my own designs on Redbubble to f
 ![Joseph Bologne t-shirts](/images/img-bologne-play-it1.png)
 
 
-![Joseph Bologne t-shirts](/img-bologne-stencil.jpg)
+![Joseph Bologne t-shirts](/images/img-bologne-stencil.jpg)
 
 
 ![Joseph Bologne t-shirts](/images/img-bologne-quote-sighing.png)
