@@ -145,14 +145,14 @@ If your wire was already grey of white, you may wish to leave it as it is, with 
 If you are even more perfectionist than our Violet, you cut add more details to your violin, using beads, paper, felt, embroidery thread. The only limit is your imagination.
 
 
-![Adorable amigurumi Sherlock](/images/IMG-4397.JPG)
+![Adorable amigurumi Sherlock](/images/IMG-4397b.JPG)
 
 This is so adorable. The tiny violin and bow proportions go really well with little Sherlock.
 
 
 If you are intending to make this amigurumi project as a gift, you might wish to complement it with some of the beautiful mugs, t-shirts, and other great Sherlockian, Holmesian, and Watsonian products from the VioletAndOberon shops on [Redbubble](https://www.redbubble.com/people/violetandoberon/shop) and [Teepublic](https://www.teepublic.com/user/violetandoberon).
 
-![VioletAndOberon gifts](/images/IMG-4937.JPG)
+![VioletAndOberon gifts](/images/IMG-4429b.JPG)
 
 We hope you enjoyed this pattern created by Violet from VioletAndOberon. 
 
