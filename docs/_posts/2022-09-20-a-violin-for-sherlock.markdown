@@ -142,7 +142,7 @@ If your wire was already grey of white, you may wish to leave it as it is, with 
 
 ## Optional details
 
-If you are even more perfectionist than our Violet, you cut add more details to your violin, using beads, paper, felt, embroidery thread. The only limit is your imagination.
+If you are even more perfectionist than our Violet, you could add more details to your violin, using beads, paper, felt, embroidery thread. The only limit is your imagination.
 
 
 ![Adorable amigurumi Sherlock](/images/IMG-4397b.JPG)
@@ -156,7 +156,7 @@ If you are intending to make this amigurumi project as a gift, you might wish to
 
 We hope you enjoyed this pattern created by Violet from VioletAndOberon. 
 
-If posting one of our creations on Social Media, please consider giving us a shoutout. Thank you.
+When posting one of our designs and other creations on Social Media, please consider giving us a shoutout. Thank you.
 
 
 
