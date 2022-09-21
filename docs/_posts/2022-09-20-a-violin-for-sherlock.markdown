@@ -152,7 +152,7 @@ This is so adorable. The tiny violin and bow proportions go really well with lit
 
 If you are intending to make this amigurumi project as a gift, you might wish to complement it with some of the beautiful mugs, t-shirts, and other great Sherlockian, Holmesian, and Watsonian products from the VioletAndOberon shops on [Redbubble](https://www.redbubble.com/people/violetandoberon/shop) and [Teepublic](https://www.teepublic.com/user/violetandoberon).
 
-![Sherlock Holmes and VioletAndOberon gifts](/images/IMG-4937.JPG)
+![VioletAndOberon gifts](/images/IMG-4937.JPG)
 
 We hope you enjoyed this pattern created by Violet from VioletAndOberon. 
 
