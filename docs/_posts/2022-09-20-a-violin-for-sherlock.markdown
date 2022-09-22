@@ -27,18 +27,27 @@ In this pattern, Violet tried to create as many parts of the violin as possible.
 ## Materials
 
 2.5 or 3 mm hook
+
 Acrylic yarn in beige, black, and white
+
 Depending on how much details you choose to add to your violin you might need some paper, cardboard, embroidery thread.
+
 
 
 ## Abbreviations
 
 ch chain
+
 ss slip stitch
+
 sc single crochet
+
 hdc half double crochet
+
 dc double crochet
+
 blo back loop only
+
 
 
 ## Top and back plates 
