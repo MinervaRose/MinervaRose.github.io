@@ -23,6 +23,24 @@ So Violet took up the challenge of creating a teeny tiny crocheted violin for li
 
 In this pattern, Violet tried to create as many parts of the violin as possible.
 
+
+## Materials
+
+2.5 or 3 mm hook
+Acrylic yarn in beige, black, and white
+Depending on how much details you choose to add to your violin you might need some paper, cardboard, embroidery thread.
+
+
+## Abbreviations
+
+ch chain
+ss slip stitch
+sc single crochet
+hdc half double crochet
+dc double crochet
+blo back loop only
+
+
 ## Top and back plates 
 
 Make two.
@@ -140,6 +158,10 @@ Optional.
 
 If your wire was already grey of white, you may wish to leave it as it is, with the bare wire standing for the hair. If not, feel free to cut the wire and replace it with a thread of white yarn.
 
+
+![Cute Amigurumi violin](/images/IMG-4475b.JPG)
+
+
 ## Optional details
 
 If you are even more perfectionist than our Violet, you could add more details to your violin, using beads, paper, felt, embroidery thread. The only limit is your imagination.
@@ -154,9 +176,7 @@ If you are intending to make this amigurumi project as a gift, you might wish to
 
 ![VioletAndOberon gifts](/images/IMG-4429b.JPG)
 
-We hope you enjoyed this pattern created by Violet from VioletAndOberon. 
-
-When posting one of our designs and other creations on Social Media, please consider giving us a shoutout. Thank you.
+We hope you enjoyed this pattern created by Violet from VioletAndOberon. Kindly give credit and link back to this post when using this pattern and posting your own little violin pictures. Thank you.
 
 
 
