@@ -4,7 +4,7 @@ date: 2022-09-26 09:45:06 -0500
 categories: crochet
 ---
 
-![no-alignment]({{ '/images/IMG-4813.JPG' | absolute_url }})
+![no-alignment]({{ '/images/IMG-4813.jpg' | absolute_url }})
 
 A few weeks ago, Violet posted the little Sherlock Holmes and his tiny violin and bow that she crocheted on Instagram. We were overwhelmed by the amount of very kind messages that we received and we listened to your suggestion of creating a Basil Rathbone amigurumi. 
 
@@ -16,7 +16,7 @@ While you can follow the entire instructions of the head, torso, arms, and legs,
 
 Your goal is to stitch strands of brown yarn in a sleek manner. I advise that you start with the hairline on the top of the forehead and going a bit towards the back as you reach the temples, then in front of the ears. Finish with the hair at the back of the head.
 
-![Hairline of Basil Rathbone](/images/IMG-4812.JPG)
+![Hairline of Basil Rathbone](/images/IMG-4812.jpg)
 
 
 # Detective outfit: Inverness coat and deerstalker hat
@@ -144,7 +144,7 @@ R1-3 skip first ch from the hook. Sc in the next four stitches, ch 1, turn.
 Sew pockets on coat.
 
 
-![Inverness coat](/images/IMG-4813.JPG)
+![Inverness coat](/images/IMG-4813.jpg)
 
 
 ## Deerstalker hat
@@ -196,7 +196,7 @@ Fasten off.
 Sew the flaps so that they stay upwards. Then you might wish a little bow knot between them. 
 
 
-![Deerstalker hat](/images/IMG-4813.JPG)
+![Deerstalker hat](/images/IMG-4813.jpg)
 
 
 We hope that you enjoyed these patterns to create your a deerstalker hat and inverness coat for your own little crocheted Basil Rathbone as Sherlock Holmes.
