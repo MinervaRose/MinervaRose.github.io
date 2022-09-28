@@ -6,15 +6,15 @@ categories: crochet
 
 ![no-alignment]({{ '/images/IMG-4813.jpg' | absolute_url }})
 
-A few weeks ago, Violet posted the little Sherlock Holmes and his tiny violin and bow that she crocheted on Instagram. We were overwhelmed by the amount of very kind messages that we received and we listened to your suggestion of creating a Basil Rathbone amigurumi. 
+A few weeks ago, Violet posted the picture of the little Sherlock Holmes and his tiny violin and bow that she crocheted on Instagram. We were overwhelmed by the amount of very kind messages that we received and we listened to your suggestion of creating a Basil Rathbone amigurumi. 
 
 We thought the simplest way to do so, particularly since some of our followers were already working on the wonderful pattern created by [Vilonal on Ravelry](https://www.ravelry.com/patterns/library/crocheted-consulting-detective), was to adapt it to go from Benedict Cumberbatch to Basil Rathbone. 
 
 # Hair
 
-While you can follow the entire instructions of the head, torso, arms, and legs, you will have to change the hair. 
+While you should follow the entire instructions for crocheting the head, torso, arms, and legs, you will have to change the hair. 
 
-Your goal is to stitch strands of brown yarn in a sleek manner. I advise that you start with the hairline on the top of the forehead and going a bit towards the back as you reach the temples, then in front of the ears. Finish with the hair at the back of the head.
+Your goal is to stitch strands of brown yarn in a sleek manner. I advise that you start with the hairline on the top of the forehead and going a bit towards the back as you reach the temples, then the sides in front of the ears. Finish with the hair at the back of the head.
 
 ![Hairline of Basil Rathbone](/images/IMG-4812.jpg)
 
@@ -193,17 +193,17 @@ R6 ch1, turn, sc2tog, sc, sc2tog.
 
 Fasten off.
 
-Sew the flaps so that they stay upwards. Then you might wish a little bow knot between them. 
+Sew the flaps so that they stay upwards. Then you might wish to sew a little bow knot between them. 
 
 
 ![Deerstalker hat](/images/IMG-4813.jpg)
 
 
-We hope that you enjoyed these patterns to create your a deerstalker hat and inverness coat for your own little crocheted Basil Rathbone as Sherlock Holmes.
+We hope that you enjoyed these patterns to create a deerstalker hat and inverness coat for your own little crocheted Basil Rathbone Sherlock Holmes.
 
 Follow VioletAndOberon on [Instagram](https://www.instagram.com/violetandoberon/) for the latest news, ideas, and promotion codes on our designs at [Redbubble](https://www.redbubble.com/people/violetandoberon/shop) and [Teepublic](https://www.teepublic.com/user/violetandoberon).
 
 We believe that a cute crocheted Basil Rathbone along with one of the mugs or T-shirts that we designed would make a great gift for your favorite fan of Sherlock Holmes. Check us out [here](https://www.redbubble.com/people/violetandoberon/shop).
 
-*Please note: as clearly expressed by by [Vilonal on Ravelry](https://www.ravelry.com/patterns/library/crocheted-consulting-detective), her pattern is for private use only.*
+*Please note: as clearly expressed by by [Vilonal on Ravelry](https://www.ravelry.com/patterns/library/crocheted-consulting-detective), the original pattern of amigurumi detective is for private use only.*
 
