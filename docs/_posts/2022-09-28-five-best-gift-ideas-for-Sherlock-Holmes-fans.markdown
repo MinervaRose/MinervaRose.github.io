@@ -23,7 +23,7 @@ The first edition of *The Hound of the Baskervilles* published by George Newnes 
 
 #### Practical reason
 
-Everybody needs a mug. It is a budget-friendly gift. It will always be used and remind the recipient of your kind gesture.
+Everybody needs a mug. It is a budget-friendly gift. It will always be used and remind the recipient of your kind gesture. The gold is simulated, it is ink, not a metallic foil. This means your mug can be filled with a kettle but it can also be put safely in the microwave.
 
 Find it [here](https://www.redbubble.com/shop/?query=VioletAndOberon%20Baskervilles%20red&ref=search_box)
 
@@ -35,7 +35,7 @@ If your fan of Sherlock Holmes also adores dogs, we found the most amazing gift:
 
 #### Sherlockian reason for choosing this gift
 
-These dogs make such an adorable representation of Sherlock Holmes and Dr. Watson. 
+These dogs make one of the most adorable representations of Sherlock Holmes and Dr. Watson. 
 
 **You can hardly make more cute and dapper** than this cute pudgy pug wearing a bowler hat and tall slender curly Sherlock wearing a deerstalker hat.
 
@@ -49,13 +49,13 @@ Find it [here](https://www.redbubble.com/i/t-shirt/221b-Barker-Street-Sherlock-a
 
 # 3 Sherlock Holmes birthday celebration sweatshirt
 
-Do you know when Sherlock Holmes was born? Fans of Sherlock Holmes consider that he was born on January 6, 1854. While many fans would go as far as wearing an Inverness coat and deerstalker hat, all will be proud to wear this cozy and elegant pullover sweatshirt featuring the most famous profile illustration of Sherlock Holmes along with his date of birth.  
+Do you know when Sherlock Holmes was born? Fans of Sherlock Holmes consider that he was born on January 6, 1854. While many fans would go as far as wearing an Inverness coat and deerstalker hat, all will be proud to wear this cozy and elegant pullover sweatshirt featuring the most famous profile illustration of Sherlock Holmes along with his date of birth in a fancy commemorative banner.  
 
 ![Sherlock Holmes birthday sweatshirt](/images/sherlock-holmes-birthday-pullover-sweatshirt.jpg)
 
 #### Sherlockian reason for choosing this gift
 
-If there is one day of the year when Sherlock Holmes fan can show off their appreciation of the world's greatest detective, it is January 6, and what best than a beautiful warm pullover sweatshirt to express their belonging to the Sherlockian fandom? 
+If there is one day of the year when Sherlock Holmes fans can show off their appreciation of the world's greatest detective, it is January 6, and what best than a beautiful warm pullover sweatshirt to express their belonging to the Sherlockian fandom? 
 
 #### Practical reason
 
@@ -107,7 +107,7 @@ For a very large printed area and a premium cotton, choose the premium T-shirt, 
 
 # Bonus
 
-We couldn't finish this review of the best gifts for fan of Sherlock Holmes without mentioning a gift that is definitely more for fans of Dr. Watson. 
+We couldn't finish this review of the best gifts for fans of Sherlock Holmes without mentioning a gift that is definitely more for fans of Dr. Watson. 
 
 ### The adorable Watsonian good boy
 
