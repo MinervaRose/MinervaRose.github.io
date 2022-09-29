@@ -1,29 +1,29 @@
 ---
 title: "Best gift ideas for Sherlock Holmes fans: our top five"
 date: 2022-09-28 09:45:06 -0500
-categories: crochet
+categories: gift
 ---
 
 ![no-alignment]({{ '/images/newnes-red-mug-signed.jpg' | absolute_url }})
 
-You have to choose a surprise gift to a fan of Sherlock Holmes but you have no idea what to pick? We got you. Here are the best gift ideas that will delight Sherlockians and Holmesians alike.
+You have to choose a surprise gift for a fan of Sherlock Holmes but you have no idea what to pick? We got you. Here are the best gift ideas that will delight Sherlockians and Holmesians alike.
 
-# 1 The mug of The Hound of the Baskervilles by Arthur Conan Doyle.
+# 1 The mug of The Hound of the Baskervilles by Sir Arthur Conan Doyle.
 
-Featuring the cover of *The Hound of the Baskervilles* by Sir Arthur Conan Doyle this bright red mug will turn every cup of tea or coffee into a Sherlockian pleasure.
+Featuring the cover of *The Hound of the Baskervilles* by Sir Arthur Conan Doyle this bright red mug will turn every cup of tea or coffee into a true moment of Sherlockian indulgence.
 
 ![Hound of the Baskervilles mug](/images/newnes-red-mug-signed.jpg)
 
 
 #### Sherlockian reason for choosing this gift
 
-This image is absolutely iconic for all fans of Sherlock Holmes. The illustrator, Sidney Paget, is the artist who created the look of Sherlock Holmes as imagined by generations of readers of the adventures of the wolrd's greatest detective. 
+This image is absolutely iconic for all fans of Sherlock Holmes. The illustrator, Sidney Paget, is the artist who created the look of Sherlock Holmes as imagined by generations of readers of the Adventures of the world's greatest detective. 
 
-The first edition of *The Hound of the Baskervilles* published by George Newnes Ltd in 1902, with its dramatic red, gold, and black is one of the most coveted collectables.
+The first edition of *The Hound of the Baskervilles* published by George Newnes Ltd in 1902, with its strikingly dramatic touches of red, gold, and black is one of the most coveted treasures for collectors.
 
 #### Practical reason
 
-Everybody needs a mug. It is a budget-friendly gift. It will always be used and remind the recipient of the gift of your kind gesture.
+Everybody needs a mug. It is a budget-friendly gift. It will always be used and remind the recipient of your kind gesture.
 
 Find it [here](https://www.redbubble.com/shop/?query=VioletAndOberon%20Baskervilles%20red&ref=search_box)
 
@@ -59,7 +59,7 @@ If there is one day of the year when Sherlock Holmes fan can show off their appr
 
 #### Practical reason
 
-This gorgeous pullover swearthirt is ethically sourced following the World Responsible Apparel Practices Standards. 
+This gorgeous pullover sweatshirt is ethically sourced following the World Responsible Apparel Practices Standards. 
 One very pratical consideration, if you live in the Northern Hemisphere your Sherlockian will definitely prefer wearing a sweatshirt to a T-shirt. If you live in the Southern Hemisphere, feel free to pick some light top instead.
 
 Find it [here](https://www.redbubble.com/i/sweatshirt/Sherlock-Holmes-Birthday-Celebration-January-6-1854-dark-red-by-VioletAndOberon/98580970.73735)
@@ -76,7 +76,7 @@ Not only does it look extremely Sherlockian with the cute little detective figur
 
 #### Practical reason
 
-This Sherlock Holmes styled notebook has 120 pages and a document pocket in the back cover. It is a nice and useful gifts, particularly for students and people who take a lot of notes.
+This Sherlock Holmes styled notebook has 120 pages and a document pocket in the back cover. It is a nice and useful gift, particularly for students and people who take a lot of notes.
 
 Find it [here](https://www.redbubble.com/i/notebook/221b-Baker-Street-Sherlock-Holmes-black-by-VioletAndOberon/116159378.WX3NH)
 
