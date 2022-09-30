@@ -12,9 +12,9 @@ It can be a particularly daunting task when you need a gift for someone who is a
 
 Indeed, if they have read all the books, if they own all the books, what is there left to gift?
 
-Faced with the same problem myself, and resolute not to make it final, I questioned Sherlockians about what made the canon so special. All mentioned the wonderful art of Sidney Paget that was created to accompany Sir Arthur Conan Doyle's Sherlock Holmes stories in The Strand Magazine. 
+Faced with the same problem myself and resolute not to make it final, I questioned Sherlockians about what made the canon so special. All mentioned the wonderful art of Sidney Paget that was created to accompany Sir Arthur Conan Doyle's Sherlock Holmes stories in The Strand Magazine. 
 
-Sidney Paget's illustrations were printed in black. Not very festive. So I found the 5 best gifts for the fans of the canon of Sherlock Holmes and Sidney Paget , modernized, with bright colors and high definition illustrations.
+Sidney Paget's illustrations were printed in black. Not very festive. So I found the 5 best gifts for the fans of the canon of Sherlock Holmes and Sidney Paget, modernized, with bright colors and high definition illustrations.
 
 # 1 Wall art of The Hound of the Baskervilles by Sir Arthur Conan Doyle
 
@@ -22,7 +22,7 @@ All fans of the Sherlock Holmes canon love the book cover of the first edition o
 
 ![Hound of the Baskervilles mounted print](/images/hound-baskervilles-red-mounted-print.png)
 
-A mounted print of Sidney Paget's Hound would be a great gift by adorning any Sherlockian corner, whether in a book nook, on top of an altar with cherished collectibles, or proudly hanged in a living room.
+A mounted print of Sidney Paget's Hound would make a great gift by adorning any Sherlockian corner, whether in a book nook, on top of an shrine with cherished collectibles, or proudly hanged in a living room.
 
 Available [here](https://www.redbubble.com/i/canvas-print/The-Hound-of-the-Baskervilles-1902-red-mounted-print-by-VioletAndOberon/85583292.3PBQX).
 
@@ -41,7 +41,7 @@ Available [here](https://www.redbubble.com/i/mug/Sherlock-Holmes-Consulting-Dete
 
 # 3 Pencil case of the Hound of the Baskervilles glowing in the night
 
-If The Hound of the Baskervilles is one of the most known adventures of Sherlock Holmes for non Sherlockians and Sherlockians alike, it is because it goes beyond the classic investigation. While in other adventures of Sherlock Holmes there are villains, scoundrels, or unfortunate accidents, in The Hound of the Baskervilles there is a monster, which gives a fantastic dimension to the story. 
+If The Hound of the Baskervilles is one of the most known adventures of Sherlock Holmes for non Sherlockians and Sherlockians alike, it is because it goes beyond the classic investigation. Other adventures of Sherlock Holmes have their villains, scoundrels, or unfortunate accidents, but in The Hound of the Baskervilles there is a monster, which gives a fantastic dimension to the story. 
 
 The illustrations of Sidney Paget froze the demoniac animal running in the night thus revealing its incredible strength and eerily ominous glow despite the limitations of black ink of The Strand Magazine. 
 
@@ -55,7 +55,7 @@ Available [here](https://www.redbubble.com/i/pouch/Hound-Baskervilles-night-pouc
 
 # 4 Mug of Sherlock Holmes and Dr. Watson in the train by Sidney Paget
 
-One of the most important aspects of the Adventures of Sherlock Holmes that contributed to their worldwide fame is the deep and true friendship between Sherlock Holmes and Dr. Watson. Sidney Paget has beautifully captured its essence in many of his illustrations and particularly the one in which Sherlock Holmes is sitting in the train, facing Watson, and talking about the case at hand - the Adventure of Silver Blaze.
+One of the most important aspects of the Adventures of Sherlock Holmes that has contributed to their worldwide fame is the deep and true friendship between Sherlock Holmes and Dr. Watson. Sidney Paget has beautifully captured its essence in many of his illustrations and particularly the one in which Sherlock Holmes is sitting in the train, facing Watson, and talking about the case at hand - the Adventure of Silver Blaze.
 
 I love this amazingly colorful mug. It is a beautiful tribute to the original art of Sidney Paget. You can literally see the light shimmer through the windows of the train and dance on Sherlock's coat. Sherlock's piercing eyes and enthusiastic mannerisms shine and balance Watson's more stoic ways.
 
@@ -76,7 +76,7 @@ These T-shirts will bring joy to fans of the Sherlock Holmes canon. Each of them
 
 Find the black one [here](https://www.redbubble.com/i/t-shirt/Sherlock-Holmes-adventures-Page-Dorr-Steele-Gibson-squares-tee-shirt-c-by-VioletAndOberon/80521211.IJ6L0.XYZ) and the grey one [here](https://www.redbubble.com/i/t-shirt/Sherlock-Holmes-adventures-viewed-by-Sidney-Paget-b-large-print-by-VioletAndOberon/79739710.0S66D). 
 
-There is a large choice of T-shirt styles. If you are not set up on a specific type, such baseball T-shirts, I would advise to narrow it down in the following mannner.
+There is a large choice of T-shirt styles. If you are not set up on a specific type, such as baseball T-shirts, I would advise to narrow it down in the following mannner.
 
 By size: if you need to purchase a 4 XL or 5 XL, look into classic T-shirts.
 
