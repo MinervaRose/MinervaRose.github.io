@@ -46,7 +46,7 @@ The illustrations of Sidney Paget froze the demoniac animal running in the night
 
 This pencil case re-creates the famous art of Sidney Paget in vibrant colors. It is gorgeous, sturdy, practical, in one word the best gift for fans of the Sherlock Holmes canon who prefer pencils to keyboards.
 
-![Hound of the Baskervilles pencil case](/images/shound-baskervilles-night-blue-pouch.png)
+![Hound of the Baskervilles pencil case](/images/hound-baskervilles-night-blue-pouch.png)
 
 Available [here](https://www.redbubble.com/i/pouch/Hound-Baskervilles-night-pouches-by-VioletAndOberon/80034190.440R3).
 
@@ -66,7 +66,7 @@ Available [here](https://www.redbubble.com/i/mug/Sherlock-Holmes-Watson-train-Si
 
 # 5 T-shirts of the Adventures of Sherlock Holmes
 
-These T-shirts will bring joy to fans of the Sherlock Holmes canon. Each of them is printed with nine illustrations related to the original stories. Sherlockians will enjoy showing off their favorite adventures such as Scandal in Bohemia, Silver Blaze, The Solitary Cyclist, The Speckled Bands, The Blue Carbuncle, and more. 
+These T-shirts will bring joy to fans of the Sherlock Holmes canon. Each of them is printed with nine illustrations related to the original stories. Sherlockians will enjoy showing off their favorite adventures such as Scandal in Bohemia, Silver Blaze, The Solitary Cyclist, The Speckled Band, The Blue Carbuncle, and more. 
 
 
 ![Sherlock Holmes adventures black T-shirt](/images/sherlock-holmes-adventures-blackt.png)
