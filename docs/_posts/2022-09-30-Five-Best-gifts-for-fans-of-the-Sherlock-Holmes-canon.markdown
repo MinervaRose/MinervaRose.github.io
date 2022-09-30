@@ -1,6 +1,6 @@
 ---
 title: "The five best gifts for fans of the canon of Sherlock Holmes: special Sidney Paget"
-date: 2022-11-26 09:45:06 -0500
+date: 2022-09-30 09:45:06 -0500
 categories: gift
 ---
 
