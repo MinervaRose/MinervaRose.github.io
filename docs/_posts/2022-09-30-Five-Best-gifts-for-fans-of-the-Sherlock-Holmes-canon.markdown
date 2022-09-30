@@ -42,6 +42,7 @@ Available [here](https://www.redbubble.com/i/mug/Sherlock-Holmes-Consulting-Dete
 # 3 Pencil case of the Hound of the Baskervilles glowing in the night
 
 If The Hound of the Baskervilles is one of the most known adventures of Sherlock Holmes for non Sherlockians and Sherlockians alike, it is because it goes beyond the classic investigation. While in other adventures of Sherlock Holmes there are villains, scoundrels, or unfortunate accidents, in The Hound of the Baskervilles there is a monster, which gives a fantastic dimension to the story. 
+
 The illustrations of Sidney Paget froze the demoniac animal running in the night thus revealing its incredible strength and eerily ominous glow despite the limitations of black ink of The Strand Magazine. 
 
 This pencil case re-creates the famous art of Sidney Paget in vibrant colors. It is gorgeous, sturdy, practical, in one word the best gift for fans of the Sherlock Holmes canon who prefer pencils to keyboards.
@@ -87,7 +88,15 @@ Premium: premium T-shirts are worth their price. The illustrations are printed o
 
 ## Reichenbach Falls: there will be tears
 
-Sidney Paget has created an iconic illustration of the fight between Professor Moriarty and Sherlock Holmes at Reichenbach Falls. You cannot make more Sherlock Holmes canon than this specific artwork. The Sherlockians with whom I have discussed it said that their heart breaks when they think about it, because of the struggle and courage of Sherlock Holmes while facing the incarnation of evil, because of how he protected Dr. Watson, because of his demise, and because of  Watson's utter despair and sorrow. But his sacrifice turned him into so much more than a mere character, figment of one's imagination, it gave him the same reality that gods are made of which compelled Sir Arthur Conan Doyle to bring him back - the hero not only triumphed over evil but also over his own creator. Fans do not merely love Sherlock Holmes - they believe in him.  
+Sidney Paget has created an iconic illustration of the fight between Professor Moriarty and Sherlock Holmes at Reichenbach Falls. 
+
+You cannot make more Sherlock Holmes canon than this specific artwork. 
+
+The Sherlockians with whom I have discussed it said that their heart breaks when they think about it, because of the struggle and courage of Sherlock Holmes while facing the incarnation of evil, because of how he protected Dr. Watson, because of his demise, and because of  Watson's utter despair and sorrow.
+
+But his sacrifice turned him into so much more than a mere character, figment of one's imagination, it gave him the same reality that gods are made of which compelled Sir Arthur Conan Doyle to bring him back - the hero not only triumphed over evil but also over his own creator. 
+
+Fans do not merely love Sherlock Holmes - they believe in him.  
 
 ![Sherlock Holmes and Moriarty at Reichenbach Falls mug](/images/sherlock-reichenbach-falls-mug.png)
 
