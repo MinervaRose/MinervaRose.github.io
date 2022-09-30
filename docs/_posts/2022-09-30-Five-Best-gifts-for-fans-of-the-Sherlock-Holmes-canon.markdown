@@ -22,7 +22,7 @@ All fans of the Sherlock Holmes canon love the book cover of the first edition o
 
 ![Hound of the Baskervilles mounted print](/images/hound-baskervilles-red-mounted-print.png)
 
-A mounted print of Sidney Paget's Hound would make a great gift by adorning any Sherlockian corner, whether in a book nook, on top of an shrine with cherished collectibles, or proudly hanged in a living room.
+A mounted print of Sidney Paget's Hound would make a great gift by adorning any Sherlockian corner, whether in a book nook, on top of a shrine with cherished collectibles, or proudly hanged in a living room.
 
 Available [here](https://www.redbubble.com/i/canvas-print/The-Hound-of-the-Baskervilles-1902-red-mounted-print-by-VioletAndOberon/85583292.3PBQX).
 
