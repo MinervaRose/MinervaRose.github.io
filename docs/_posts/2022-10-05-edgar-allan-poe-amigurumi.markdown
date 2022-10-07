@@ -10,14 +10,19 @@ As far as I can remember, I have always loved Edgar Allan Poe. I am particularly
 
 In this free crochet pattern, I tried to capture Edgar Allan Poe's emotions and his major physical characteristics so that he would not look too generic. He is Edgar, not just any crochet doll. I still aimed at retaining a lot of cuteness despite the tragic of his face. I also wanted to honour his poems and crocheted a tiny raven and a crowned worm. 
 
+**Please note that this is a work in progress to be completed in October 2022**
+
 # Edgar
+
+Unless mentioned otherwise, use 3 mm hook.
 
 ## Head 
 
 With white yarn.
 
+Ch2.
 
-R1 6 sc in a magic ring (6)
+R1 6 sc in first st of the chain (6)
 
 R2 2 sc in each st around (12)
 
@@ -65,5 +70,56 @@ Switch to black yarn.
 R11-13 sc in each st around
 
 R14-16 repeat sc2tog. finish off and weave in the tail.
+
+## Arms
+
+With white yarn.
+
+Ch2.
+
+R1 4 sc in first st of the chain
+
+R2 Repeat *2 sc in the next st, sc in the next st*
+
+R3-4 sc in each st around
+
+R5 ch2. We are switching to dc instead of sc - 2 dc in in the next st then dc in each st around
+
+R6 2 dc in in the next st then dc in each st around
+
+R7 2 dc in in the next st then dc in each st around
+
+R8-9 dc in each st around
+
+
+## Cuffs
+
+Use 2.5 mm hook.
+
+With white yarn.
+
+R1 insert your hook at R4 of the arm, ss, then sc all around
+
+R2 dc in each st around
+
+## Shirt collar
+
+With white yarn.
+
+Use 3 mm hook.
+
+R1 insert your hook in the middle of the torso at the basis of the neck, ss, then sc all around
+
+R2 ch 3. 1 tr in in the same st, 2 tr in the next st, 1 tr and 1 dc in the next st, then repeat *2 dc in the next st, 1 dc in the next st*, then for the last 3 st do 1 tr and 1 dc in the next st, 2 tr in the next st, 2 tr in the next st.
+
+
+
+
+
+
+
+
+
+
 
 
