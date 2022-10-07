@@ -12,7 +12,7 @@ In this free crochet pattern, I tried to capture Edgar Allan Poe's emotions and 
 
 **Please note that this is a work in progress to be completed in October 2022**
 
-This pattern is for private use only.
+This pattern is for private use only. If posting it on social media, kindly mention that it was originally designed by VioletAndOberon.
 
 # Edgar
 
