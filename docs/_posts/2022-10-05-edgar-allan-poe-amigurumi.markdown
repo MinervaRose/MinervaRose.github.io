@@ -12,6 +12,8 @@ In this free crochet pattern, I tried to capture Edgar Allan Poe's emotions and 
 
 **Please note that this is a work in progress to be completed in October 2022**
 
+This pattern is for private use only.
+
 # Edgar
 
 Unless mentioned otherwise, use 3 mm hook.
@@ -81,19 +83,33 @@ With black yarn.
 Ch 2.
 
 R1 6 sc in first st of chain
+
 R2 2 sc in each st around (12)
+
 R3-5 sc in each st around (12)
+
 R6 sc2tog, sc in the next 10 st (11)
+
 R7 sc in each st around (11)
+
 R8 sc2tog, sc in the next 9 st (10)
+
 R9 sc in each st around (10)
+
 R10 sc2tog, sc in the next 8 st (9)
+
 R11 sc in each st around (9)
+
 R12 sc2tog, sc in the next 7 st (8)
+
 R13 sc in each st around (8)
+
 R14 sc2tog, sc in the next 6 st (7)
+
 R15 sc in the next 3 st, ch 1, turn
+
 R16 2 sc in the 1st st, sc in the next st, 2 sc in the next st, ch 1, turn
+
 R17 sc in those 5 st
 
 ### Foot
@@ -186,6 +202,11 @@ You may choose to simply sew threads of yarn.
 You can also create strands of hair to sew on.
 
 ch 6, then ss all along. Use the tail to sew on head.
+
+
+Well done for finishing the head and body of little Edgar!
+
+
 
 ## Waistcoat
 
@@ -310,16 +331,66 @@ In order for the lapels to look like they are folded as a mirror image, you will
 R2 starting from the sc at the top of the coat. 2 dc in the first stitch, triple in the next stitch, ch 3, ss in next stitch, ss in next stitch, ch 3, triple in next stitch, dc in next 2 stitches, hdc in the remaining stitches.
 
 
+## The Conqueror Worm with his crown
+
+We start from the tail in pink yarn.
+
+ch 2.
+
+R1 6 sc in first st of the chain
+
+R2-5 sc in each stitch around
+
+R6 2 sc in first st, sc in the next 3 st, 2 sc in the next st, sc in the next st
+
+R7-9 sc in each stitch around
+
+Switch color to red
+
+R10-14 sc in each stitch around
+
+Switch color to pink
+
+R15 sc in each stitch around
+
+R16 sc2tog, sc in remaining st
+
+R17 2 sc in next st, sc in next 2 st, 2 sc in next st, sc in remaining st
+
+R18 2 sc in next st, sc in remaining st
+
+R19 sc2tog, sc, sc2tog, sc in remaining st
+
+R20-22 sc2tog until finish off
+
+### Crown
+
+With 2.5 mm hook and yellow yarn.
+
+ch 13.
+
+R1 12 sc, ch 1, turn
+
+R2 sc in first st, puff st in next st, sc in next 2 st, puff st in next st, sc in next 2 st, puff st in next st, sc in remaining st.
+
+Sew to join.
 
 
 
+* this is a work in progress, the raven pattern will be added shortly*
 
 
 
+If you are making the little Edgar Allan Poe amigurumi as a gift to yourself or someone you appreciate, you might wish to add a nice [mug](https://www.redbubble.com/i/mug/Edgar-Allan-Poe-I-became-insane-quote-yellow-black-mug-by-VioletAndOberon/91205274.9Q0AD), or [T-shirt](https://www.redbubble.com/i/t-shirt/Edgar-Allan-Poe-Quote-the-Raven-Nevermore-black-by-VioletAndOberon/122107586.D681C#&gid=1&pid=5) such as these.
 
 
+![Edgar Allan Poe mug insanity quote](/images/poe-insane-mug.png)
 
 
+![Edgar Allan Poe T-shirt nevermore quote](/images/poe-nevermore-t.png)
 
 
+Thank you for having a quick look at our [Edgar Allan Poe designs](https://www.redbubble.com/shop/?query=violetandoberon%20poe).
+
+I hope you enjoyed this pattern and that your little Edgar Allan Poe, his worm, and his raven will find their place on the shelves of your library.
 
