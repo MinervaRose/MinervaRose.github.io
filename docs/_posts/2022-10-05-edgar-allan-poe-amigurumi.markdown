@@ -71,6 +71,48 @@ R11-13 sc in each st around
 
 R14-16 repeat sc2tog. finish off and weave in the tail.
 
+
+## Legs
+
+With 3 mm hook.
+
+With black yarn.
+
+Ch 2.
+
+R1 6 sc in first st of chain
+R2 2 sc in each st around (12)
+R3-5 sc in each st around (12)
+R6 sc2tog, sc in the next 10 st (11)
+R7 sc in each st around (11)
+R8 sc2tog, sc in the next 9 st (10)
+R9 sc in each st around (10)
+R10 sc2tog, sc in the next 8 st (9)
+R11 sc in each st around (9)
+R12 sc2tog, sc in the next 7 st (8)
+R13 sc in each st around (8)
+R14 sc2tog, sc in the next 6 st (7)
+R15 sc in the next 3 st, ch 1, turn
+R16 2 sc in the 1st st, sc in the next st, 2 sc in the next st, ch 1, turn
+R17 sc in those 5 st
+
+### Foot
+
+2 sc along the side downward
+
+Then sc2tog, sc, sc2tog
+
+2 sc along the side upward
+
+Then sc,sc2tog, sc2tog
+
+#### Next step
+
+sc-BLO in each st around
+
+Fold along the length and join by sewing under the foot.
+
+
 ## Arms
 
 With white yarn.
