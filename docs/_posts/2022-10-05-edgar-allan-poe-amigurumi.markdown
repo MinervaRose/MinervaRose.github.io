@@ -222,7 +222,92 @@ R7 At the top of the front right panel, insert hook, ss, ch2, dc, ch 7, dc 1 in 
 R8 optional, for a more finished look, sc all along the top edges and sc2tog at the beginning centre and end of the back panel.
 
 
+## Coat
 
+### Main part of the coat
+
+ch 25
+
+R1 skip first ch from the hook. sc in the next 24 stitches. Ch1 turn.
+
+R2-8 skip first ch from the hook. hdc in the next 24 stitches. Ch1 turn.
+
+R9 hdc in the next 3 stitches. Ch1 turn.
+
+R10-11 sc in the next 3 stitches.
+
+R 12 miss the first stitch. sc in the next 2 stitches. Ch1 turn.
+
+R13 sc in the 2 stitches.
+
+Fasten off and weave in the ends.
+
+
+#### Top left and right corners to create armholes
+
+Starting from the top corner on the other side, reproduce R9 to R13 like so:
+
+R9 hdc in the next 3 stitches. Ch1 turn.
+
+R10-11 sc in the next 3 stitches.
+
+R 12 miss the first stitch. sc in the next 2 stitches. Ch1 turn.
+
+R13 sc in the 2 stitches.
+
+Fasten off and weave in the ends.
+
+
+#### Top centre to create armholes
+
+Now you will work the central part of the back of the coat. Skip the first 7 stitches from R9 (three stitches are already worked and four are not already worked).
+
+R1 insert hook, ss and ch1. Starting from the same stitch, sc 10.
+
+R2 sc2tog, sc in the next 6 st, sc2tog, ch 1, turn.
+
+R3 sc2tog, sc in the next 4 st, sc2tog, ch 1, turn.
+
+R4 sc2tog, sc in the next 2 st, sc2tog.
+
+Finish off and weave in the ends.
+
+
+#### Sleeves
+
+Make two.
+
+ch 12. ss to join.
+
+R1-3 sc in each stitch around.
+
+R4-7 hdc in each stitch around.
+
+R8 sc in each st around, ch 1, turn,
+
+R9 sc in the next 8 st, ch 1, turn.
+
+R10 sc2tog, sc in the next 4 st, sc2tog, ch 1, turn.
+
+R11 sc2tog, sc in the next 2 st, sc2tog, ch 1, turn.
+
+R12 sc in the 4 stitches.
+
+Fasten off. Use tail to sleeve onto the armhole.
+Left, top, and right edge ridge
+
+To create the edge ridge, slip stitch all along starting from the bottom right corner, continuing onto the top, down to the bottom left corner.
+
+Do no slip stitch along the bottom of the coat.
+
+### Lapels
+
+R1 sc all along.
+
+In order for the lapels to look like they are folded as a mirror image, you will do R2 in the BLO for the left lapel, and FLO for the right lapel. You are more than welcome to proceed differently.
+
+
+R2 starting from the sc at the top of the coat. 2 dc in the first stitch, triple in the next stitch, ch 3, ss in next stitch, ss in next stitch, ch 3, triple in next stitch, dc in next 2 stitches, hdc in the remaining stitches.
 
 
 
