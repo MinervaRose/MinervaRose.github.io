@@ -404,6 +404,11 @@ R2 sc in first st, puff st in next st, sc in next 2 st, puff st in next st, sc i
 
 Sew to join.
 
+### The Raven
+
+
+![Edgar Allan Poe raven on his shoulder](/images/poe-the-raven-standing.JPG)
+
 
 
 * this is a work in progress, the raven pattern will be added shortly*
