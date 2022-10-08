@@ -515,13 +515,18 @@ Since the raven is so small, I did not use safety eyes, I simply stitched on som
 
 
 
-If you are making the little Edgar Allan Poe amigurumi as a gift to yourself or someone you appreciate, you might wish to add a nice [mug](https://www.redbubble.com/i/mug/Edgar-Allan-Poe-I-became-insane-quote-yellow-black-mug-by-VioletAndOberon/91205274.9Q0AD), or [T-shirt](https://www.redbubble.com/i/t-shirt/Edgar-Allan-Poe-Quote-the-Raven-Nevermore-black-by-VioletAndOberon/122107586.D681C#&gid=1&pid=5) such as these.
+If you are making the little Edgar Allan Poe amigurumi as a gift to yourself or someone you appreciate, you might wish to add a nice [mug](https://www.redbubble.com/i/mug/Edgar-Allan-Poe-I-became-insane-quote-yellow-black-mug-by-VioletAndOberon/91205274.9Q0AD), or [T-shirt](https://www.redbubble.com/i/t-shirt/Edgar-Allan-Poe-Quote-the-Raven-Nevermore-black-by-VioletAndOberon/122107586.D681C#&gid=1&pid=5) or [my favorite graphic T-shirt of Edgar Allan Poe](https://www.redbubble.com/i/t-shirt/Edgar-Allan-Poe-Moon-and-bats-Gothic-portrait-by-VioletAndOberon/89541642.1YYVU) such as these.
 
 
 ![Edgar Allan Poe mug insanity quote](/images/poe-insane-mug.png)
 
 
 ![Edgar Allan Poe T-shirt nevermore quote](/images/poe-nevermore-t.png)
+
+
+![Edgar Allan Poe graphic T-shirt](/images/poe-graphic-t-shirt.png)
+
+
 
 
 Thank you for having a quick look at our [Edgar Allan Poe designs](https://www.redbubble.com/shop/?query=violetandoberon%20poe).
