@@ -428,3 +428,7 @@ Thank you for having a quick look at our [Edgar Allan Poe designs](https://www.r
 
 I hope you enjoyed this pattern and that your little Edgar Allan Poe, his worm, and his raven will find their place on the shelves of your library.
 
+
+![Edgar Allan Poe with his raven and his worm](/images/poe-raven-and worm.JPG)
+
+
