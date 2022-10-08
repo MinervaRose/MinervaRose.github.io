@@ -409,9 +409,81 @@ Sew to join.
 
 ![Edgar Allan Poe raven on his shoulder](/images/poe-the-raven-standing.JPG)
 
+The raven is designed with its body not completely sewed at the bottom so that it can be put on top of a pencil or anything else that you might wish to put next to your little Edgar Allan Poe amigurumi doll to create a scene.
+
+I chose not to stuff the raven because it is such a small piece but you are welcome to add a bit of stuffing or leftover bits of yarn to make it a bit heavier and puffier.
+
+#### Head of the raven
+
+With 2.5 mm hook.
+
+With black yarn.
+
+Ch 2
+
+R1 4 sc in first st of the chain (4)
+
+R2 2 sc in each st (8)
+
+R3 sc in each st around (8)
+
+R4 2 sc in first st then sc in remaining st (9)
+
+R5 sc2tog until hole is small enough to close
+
+Keep the tail to sew the head onto the body. You may need to gently squeeze it to shape it. 
 
 
-* this is a work in progress, the raven pattern will be added shortly*
+#### Body of the raven
+
+ch 2
+
+R1 6 sc in first st of the chain (6)
+
+R2 ss to join, ch 2. 2 dc in first st, then 4 dc in the next st, then 2 dc in last st (8)
+
+R3 This is the tail of the body onto which we will sew on the tail feathers later. In this row we are not crocheting all around. Ch 2, turn, dc in the next 3 st (3)
+
+R4 ch 2, turn, dc in the next 3 st (3)
+
+R5 ch 1, sc-BLO all around the edges of the hole (if too hard, ss, or simply don't do R5). Fasten off.
+
+Fold it and gently squeeze it along the length, with the hole underneath, and the long part made of the two rows of 3 dc as the tail.
+
+#### Wings of the raven
+
+ch 3
+
+R1 2 sc. ch 1, turn (2)
+
+R2 2 sc in first st, 1 sc in remaining st (3)
+
+R3 ch 2, turn. dc in each st (3)
+
+R4 ch 1, turn. 3sc (3)
+
+R5 c h1, turn. sc2tog in first st, sc in the next st (2)
+
+R6 ch 1, turn. sc2tog (1)
+
+R7 ch 1, ss, fasten off.
+
+
+#### Beak of the raven
+
+If you prefer just make a beak out of felt, paper, cardboard, otherwise you may wish to try the following.
+
+Ch 6
+
+R1 5 sc
+
+R2 5 sc-BLO 
+
+Fasten off, fold the stripe, and sew along the length.
+
+#### Eyes
+
+Since the raven is so small, I did not use safety eyes, I simply stitched on some red yarn.
 
 
 
