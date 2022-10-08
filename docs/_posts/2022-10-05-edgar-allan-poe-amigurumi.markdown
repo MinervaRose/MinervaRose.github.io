@@ -12,6 +12,8 @@ In this free crochet pattern, I tried to capture Edgar Allan Poe's emotions and 
 
 **Please note that this is a work in progress to be completed in October 2022**
 
+**Please note that this is not a toy suitable for children.**
+
 This pattern is for private use only. If posting it on social media, kindly mention that it was originally designed by VioletAndOberon.
 
 # Edgar
@@ -272,6 +274,9 @@ R8 optional, for a more finished look, sc all along the top edges and sc2tog at 
 
 I chose to put the waistcoat on and to sew the two front panels together. 
 
+
+![Edgar Allan Poe with his arms and waistcoat](/images/poe-with-arms-small.JPG)
+
 ## Coat
 
 ### Main part of the coat
@@ -362,6 +367,15 @@ R2 starting from the sc at the top of the coat. 2 dc in the first stitch, triple
 
 ## The Conqueror Worm with his crown
 
+![The conqueror worm with his crown on](/images/the-worm-small.JPG)
+
+
+Feel free to add or remove rows to change its shape, or to make it only pink.
+
+**Please note that this is not a toy suitable for children.**
+
+Feel free to add a piece of wire before fastening off so that you can bend the worm in your favorite way next to the Edgar Allan Poe crochet doll.
+
 We start from the tail in pink yarn.
 
 ch 2.
@@ -396,13 +410,24 @@ R20-22 sc2tog until finish off
 
 With 2.5 mm hook and yellow yarn.
 
-ch 13.
+ch 13
 
 R1 12 sc, ch 1, turn
 
 R2 sc in first st, puff st in next st, sc in next 2 st, puff st in next st, sc in next 2 st, puff st in next st, sc in remaining st.
 
 Sew to join.
+
+**Optional: make a little cap at the center of the crown for a more regal look**
+
+With red yarn
+
+ch 2
+
+R1 sc 4 in first st of the chain. Fasten off. Sew it inside the crown.
+
+
+
 
 ### The Raven
 
@@ -412,6 +437,9 @@ Sew to join.
 The raven is designed with its body not completely sewed at the bottom so that it can be put on top of a pencil or anything else that you might wish to put next to your little Edgar Allan Poe amigurumi doll to create a scene.
 
 I chose not to stuff the raven because it is such a small piece but you are welcome to add a bit of stuffing or leftover bits of yarn to make it a bit heavier and puffier.
+
+**Please note that this is not a toy suitable for children.**
+
 
 #### Head of the raven
 
