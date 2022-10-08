@@ -71,14 +71,18 @@ Switch to black yarn.
 
 R11-13 sc in each st around
 
-R14-16 repeat sc2tog. finish off and weave in the tail.
+R14-16 repeat sc2tog. Finish off and weave in the tail.
 
 
 ## Legs
 
+![Edgar Allan Poe amigurumi leg](/images/poe-foot-and-leg.JPG)
+
 With 3 mm hook.
 
 With black yarn.
+
+Make two.
 
 Ch 2.
 
@@ -129,6 +133,9 @@ sc-BLO in each st around
 Fold along the length and join by sewing under the foot.
 
 
+![Edgar Allan Poe amigurumi sewing foot](/images/poe-foot-sew-bottom.JPG)
+
+
 ## Arms
 
 With white yarn.
@@ -153,6 +160,9 @@ Wait that you have finished the waistcoat to make sure that you are positioning 
 
 
 ## Cuffs
+
+
+![Edgar Allan Poe amigurumi cuffs](/images/poe-arm-cuff.JPG)
 
 Use 2.5 mm hook.
 
@@ -224,6 +234,10 @@ R1-8 sc in the next 12 st, ch1, turn.
 
 R9 sc in the next 12 st. Finish off.
 
+
+![Edgar Allan Poe waistcoat back panel](/images/poe-waistcoat-back.JPG)
+
+
 ### Front panels 
 
 ch 11
@@ -238,10 +252,25 @@ R6 hdc in the next 2 st, ss in the next 3 st
 
 Then ss downwards all along the front of the panel (not the bottom). Fasten off.
 
+
+![Edgar Allan Poe waistcoat front panels](/images/poe-waistcoat-front.JPG)
+
+
+![Edgar Allan Poe waistcoat insert hook](/images/poe-waistcoat-hook-top.JPG)
+
+To assemble the waistcoat, you are going to start from the pointy part of the top of the right front panel. The chains will be the part sitting on the shoulders.
+
 R7 At the top of the front right panel, insert hook, ss, ch2, dc, ch 7, dc 1 in the back panel then dc in the 9 next stitches, ch7, dc into the front left panel, ch 2, ss.
+
+![Edgar Allan Poe waistcoat assembly](/images/poe-waistcoat-shoulders.JPG)
 
 R8 optional, for a more finished look, sc all along the top edges and sc2tog at the beginning centre and end of the back panel.
 
+
+![Edgar Allan Poe waistcoat assembly](/images/poe-waistcoat-sew-front.JPG)
+
+
+I chose to put the waistcoat on and to sew the two front panels together. 
 
 ## Coat
 
