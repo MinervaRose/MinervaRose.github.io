@@ -7,8 +7,11 @@ permalink: /about/
 ![image-center]({{ '/images/image-2.jpg' | absolute_url }}){: .align-center}
 
 
-**VioletAndOberon originated as a Redbubble graphic art gift shop.** 
+**VioletAndOberon is the name of a graphic and fibre artist. Most people know her as Violet.** 
 
+VioletAndOberon is also a team with a very dedicated and supportive founder who often whispers ideas to Violet.
+
+We love crochet and fibre art and have started to publish our own patterns.
 
 We love creating beautiful designs inspired by the greatest works of literature and their
 authors. Long-time Sherlockians, we strive at adapting and redesigning
