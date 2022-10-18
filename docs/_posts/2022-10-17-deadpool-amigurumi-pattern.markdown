@@ -13,7 +13,7 @@ categories: crochet
 
 I have loved Deadpool ever since I watched the first movie. It made sense that my first pattern of an *almost standing on its own if there is no wind* amigurumi was dedicated to my favorite super hero.
 
-It is about 21 cm high. It is almost entirely made of Red Heart acrylic yarn, except for the eyes that are scrap fabric that I cut and sewed on the head. 
+It is about 21 cm high. It is almost entirely made of acrylic yarn, except for the eyes that are scrap fabric that I cut and sewed on the head. 
 
 # Cute Deadpool amigurumi crochet pattern
 
@@ -128,7 +128,7 @@ R1-4 sc in next 3 st. ch 1, turn.
 
 At the end of R4 you will do 4 sc along the top edge. You may have to do 2 sc at a time.
 
-Fold he rectangle along the longest part, ss to join, ch 1.
+Fold the rectangle along the longest part, ss to join, ch 1.
 
 Now you will be starting the head and crocheting in the round.
 
@@ -169,15 +169,33 @@ Stuff the head firmly. Squish it a bit at the bottom.
 Sew onto the body.
 
 
+## Embellishments
+
+For the embellishments, I used a 2 mm crochet hook and some black acrylic yarn.
+
+### Shoulder pads
+
+ch 5
+
+R1 4 hdc, ch2, turn
+
+R2 3 dc in first st, 1 dc in next 2 st, 3 dc in last st 
+
+R3 ch1. sc all around the piece, doing 2 sc in each corner. Fasten off. Leave long tail to sew onto shoulders.
 
 
+### Belly stripes
 
+With black yarn.
 
+ch 8
 
+R1 6 dc. ch1, turn
+
+R2 ss in first and second st. ch2, dc in next 2 st, ch2, ss in next 2 st. Fasten off. Leave long tail to sew onto body.
 
 
 ![Deadpool crochet amigurumi completed from free pattern](/images/amigurumi-deadpool-complete.JPG)
 
-
-
+If you appreciated this free crochet pattern and want to support our endeavours, you may treat yourself with one of the beautiful designs created and adapted for our [Redbubble shop](https://www.redbubble.com/shop/?query=violetandoberon).
 
