@@ -65,6 +65,117 @@ Place a stitch marker, and put aside. You will be making the arms and then come 
 
 ## Arms
 
+Start with red yarn.
+
+R1 ch 2. 4 sc in first ch st. (if you find it more comfortable, do 4 sc into MR)
+
+R2 2sc in each st (8)
+
+R3-5 sc in each st (8)
+
+R6-7 change to black. sc in each st (8)
+
+R8-9 change to red. sc in each st (8)
+
+R10-11 change to black. sc in each st (8)
+
+R12-13 change to red. sc in each st (8)
+
+In the next step, you will be crocheting the arms and body together.
+
+Do not stuff the arms too much, particularly towards the top, because you might end up with the arms stuck in an awkward stiff position, perpendicular to the body.
+
+
+## Upper body
+
+With red yarn.
+
+Pick up in next st after stitch marker.
+
+R1 sc in next 5 st, sc in next 8 st along the arm, skip 1 sc from body, sc in next 8 st, sc in next 8 st along the other arm, skip 1 sc from body, sc in next 5 (34)
+
+R2 34 sc
+
+R3 sc in next 4, sc2tog, sc in next 5, sc2tog, sc in next 7, sc2tog, sc in next 5, sc2tog, sc in next 5 st (30)
+
+Make sure to sew the hole under each arm.
+
+R4 sc in next 3 st, sc2tog, sc in next 4 st, sc2tog, sc in next 2 st, sc2tog, sc in next 3 st, sc2tog, sc in next 4 st, sc2tog, sc in next 2 st, sc2tog (24)
+
+R5 (sc in next st, sc2tog) * 8 (16)
+
+R6 (sc in next 2 st, sc2tog) * 4 (12)
+
+R7-8 12 sc
+
+Fasten off. Keep long tail for sewing head.
+
+Stuff the body firmly particularly towards the neck, but do not put too much.
+
+## Head
+
+You will start with making the little pointy part on top of the head. You will then be doing a normal crochet in the round ball shape. To finish, in order to make sure that there is a slight tilt you will be adding rows only on the front of the head, and then crochet all around again.
+
+#### The little point on top of the head
+
+You will be making a small rectangle. 
+
+With red yarn
+
+ch 4
+
+R1-4 sc in next 3 st. ch 1, turn.
+
+At the end of R4 you will do 4 sc along the top edge. You may have to do 2 sc at a time.
+
+Fold he rectangle along the longest part, ss to join, ch 1.
+
+Now you will be starting the head and crocheting in the round.
+
+#### The head
+
+R1 In same st as the ch you've just made, 2 sc in next st, then sc in next st, then 2sc in next st, then sc. You should have 6 st.
+
+R2 2 sc in each st all around (12)
+
+R3 (1 sc in first st, 2sc in next st) * 6 (18)
+
+R4 (2 sc in first st, 2 sc in next st) * 6 (24)
+
+R5 (3 sc in first st, 2 sc in next st) * 6 (30)
+
+R6 (4 sc in first st, 2 sc in next st) * 6 (36)
+
+R7 (5 sc in first st, 2 sc in next st) * 6 (42)
+
+R9-20 1 sc in each st all around (42)
+
+R21 (5 sc in first st, sc2tog in next st) * 6 (36)
+
+R22 (4 sc in first st, sc2tog in next st) * 6 (30)
+
+R23 (3 sc in first st, sc2tog in next st) * 6 (24)
+
+Now you will be creating the tilt by doing rows on along half the head.
+
+R24-25 sc in next 12 st. ch 1
+
+R26 sc in next 2, sc2tog all around
+
+R27 sc, sc2tog all around.
+
+Stuff the head firmly. Squish it a bit at the bottom.
+
+Sew onto the body.
+
+
+
+
+
+
+
+
+
 ![Deadpool crochet amigurumi completed from free pattern](/images/amigurumi-deadpool-complete.JPG)
 
 
