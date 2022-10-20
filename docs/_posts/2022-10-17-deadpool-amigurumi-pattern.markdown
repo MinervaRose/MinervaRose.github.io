@@ -86,6 +86,9 @@ In the next step, you will be crocheting the arms and body together.
 Do not stuff the arms too much, particularly towards the top, because you might end up with the arms stuck in an awkward stiff position, perpendicular to the body.
 
 
+![Deadpool crochet arm](/images/deadpool-arm.jpg)
+
+
 ## Upper body
 
 With red yarn.
@@ -112,6 +115,10 @@ Fasten off. Keep long tail for sewing head.
 
 Stuff the body firmly particularly towards the neck, but do not put too much.
 
+
+![Deadpool body with arms](/images/deadpool-body-two-arms.jpg)
+
+
 ## Head
 
 You will start with making the little pointy part on top of the head. You will then be doing a normal crochet in the round ball shape. To finish, in order to make sure that there is a slight tilt you will be adding rows only on the front of the head, and then crochet all around again.
@@ -131,6 +138,9 @@ At the end of R4 you will do 4 sc along the top edge. You may have to do 2 sc at
 Fold the rectangle along the longest part, ss to join, ch 1.
 
 Now you will be starting the head and crocheting in the round.
+
+![Deadpool tip of head](/images/deadpool-tip-head.jpg)
+
 
 #### The head
 
@@ -168,6 +178,8 @@ Stuff the head firmly. Squish it a bit at the bottom.
 
 Sew onto the body.
 
+
+![Deadpool completed head](/images/deadpool-completed-head.jpg)
 
 ## Embellishments
 
