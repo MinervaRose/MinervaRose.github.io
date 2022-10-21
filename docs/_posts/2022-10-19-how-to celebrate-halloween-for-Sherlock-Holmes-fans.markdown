@@ -6,11 +6,11 @@ categories: Sherlock Holmes
 
 ![no-alignment]({{ '/images/happy-holmes-o-ween.jpg' | absolute_url }})
 
-This year, I have decided to celebrate Halloween the Sherlockian way. I have even coined a name for it, even though I conceded that others might have thought of the word play way before me. I have named this October spooky season "Holmes-O-Ween". Here are a few ideas of how to celebrate this time of the year when you are a Sherlock Holmes fan.
+This year, I have decided to celebrate Halloween the Sherlockian way. I have even coined a name for it, even though I concede that others might have thought of the word play way before me. I have named this October spooky season "Holmes-O-Ween". Here are a few ideas of how to celebrate this time of the year when you are a Sherlock Holmes fan.
 
 # 1 Dress like a Sherlockian with a Halloween twist
 
-I have created a gorgeous artwork with a jack-o'-lantern carved with the famous Sidney Paget profile of Sherlock Holmes. Please make sure to look at it in my [Redbubble](https://www.redbubble.com/i/t-shirt/Happy-Holmes-O-Ween-by-VioletAndOberon/126635061.IJ6L0.XYZ) and [TeePublic](https://www.teepublic.com/t-shirt/35483277-happy-holmes-o-ween?store_id=1868119) shops.
+I have created a gorgeous artwork with a jack-o'-lantern carved with the famous Sidney Paget profile of Sherlock Holmes. Please make sure to look at it at my [Redbubble](https://www.redbubble.com/i/t-shirt/Happy-Holmes-O-Ween-by-VioletAndOberon/126635061.IJ6L0.XYZ) and [TeePublic](https://www.teepublic.com/t-shirt/35483277-happy-holmes-o-ween?store_id=1868119) shops.
 
 # 2 Read the scariest adventures of Sherlock Holmes
 
@@ -37,7 +37,7 @@ Unless you are scared by the supernatural, you could organize of spooky games li
 
 There are other victorian traditions that you might want to try out such as eating [Barmbrack cake](https://www.wikiwand.com/en/Barmbrack) to tell your fortune, [bobbing for apples](https://www.wikiwand.com/en/Apple_bobbing), or even [oomancy](https://www.wikiwand.com/en/Oomancy).
 
-Keep all our guests on edge with cups of warm coffee or tea, and serve sandwiches and mixed fruits and nuts in a pumpkin-shaped dish.
+Keep all your guests slightly on edge with cups of warm coffee or tea, and well-fed by serving sandwiches and mixed fruits and nuts in a pumpkin-shaped dish.
 
 # 4 Carve up turnips
 
