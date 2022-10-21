@@ -115,6 +115,8 @@ Fasten off. Keep long tail for sewing head.
 
 Stuff the body firmly particularly towards the neck, but do not put too much.
 
+![Deadpool sewing the armpits](/images/deadpool-sewing-armpit.jpg)
+
 
 ![Deadpool body with arms](/images/deadpool-body-two-arms.jpg)
 
@@ -209,5 +211,5 @@ R2 ss in first and second st. ch2, dc in next 2 st, ch2, ss in next 2 st. Fasten
 
 ![Deadpool crochet amigurumi completed from free pattern](/images/amigurumi-deadpool-complete.JPG)
 
-If you appreciated this free crochet pattern and want to support our endeavours, you may treat yourself with one of the beautiful designs created and adapted for our [Redbubble shop](https://www.redbubble.com/shop/?query=violetandoberon).
+If you appreciated this free crochet pattern and want to support our endeavours, you may treat yourself with one of the beautiful designs that we created and adapted for our [Redbubble shop](https://www.redbubble.com/shop/?query=violetandoberon).
 
