@@ -32,7 +32,7 @@ I have asked other Sherlockians to help me round up the scariest adventures of S
 
 ![Victorian Seance](/images/seance-tricks.jpg)
 
-Unless you are scared by the supernatural, you could organize of spooky games like the ones favored by the people of the Victorian era such as Seances (make a circle of salt and keep a Saint Benedict medal to protect you just in case), [Ouija boards](https://www.smithsonianmag.com/history/the-strange-and-mysterious-history-of-the-ouija-board-5860627/), and telling ghost stories. 
+Unless you are scared by the supernatural, you could organize spooky games like the ones favored by the people of the Victorian era such as Seances (make a circle of salt and keep a Saint Benedict medal to protect you just in case), [Ouija boards](https://www.smithsonianmag.com/history/the-strange-and-mysterious-history-of-the-ouija-board-5860627/), and telling ghost stories. 
 
 [Here](https://www.gutenberg.org/ebooks/subject/2716) you will find ghost stories books on Gutenberg.
 
