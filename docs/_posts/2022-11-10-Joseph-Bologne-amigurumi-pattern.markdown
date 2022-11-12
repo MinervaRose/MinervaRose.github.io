@@ -18,7 +18,7 @@ Pattern designed by VioletAndOberon
 
 I make this pattern available free of charge here, because a considerable number of my followers, susbscribers, and viewers come from low-income countries.
 
-If you wish to support my work, please consider purchasing the printer-friendly PDF version of this pattern (link to be added soon) or the illustration available on T-shirts and other other products [here.](https://www.redbubble.com/i/t-shirt/Cute-little-Joseph-Bologne-and-his-violin-by-VioletAndOberon/131011751.NL9AC)
+If you wish to support my work, please consider purchasing the printer-friendly PDF version of this pattern (link to be added soon) or the illustration below that is available on T-shirts and other other products exclusively at [the VioletAndOberon Redbubble shop.](https://www.redbubble.com/i/t-shirt/Cute-little-Joseph-Bologne-and-his-violin-by-VioletAndOberon/131011751.NL9AC)
 
 ![Cute little Joseph Bologne amigurumi illustration](/images/st-george-illustration.png)
 
@@ -26,35 +26,39 @@ If you wish to support my work, please consider purchasing the printer-friendly 
 
 ### About Joseph Bologne Chevalier de Saint-Georges
 
-Joseph Bologne (1745-1799) was a champion fencer and a virtuoso violinist and conductor. **He is the first classical composer of African ancestry.** His music and talent were so prodigious that he took Paris by storm. He even became close to Queen Marie-Antoinette. This [video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8s8j1wIX0AhUNac0KHd-PD6wQtwJ6BAgGEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4eKVZPXsac&usg=AOvVaw1wdx_byv5Yk_LDwIf_QKrv) in French with subtitles is a nice short introduction to his life.
+Joseph Bologne (1745-1799) was a champion fencer and a virtuoso violinist and conductor. **He is the first classical composer of African ancestry.** His music and talent were so prodigious that he took Paris by storm. Even though his father was a mere planter in the French colony of Guadeloupe and his mother was a slave, Chevalier de Saint-Georges reached the highest levels of the society of the time. He even became close to Queen Marie-Antoinette and to the Prince of Wales. This [video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8s8j1wIX0AhUNac0KHd-PD6wQtwJ6BAgGEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4eKVZPXsac&usg=AOvVaw1wdx_byv5Yk_LDwIf_QKrv) in French with subtitles is a nice short introduction to his life.
 
-If you have been following me for a little while, you know that I have a profound love for his music.
+If you have been following me for a little while, you know that I have a profound love for his music. 
 
-He had to be the first amigurumi of composers that I design!
+Chevalier de Saint-Georges had to be the first amigurumi of composers that I would design. 
+
+It took me a bit of thinking, as I wanted him to look a somewhat childlike, endearing, and cute. I first came up with the illustration above, then I aimed at creating it in crochet. 
 
 # Copyright
 
-This pattern is protected by universal copyright law. Please reach out to contact at violetandoberon dot com to report illegal activity or obtain special permissions.
+This pattern is protected by universal copyright law. Kindly reach out to contact at violetandoberon dot com to report illegal activity or obtain special permissions.
 
 ## You may...
 
-• You may sell the finished items you have made from this pattern. Attribution is required. Mass production is prohibited.
+• You may sell the finished items you have made from this pattern. You must provide attribution.
 
-• You may live stream your making of this model, so long as it’s not in a tutorial-type fashion  (instructions may not be shared).
+• You may live stream yourself making this item, as long as it is not a tutoria, and as long as you do not share the instructions of the pattern that I designed. 
 
-• You may share VioletAndOberon’s own pictures, but of the finished model only. Attribution is required.
+• You may share VioletAndOberon’s pictures, but of the finished item only. You must provide attribution.
 
 ## You may not...
 
-You may not share or reproduce any part of this document by any means, except printing for individual use.
+You may not reproduce any part of this document by any means, except printing for individual use. But you are highly welcome to share the link to this pattern.
 
-• Reproduction by filming is prohibited, except live streams, as described.
+• Reproduction by filming is prohibited, except stated above.
 
-• Translate this pattern to repost it. Translations by the designer will come in time. 
+• Translate this pattern to repost it is prohibited. Translations by the designer will come in time. 
 
-• You may not claim any part of this design as your own under any circumstance.
+• You may not claim any part of this design as your own.
 
-• Using VioletAndOberon’s own pictures for marketing purposes is prohibited.
+• Using VioletAndOberon’s own pictures for your marketing purposes is prohibited.
+
+• Of course mass production of items based on this pattern is prohibited.
 
 
 # Pattern information
@@ -100,7 +104,9 @@ The pattern contains the instructions to crochet:
 
 Depending on what you prefer, you may choose to crochet all the pieces, or to leave some of them out. The doll will look good even without the jacket, jabot and cuffs!
 
-I designed this doll of Joseph Bologne using mostly Bernat Premium and Red Heart Super Saver yarn. This is not sponsored. I however suggest you use equivalent yarn in order to achieve similar results.
+I designed this doll of Joseph Bologne using mostly Bernat Premium and Red Heart Super Saver yarn. I purchase them all at my local Walmart. This is not sponsored. I however suggest you use equivalent yarn in order to achieve similar results.
+
+You may feel like using cotton yarn instead of acrylic for a non fuzzy effect, as often recommended for amigurumi. Rest assured that using acrylic will still give great results!
 
 ## Yarn used by VioletAndOberon when designing
 
@@ -116,13 +122,16 @@ Grey - Soft Gray Sparkle Bernat Premium - Trousers, detail on shoes and belt buc
 
 Black - Bernat Premium black - Belt, shoes, violin pieces
 
-Pastel - Blue Blue Red Heart Roll with it Sparkle " Cristal"  - Jacket
+Pastel - Blue Blue [Red Heart Roll with it Sparkle " Cristal"](https://www.walmart.ca/en/ip/red-heart-roll-with-it-sparkle-yarn-acrylic-4-medium-53oz150g-561-yards-amethyst/6000199609419)  - Jacket
 
-Pastel orange - Orange Red Heart Roll with it Sparkle - Waistcoat flaps
+Pastel orange - Orange [Red Heart Roll with it Sparkle "Magic"](https://www.walmart.ca/en/ip/red-heart-roll-with-it-sparkle-yarn-acrylic-4-medium-53oz150g-561-yards-amethyst/6000199609419) - Waistcoat flaps
 
 Orange - Bernat Premium - Violin
 
 Yellow - Bernat Premium - Small violin piece
+
+
+Please note that Bernat Premium is like the Super Value but using Premium grade acrylic. It is very soft
 
 ## Necessary skills
 
@@ -140,35 +149,39 @@ Yellow - Bernat Premium - Small violin piece
  
 
 
-## Abbreviations and their translations (work in progress)
+## Abbreviations and their translations (work in progress, I hope it helps) English/ French/ Spanish/ German/
 
-R: row or round depending on context/ rang ou tour
+R: row or round depending on context/ rang ou tour/ hilera-vuelta / Reihe 
 
-MR: magic ring/ cercle magique
+MR: magic ring/ cercle magique/ anillo/ Runde
 
-Ch: chain/ chaînette
+Ch: chain/ chaînette/ cadeneta - medio punto/ Luftmasche
 
-SS: slip stitch/ maille coulée
+SS: slip stitch/ maille coulée/ punto pasado/ Kettmasche
 
-SC: single crochet/ maille serrée
+SC: single crochet/ maille serrée/ punto bajo/ Feste Masche
 
-DC: double crochet/ bride
+DC: double crochet/ bride/  punto alto/ Stäbchen
 
-HDC: half double crochet/ demi-bride
+HDC: half double crochet/ demi-bride/ medio punto alto/ Halbstäbchen
 
-Inc: increase/ augmentation
+Triple crochet: / punto alto doble/ Doppelstäbchen
 
-Dec: decrease/ diminution
+Inc: increase/ augmentation/ aumento/ zunehmen
+
+Dec: decrease/ diminution/ decremento/ abnehmen
 
 IncT: increase with 3 instead of 2 stitches.
 
 (...) X: repeat the instructions for that section by the number of times indicated
 
+Skip: Skip/ passer/ saltar/ überspringen
+
 Rem: remaining
 
-FLO: front loop only
+FLO: front loop only/ travail uniquement dans le brin avant/ sólo parte delantera de la cadeneta/ nur vorderes Maschenglied
 
-BLO: back loop only
+BLO: back loop only/ travail uniquement dans le brin arrière / sólo parte trasera de la cadeneta/ 	nur hinteres Maschenglied
 
 The front loop is always the one closest to you. When you turn your working piece, the front loop becomes the back loop, and so forth.
 
@@ -184,19 +197,19 @@ Feel free to attribute a color system to your stitches to know what they are use
 
 For example:
 
-Green First stitch of a row
+Green for the first stitch of a row.
 
-Red Every 10, 20, or nth number of stitches
+Red for every 10, 20, or nth number of stitches.
 
-Blue Identify the right side from the wrong side
+Blue for identifying the right side from the wrong side.
 
 ## Stuffing
 
-The pieces should be stuffed as you go. However, **be very careful not to over-stuff.**
+The pieces should be stuffed as you go. However, **be very careful not to overstuff.**
 
 **Do not stuff the arms much if at all** or they will get stuck in a cross-like position.
 
-Do not over stuff the rest of the piece as it might stretch the stitches, deform the doll and show the stuffing.
+Do not overstuff the rest of the piece as it might stretch the stitches, deform the doll and show the stuffing.
 
 ## Safety warning
 
@@ -229,7 +242,7 @@ R8 (6SC, SC-inc) X6 (48)
 
 R9-19 48SC
 
-*Tip*
+*Tip:*
 
 *It’s easy to get confused or lost when you are working several rounds with the same amount of stitches multiple times.* 
 
@@ -280,6 +293,10 @@ Sew some brown. Start at a distance of 2SC from the left eye then sew over 4SC. 
 You can now set the head aside.
 
 # Wig
+
+The wig may look like a complex shape but it is actually quite simple. It starts with a circle, then it is extended in some places. It's quite nifty.
+
+![The amigurumi wig flat](/images/st-george-wig.JPG)
 
 You will need white yarn.
 
@@ -494,6 +511,8 @@ Tie off. Do not close the hole at the top of the thigh of each leg because we wi
 Stuff firmly.
 
 Make the shoe adornments before joining the legs together as it is easier.
+
+![amigurumi foot and leg](/images/st-george-leg.JPG)
 
 ### Shoe adornment
 
