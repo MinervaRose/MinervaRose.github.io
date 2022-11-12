@@ -32,17 +32,17 @@ If you have been following me for a little while, you know that I have a profoun
 
 Chevalier de Saint-Georges had to be the first amigurumi of composers that I would design. 
 
-It took me a bit of thinking, as I wanted him to look a somewhat childlike, endearing, and cute. I first came up with the illustration above, then I aimed at creating it in crochet. 
+It took me a bit of thinking, as I wanted him to look somewhat childlike, endearing, and cute. I first came up with the illustration above, then I aimed at creating it in crochet. 
 
 # Copyright
 
-This pattern is protected by universal copyright law. Kindly reach out to contact at violetandoberon dot com to report illegal activity or obtain special permissions.
+This pattern is protected by universal copyright law. Kindly reach out to - contact at violetandoberon dot com - to report illegal activity or obtain special permissions.
 
 ## You may...
 
 • You may sell the finished items you have made from this pattern. You must provide attribution.
 
-• You may live stream yourself making this item, as long as it is not a tutoria, and as long as you do not share the instructions of the pattern that I designed. 
+• You may live stream yourself making this item, as long as it is not a tutorial, and as long as you do not share the instructions of the pattern that I designed. 
 
 • You may share VioletAndOberon’s pictures, but of the finished item only. You must provide attribution.
 
@@ -52,7 +52,7 @@ You may not reproduce any part of this document by any means, except printing fo
 
 • Reproduction by filming is prohibited, except stated above.
 
-• Translate this pattern to repost it is prohibited. Translations by the designer will come in time. 
+• Translating this pattern to repost it is prohibited. Translations by the designer will come in time. 
 
 • You may not claim any part of this design as your own.
 
@@ -131,7 +131,7 @@ Orange - Bernat Premium - Violin
 Yellow - Bernat Premium - Small violin piece
 
 
-Please note that Bernat Premium is like the Super Value but using Premium grade acrylic. It is very soft
+Please note that Bernat Premium is like the Super Value but using Premium grade acrylic. It is very soft. I highly recommend it.
 
 ## Necessary skills
 
@@ -149,7 +149,7 @@ Please note that Bernat Premium is like the Super Value but using Premium grade 
  
 
 
-## Abbreviations and their translations (work in progress, I hope it helps) English/ French/ Spanish/ German/
+## Abbreviations and their translations (work in progress, I hope it helps) English/ French/ Spanish/ German
 
 R: row or round depending on context/ rang ou tour/ hilera-vuelta / Reihe 
 
@@ -188,6 +188,8 @@ The front loop is always the one closest to you. When you turn your working piec
 ## Tension
 
 You will need to keep the same tension throughout the project in order for each piece to fit together.
+
+Do not pull on the yarn after each stitch in an attempt at making your work tighter because it is an amigurumi crochet pattern - if you are using a 2.5 mm hook, it will get tight with your usual tension!
 
 ## How to use the stitch markers
 
@@ -392,7 +394,7 @@ Ch1, turn, SS.
 
 Now you will create the curls. When I first designed the little Joseph Bologne doll, I made 6 curly strands. Feel free to make more or less by changing where you SS back into R14 at the end of your curly strands.
 
-### Curl
+### Curls
 
 Ch 22. Starting from the 3rd ch from your hook. (DC-incT) X10. 5DC, 5HDC.
 
@@ -434,6 +436,8 @@ You will need brown and white yarn.
 Use a 2.5 mm hook.
 
 Start with brown.
+
+Make two.
 
 R1 *Place the stitch marker on the first SC as you crochet it*. 4SC in MR.
 
@@ -882,8 +886,6 @@ Sew through the top of the neck. Then through the bridge. Then through the tailp
 
 You may crochet the wooden part of the bow by crocheting around a piece of wire, and then add a white piece of yarn along the two ends.
 
-* Images will be added soon.*
-
 
 ### Other accessories
 
@@ -909,7 +911,6 @@ Use the Hashtag #VioletAndOberon when sharing your pictures on social media, and
 
 If you appreciated this free crochet pattern and want to support my endeavours, you may treat yourself with one of the beautiful illustrations and designs dedicated to Joseph Bologne Chevalier de Saint-Georges that I created and adapted for the VioletAndOberon [Redbubble shop]([https://www.redbubble.com/shop/?query=violetandoberon](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant)).
 
-*This is a work in progress, I still need to add all the pictures. Thank you for your patience and for coming back to this blog post in a few days.*
 
 
 
