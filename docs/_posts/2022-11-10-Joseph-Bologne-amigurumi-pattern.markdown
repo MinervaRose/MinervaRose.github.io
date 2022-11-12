@@ -1,5 +1,5 @@
 ---
-title: "Joseph Bologne Chevalier de Saint-Georges"
+title: "How to crochet a Joseph Bologne Chevalier de Saint-Georges amigurumi doll"
 date: 2022-11-10 09:45:06 -0500
 categories: crochet
 ---
@@ -8,7 +8,7 @@ categories: crochet
 
 Pattern designed by VioletAndOberon
 
-** Warning: this crochet object, no matter how cute it is, is not a toy. It has not been tested for safety. Do not give it to children or pets.**
+**Warning: this crochet object, no matter how cute it is, is not a toy. It has not been tested for safety. Do not give it to children or pets.**
 
 # Copyright information
 
@@ -24,7 +24,7 @@ If you wish to support my work, please consider purchasing the printer-friendly 
 
 ### About Joseph Bologne Chevalier de Saint-Georges
 
-Joseph Bologne (1745-1799) was a champion fencer and a virtuoso violinist and conductor. **He is the first classical composer of African ancestry.** His music and talent were so prodigious that he took Paris by storm. He even became close to Queen Marie-Antoinette. 
+Joseph Bologne (1745-1799) was a champion fencer and a virtuoso violinist and conductor. **He is the first classical composer of African ancestry.** His music and talent were so prodigious that he took Paris by storm. He even became close to Queen Marie-Antoinette. This [video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8s8j1wIX0AhUNac0KHd-PD6wQtwJ6BAgGEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4eKVZPXsac&usg=AOvVaw1wdx_byv5Yk_LDwIf_QKrv) in French with subtitles is a nice short introduction to his life.
 
 If you have been following me for a little while, you know that I have a profound love for his music.
 
@@ -55,9 +55,9 @@ You may not share or reproduce any part of this document by any means, except pr
 • Using VioletAndOberon’s own pictures for marketing purposes is prohibited.
 
 
-## Pattern information
+# Pattern information
 
-# Basic information
+## Basic information
 
 Terminology: USA
 
@@ -68,7 +68,7 @@ Difficulty: Beginner to Elementary
 Yarn weight: Medium 4 acrylic, Between Light 3 and Medium 4 acrylic and metallic, Light 3 acrylic
 
 
-# Supplies
+## Supplies
 
 * 2.5 mm hook (for almost all the pieces)
 
@@ -90,7 +90,7 @@ The pattern contains the instructions to crochet:
 
 * 1 doll of Joseph Bologne with his wig on
 
-* 1 jack
+* 1 jacket
 
 * 1 jabot and cuffs
 
@@ -100,7 +100,7 @@ Depending on what you prefer, you may choose to crochet all the pieces, or to le
 
 I designed this doll of Joseph Bologne using mostly Bernat Premium and Red Heart Super Saver yarn. This is not sponsored. I however suggest you use equivalent yarn in order to achieve similar results.
 
-# Yarn used by VioletAndOberon when designing
+## Yarn used by VioletAndOberon when designing
 
 Colour of the yarn, yarn used, what piece was made with it
 
@@ -122,7 +122,7 @@ Orange - Bernat Premium - Violin
 
 Yellow - Bernat Premium - Small violin piece
 
-# Necessary skills
+## Necessary skills
 
 * Working in rows and in the round (in a spiral)
 
@@ -138,7 +138,7 @@ Yellow - Bernat Premium - Small violin piece
  
 
 
-# Abbreviations and their translations (work in progress)
+## Abbreviations and their translations (work in progress)
 
 R: row or round depending on context/ rang ou tour
 
@@ -170,11 +170,11 @@ BLO: back loop only
 
 The front loop is always the one closest to you. When you turn your working piece, the front loop becomes the back loop, and so forth.
 
-# Tension
+## Tension
 
 You will need to keep the same tension throughout the project in order for each piece to fit together.
 
-# How to use the stitch markers
+## How to use the stitch markers
 
 Stitch markers are there to help you count rows, rounds, identify the first stitch, etc.
 
@@ -188,7 +188,7 @@ Red Every 10, 20, or nth number of stitches
 
 Blue Identify the right side from the wrong side
 
-# Stuffing
+## Stuffing
 
 The pieces should be stuffed as you go. However, **be very careful not to over-stuff.**
 
@@ -196,7 +196,7 @@ The pieces should be stuffed as you go. However, **be very careful not to over-s
 
 Do not over stuff the rest of the piece as it might stretch the stitches, deform the doll and show the stuffing.
 
-# Safety warning
+## Safety warning
 
 This crochet creation is not suitable for babies and young children. It is not a toy. It has not been tested for safety.
 
@@ -205,25 +205,25 @@ This crochet creation is not suitable for babies and young children. It is not a
 
 Use a 2.5 mm hook.
 
-Use brow yarn.
+Use brown yarn.
 
-You will need 2 stitch markers. One that you will place at the first SC of each round. The other one that you will place when you reach R 16 to be able to easily find where to put the safety eyes.
+You will need 2 stitch markers. One that you will place at the first SC of each round. The other one that you will place when you reach R16 to be able to easily find where to put the safety eyes.
 
-R1 *Place the stitch marker on the first SC as you crochet it*. 6 SC in MR.
+R1 *Place the stitch marker on the first SC as you crochet it*. 6 SC in MR. (6)
 
-R2 (SC-inc) X6.
+R2 (SC-inc) X6 (12)
 
-R3 (1SC, SC-inc) X6
+R3 (1SC, SC-inc) X6 (18)
 
-R4 (2SC, SC-inc) X6
+R4 (2SC, SC-inc) X6 (24)
 
-R5 (3SC, SC-inc) X6
+R5 (3SC, SC-inc) X6 (30)
 
-R6 (4SC, SC-inc) X6
+R6 (4SC, SC-inc) X6 (36)
 
-R7 (5SC, SC-inc) X6
+R7 (5SC, SC-inc) X6 (42)
 
-R8 (6SC, SC-inc) X6
+R8 (6SC, SC-inc) X6 (48)
 
 R9-19 48SC
 
@@ -233,21 +233,21 @@ R9-19 48SC
 
 *Keep a notebook or a piece of scrap paper to write the number of the round you are working on, and then tick it when you have completed it.* 
 
-R20 (6SC, SC-dec) X6
+R20 (6SC, SC-dec) X6 (42)
 
-R21 (5SC, SC-dec) X6
+R21 (5SC, SC-dec) X6 (36)
 
 Place the eyes with a width of 6SC between them.
 
 Start stuffing.
 
-R22 (4SC, SC-dec) X6
+R22 (4SC, SC-dec) X6 (30)
 
-R23 (3SC, SC-dec) X6
+R23 (3SC, SC-dec) X6 (24)
 
-R24 (2SC, SC-dec) X6
+R24 (2SC, SC-dec) X6 (18)
 
-R25 (1SC, SC-dec) X6
+R25 (1SC, SC-dec) X6 (12)
 
 Finish stuffing.
 
@@ -283,21 +283,21 @@ Use a 2.5 mm hook.
 
 The main part of the wig is worked in the round, the rolls are worked in rows, the strands, and curls are worked by chaining and then slip stitching back to the beginning of the chain.
 
-R1 *Place the stitch marker on the first SC as you crochet it*. 6 SC in MR.
+R1 *Place the stitch marker on the first SC as you crochet it*. 6 SC in MR. (6)
 
-R2  (SC-inc) X6.
+R2  (SC-inc) X6. (12)
 
-R3 (1SC, SC-inc) X6
+R3 (1SC, SC-inc) X6 (18)
 
-R4 (2SC, SC-inc) X6
+R4 (2SC, SC-inc) X6 (24)
 
-R5 (3SC, SC-inc) X6
+R5 (3SC, SC-inc) X6 (30)
 
-R6 (4SC, SC-inc) X6
+R6 (4SC, SC-inc) X6 (36)
 
-R7 (5SC, SC-inc) X6
+R7 (5SC, SC-inc) X6 (42)
 
-R8 (6SC, SC-inc) X6
+R8 (6SC, SC-inc) X6 (48)
 
 R9-10 48SC
 
@@ -337,15 +337,15 @@ Count 18SC from your Stitch marker. This is where you should start the first sid
 
 R11 10SC.
 
-R12 Ch2, turn. (DC, DC-inc) X4, 2 DC. -14
+R12 Ch2, turn. (DC, DC-inc) X4, 2 DC. (14)
 
-R13 Ch2, turn. (2DC, DC-inc) X4, 2DC. -17
+R13 Ch2, turn. (2DC, DC-inc) X4, 2DC. (17)
 
-R14 Ch2, turn. (3DC, DC-inc) X4, 1DC. -19
+R14 Ch2, turn. (3DC, DC-inc) X4, 1DC. (19)
 
-R15 Ch2, turn. (4DC, DC-inc) X3, 4DC. -21
+R15 Ch2, turn. (4DC, DC-inc) X3, 4DC. (21)
 
-R16 Ch2, turn. (5DC, DC-inc) X3, 3DC. -24
+R16 Ch2, turn. (5DC, DC-inc) X3, 3DC. (24)
 
 R17 Ch2, turn. 24DC
 
@@ -385,18 +385,20 @@ You will proceed in the same manner as the first side roll.
 
 R11 10SC.
 
-R12 Ch2, turn. (DC, DC-inc) X4, 2 DC. -14
+R12 Ch2, turn. (DC, DC-inc) X4, 2 DC. (14)
 
-R13 Ch2, turn. (2DC, DC-inc) X4, 2DC. -17
+R13 Ch2, turn. (2DC, DC-inc) X4, 2DC. (17)
 
-R14 Ch2, turn. (3DC, DC-inc) X4, 1DC. -19
+R14 Ch2, turn. (3DC, DC-inc) X4, 1DC. (19)
 
-R15 Ch2, turn. (4DC, DC-inc) X3, 4DC. -21
+R15 Ch2, turn. (4DC, DC-inc) X3, 4DC. (21)
 
-R16 Ch2, turn. (5DC, DC-inc) X3, 3DC. -24
+R16 Ch2, turn. (5DC, DC-inc) X3, 3DC. (24)
 
 R17 Ch2, turn. 24DC
+
 R18 Ch2, turn. 24DC
+
 R19 Ch1, turn. 24SC
 
 Ch1, tie off.
@@ -414,7 +416,7 @@ Start with brown.
 
 R1 *Place the stitch marker on the first SC as you crochet it*. 4SC in MR.
 
-R2 (Sc-inc) X2. -8
+R2 (Sc-inc) X2. (8)
 
 R3-4 8SC
 
@@ -513,8 +515,8 @@ By now you should have made the foot and legs, the hand and arms, and the head. 
 
 Start with the grey yarn. 
 
-** Make sure to place the legs with the feet facing the same direction.**
-** Make sure that the heels are the parts the closest to you.**
+**Make sure to place the legs with the feet facing the same direction.**
+**Make sure that the heels are the parts the closest to you.**
 
 You are going to start from the right leg.
 
@@ -554,21 +556,21 @@ Stuff the thighs and the abdomen quite firmly so that they don't go all limp whe
 
 You are going to start from the front center of the belly. SS, Ch1, SC in same stitch. Place a stitch Marker.
 
-R1 4SC along the belly. Ch1. 8SC along the left arm. SC in ch. 10SC along the back of the body. Ch1. 8SC along the right arm. SC in ch. 5SC along the belly. - 40
+R1 4SC along the belly. Ch1. 8SC along the left arm. SC in ch. 10SC along the back of the body. Ch1. 8SC along the right arm. SC in ch. 5SC along the belly. (40)
 
 R2 40SC.
 
-R3 4SC, SC-dec, 3SC, SC-dec, 3SC, SC-dec, 8SC, SC-dec, 3SC, SC-dec, 3SC, SC-dec, 4SC. -34
+R3 4SC, SC-dec, 3SC, SC-dec, 3SC, SC-dec, 8SC, SC-dec, 3SC, SC-dec, 3SC, SC-dec, 4SC. (34)
 
-R4 3SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 2SC, SC-dec, 2SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 3SC. -25
+R4 3SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 2SC, SC-dec, 2SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 3SC. (25)
 
 You should stuff since we are reaching the top of the torso and the hole of the neck will become too small to stuff later.
 
-R5 (SC, SC-dec) X8, SC in rem stitch -17
+R5 (SC, SC-dec) X8, SC in rem stitch (17)
 
-R6 (2SC, SC-dec) X4, SC in rem stitch - 13
+R6 (2SC, SC-dec) X4, SC in rem stitch (13)
 
-R7 5SC, SC-dec, 5SC -11
+R7 5SC, SC-dec, 5SC (11)
 
 R8 11SC
 
@@ -648,7 +650,7 @@ Sew the Jabot along the collar at the front.
    
 You should now feel comfortable with crocheting shell stitches.
 
-#Coat
+# Coat
 
 The main part of the coat is made of shell stitches. The collar is made of HDC stitches. The sleeves are made of DC stitches.
 
