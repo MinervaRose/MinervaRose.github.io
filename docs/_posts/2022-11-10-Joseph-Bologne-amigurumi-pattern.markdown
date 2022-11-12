@@ -16,7 +16,7 @@ Pattern designed by VioletAndOberon
 
 *This pattern is part of a bigger project by VioletAndOberon and Tes Grands Auteurs en Petits Morceaux aiming at educating by featuring dolls dedicated to composers, writers, painters, and other artists whose life and face are often hidden behind the masterpieces that they created.*
 
-I make this pattern available free of charge here, because a considerable number of my followers, susbscribers, and viewers come from low-income countries.
+I make this pattern available free of charge here, because a considerable number of my followers, subscribers, and viewers come from low-income countries.
 
 If you wish to support my work, please consider purchasing the printer-friendly PDF version of this pattern (link to be added soon) or the illustration below that is available on T-shirts and other other products exclusively at [the VioletAndOberon Redbubble shop.](https://www.redbubble.com/i/t-shirt/Cute-little-Joseph-Bologne-and-his-violin-by-VioletAndOberon/131011751.NL9AC)
 
