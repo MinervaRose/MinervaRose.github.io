@@ -20,6 +20,8 @@ I make this pattern available free of charge here, because a considerable number
 
 If you wish to support my work, please consider purchasing the printer-friendly PDF version of this pattern (link to be added soon) or the illustration available on T-shirts and other other products [here.](https://www.redbubble.com/i/t-shirt/Cute-little-Joseph-Bologne-and-his-violin-by-VioletAndOberon/131011751.NL9AC)
 
+![Cute little Joseph Bologne amigurumi illustration](/images/st-george-illustration.png)
+
 # Introduction
 
 ### About Joseph Bologne Chevalier de Saint-Georges
@@ -260,6 +262,8 @@ R1 6SC in MR
 
 Sew then 6SC apart from the eyes.
 
+![Cute ears of Joseph Bologne amigurumi](/images/st-george-ears.JPG)
+
 # Eyes
 
 Sew some white on the exterior side of each eye.
@@ -430,6 +434,8 @@ R8-14 8SC.
 
 SS. Tie off, but keep a tail that might be used to sew the armpits if they are a bit too loose.
 
+![Arms of the Joseph Bologne amigurumi](/images/st-george-arm.JPG)
+
 Do not close the hole. We need the 8SC because we will crochet them with the torso later on.
 
 Use a pencil to push a little bit of filling down to the hand. Put very little in the arm.
@@ -528,6 +534,8 @@ R1 SC in the right leg. Ch2. SC in the left leg. SC3, SC-inc, SC5 along the left
 
 R2-4 28SC (28)
 
+![Crocheting the legs together](/images/st-george-legs-together.JPG)
+
 Change to black.
 
 R5 28SC
@@ -543,6 +551,8 @@ R8 (4SC, SC-dec) X4 (20)
 R9-11 20SC
 
 SS. Tie off.
+
+![Amigurumi of Joseph Bologne making his belly](/images/st-george-abdomen.JPG)
 
 Stuff the thighs and the abdomen quite firmly so that they don't go all limp when you will put the doll up. But do not overstuff. You need to take the arms now as you will be crocheting them to the torso.
 
@@ -566,6 +576,8 @@ R4 3SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 1SC, SC-dec, 2SC, SC-dec, 2SC, SC-dec,
 
 You should stuff since we are reaching the top of the torso and the hole of the neck will become too small to stuff later.
 
+![Crochet the torso and shoulders in continuity to the belly](/images/st-george-torso.JPG)
+
 R5 (SC, SC-dec) X8, SC in rem stitch (17)
 
 R6 (2SC, SC-dec) X4, SC in rem stitch (13)
@@ -578,6 +590,9 @@ Do not stuff the neck too much.
 In order for the head not to bobble, I find it best to put a piece of plastic of wood that acts like a spine from the body to the neck of the doll.
 
 Tie off. Keep tail for sewing head.
+
+![Body of Joseph Bologne amigurumi](/images/st-george-body-complete.JPG)
+
 
 # Sewing the head
 
@@ -614,6 +629,12 @@ Place and pin. Make sure to gently roll the tip of each strands. Use the picture
 
 Once everything is positioned and pinned securely, sew on to the head.
 
+
+![Pinning the hair of the Joseph Bologne amigurumi](/images/st-george-pinned-wig.JPG)
+
+![Joseph Bologne amigurumi with his wig sewed on and his face embellished](/images/st-george-head-wig.JPG)
+
+
 # Jabot and cuffs
 
 *The jabot and cuffs are rectangles made with shell stitches. The only difference between the jabot and the cuff is the amount of rows.*
@@ -624,11 +645,15 @@ Use a 2mm hook.
 
 ## Cuffs
 
+Make two.
+
 R1 Ch23. Starting from the 2nd ch from your hook, (SC, skip 2, 5DC into the next st, skip 2) X3. SC, skip 2, 3DC in the last ch of the row.
 
 R2-5  Ch1, turn. SC into the first DC stitch. 5DC into the next SC stitch. Skip 2. SC into the next DC stitch. 5DC into the next SC stitch. Skip 2 SC into the next DC stitch. 5DC into the next SC stitch. Skip 2 SC into the next DC. Skip 2, 3DC into the last SC.
 
-Sew the two sides of each cuff to make a tube.
+![Pretty lacy cuffs of Joseph Bologne amigurumi](/images/st-george-cuff.JPG)
+
+Sew the two sides of to make a tube.
 
 Place onto the arms at R8 so that it matches the beginning of the white sleeve. Sew.
  
@@ -647,8 +672,15 @@ Place it around the neck of your little Joseph Bologne, and sew to join the two 
 
 Sew the Jabot along the collar at the front.
 
+![Jabot of Joseph Bologne](/images/st-george-jabot.JPG)
+
    
 You should now feel comfortable with crocheting shell stitches.
+
+
+If you wish, you can choose to stop here and not to crochet the coat of the Joseph Bologne amigurumi. He already looks quite dapper and dashing.
+
+![Amigurumi of Joseph Bologne without his coat on](/images/st-george-almost.JPG)
 
 # Coat
 
@@ -662,7 +694,9 @@ You should have 6 shells and a half.
 
 R3 Ch1, turn. SC into the first DC st, 5DC into the next SC st. Then (SC into the 3rd DC st of the shell, 5DC into the next SC) X5. Sc into the 3rd DC st of the shell, 3DC into the last st of the row.
 
-Proceed in the same manner R8 included.
+![Bottom of the coat of Joseph Bologne amigurumi](/images/st-george-coat-bottom.JPG)
+
+R3-R8 Proceed in the same manner R8 included.
 
 Now you are going to work only on one side to create the first front part of the coat. Start with the **right**
 .
@@ -710,6 +744,8 @@ Use the yarn needle to join the two sides of the sleeves from R1 to 3.
 
 Sew the sleeves to the sleeve holes of the coat.
 
+![All the parts of the coat of Joseph Bologne amigurumi](/images/st-george-coat-parts.JPG)
+
 # Waistcoat flaps
 
 Instead of making a full waistcoat, you are only going to make the two front flap parts that you will then sew inside the coat.
@@ -728,7 +764,19 @@ R8 Ch1, turn. SS in the next 9th SC from R7, then 8SC.
 
 R9 Ch1, turn. 7SC. SS in next st.
 
+![Waistcoat parts](/images/st-george-waistcoat-parts.JPG)
+
+![Waistcoat flaps sewn to the coat](/images/st-george-waistcoat-sewn.JPG)
+
+![Close-up of the coat and waistcoat of Joseph Bologne amigurumi](/images/st-george-closeup-coat.JPG)
+
+
 # Joseph Bologne's violin
+
+
+You are going to crochet all the parts of the violin and then sew them together. It is quite a fun process.
+
+![All the little parts of the amigurumi violin](/images/st-george-violin-parts.JPG)
 
 ## Violin plates
 
@@ -758,6 +806,9 @@ R4 8SS. SC in next st, ch2, SS in 1st ch, SS in the SC that you have just made, 
 7SC.
 
 R5 Ch1, FLO-SC into the 1st st. 7FLO-SC. ch1. Skip the pointy part. 10FLO-SC. ch1. Skip the pointy part. 15FLO-SC. ch1. Skip the pointy part. 10FLO-SC. ch1. Skip the pointy part. 8FLO-SC.  
+
+
+![Amigurumi violin plates](/images/st-george-violin-plates.JPG)
 
 ## Violin neck
 
@@ -806,6 +857,8 @@ Use a yarn needle.
 
 Sew through the top of the neck. Then through the bridge. Then through the tailpiece. Then back up, back down, back up. And there you go, four strings.
 
+![The beautiful violin of Joseph Bologne amigurumi](/images/st-george-full-violin.JPG)
+
 ## Bow
 
 You may crochet the wooden part of the bow by crocheting around a piece of wire, and then add a white piece of yarn along the two ends.
@@ -816,6 +869,15 @@ You may crochet the wooden part of the bow by crocheting around a piece of wire,
 ### Other accessories
 
 I will add other accessories to this pattern. Please make sure to bookmark it and come back to see updates.
+
+# Et voilà!
+
+Congratulations for completing the amigurumi Joseph Bologne Chevalier de Saint-Georges project. I am so happy for you :) 
+
+
+![Joseph Bologne amigurumi fully crocheted](/images/st-george-full-doll.JPG)
+
+![Fully completed amigurumi of Joseph Bologne](/images/st-george-amigurumi.JPG)
 
 
 # How to share your beautiful Joseph Bologne amigurumi?
@@ -828,7 +890,7 @@ Use the Hashtag #VioletAndOberon when sharing your pictures on social media, and
 
 If you appreciated this free crochet pattern and want to support my endeavours, you may treat yourself with one of the beautiful illustrations and designs dedicated to Joseph Bologne Chevalier de Saint-Georges that I created and adapted for the VioletAndOberon [Redbubble shop]([https://www.redbubble.com/shop/?query=violetandoberon](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant)).
 
-* This is a work in progress, I still need to add all the pictures. Thank you for your patience and for coming back to this blog post in a few days.*
+*This is a work in progress, I still need to add all the pictures. Thank you for your patience and for coming back to this blog post in a few days.*
 
 
 
