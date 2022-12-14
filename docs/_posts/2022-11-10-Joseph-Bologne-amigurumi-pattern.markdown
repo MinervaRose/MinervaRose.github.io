@@ -913,7 +913,8 @@ Use the Hashtag #VioletAndOberon when sharing your pictures on social media, and
 
 # How to support VioletAndOberon
 
-If you appreciated this free crochet pattern and want to support my endeavours, you may treat yourself with one of the beautiful illustrations and designs dedicated to Joseph Bologne Chevalier de Saint-Georges that I created and adapted for the VioletAndOberon [Redbubble shop.](https://www.redbubble.com/shop/?query=violetandoberon](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant)
+If you appreciated this free crochet pattern and want to support my endeavours, you may wish to treat yourself with one of the beautiful illustrations and designs dedicated to Joseph Bologne Chevalier de Saint-Georges that I created and adapted for the VioletAndOberon [Redbubble shop.](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant)
+Thank you for your kindness and generosity.
 
 
 
