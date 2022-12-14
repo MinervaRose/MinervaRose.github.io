@@ -22,6 +22,10 @@ If you wish to support my work, please consider purchasing the printer-friendly 
 
 ![Cute little Joseph Bologne amigurumi illustration](/images/st-george-illustration.png)
 
+You may also wish to discover my other beautiful artworks in the Chevalier de Saint-Georges collection such as this illustration of Joseph Bologne playing the violin while Marie Antoinette Queen of France is playing the harp. I love it printed on this [mug.](https://www.redbubble.com/i/mug/Chevalier-de-Saint-Georges-Joseph-Bologne-and-Marie-Antoinette-Queen-of-France-by-VioletAndOberon/134863182.9Q0AD)
+
+![Joseph Bologne practising music with Marie Antoinette](/images/work-134863182-classic-mug.jpg)
+
 # Introduction
 
 ### About Joseph Bologne Chevalier de Saint-Georges
