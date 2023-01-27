@@ -10,6 +10,8 @@ Pattern designed by VioletAndOberon
 
 **Warning: this crochet object, no matter how cute it is, is not a toy. It has not been tested for safety. Do not give it to children or pets.**
 
+If you don't know Joseph Bologne, you may wish to start with watching [this amazing presentation of his life in English](https://youtu.be/v7LXX57swb0), with animations and epic music.
+
 # Copyright information
 
 **This pattern or any portion thereof may not be reproduced in any manner whatsoever without the express written permission of the designer.**
@@ -30,7 +32,7 @@ You may also wish to discover my other beautiful artworks in the Chevalier de Sa
 
 ### About Joseph Bologne Chevalier de Saint-Georges
 
-Joseph Bologne (1745-1799) was a champion fencer and a virtuoso violinist and conductor. **He is the first classical composer of African ancestry.** His music and talent were so prodigious that he took Paris by storm. Even though his father was a mere planter in the French colony of Guadeloupe and his mother was a slave, Chevalier de Saint-Georges reached the highest levels of the society of the time. He even became close to Queen Marie-Antoinette and to the Prince of Wales. This [video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8s8j1wIX0AhUNac0KHd-PD6wQtwJ6BAgGEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4eKVZPXsac&usg=AOvVaw1wdx_byv5Yk_LDwIf_QKrv) in French with subtitles is a nice short introduction to his life.
+Joseph Bologne (1745-1799) was a champion fencer and a virtuoso violinist and conductor. **He is the first classical composer of African ancestry.** His music and talent were so prodigious that he took Paris by storm. Even though his father was a mere planter in the French colony of Guadeloupe and his mother was a slave, Chevalier de Saint-Georges reached the highest levels of the society of the time. He even became close to Queen Marie-Antoinette and to the Prince of Wales.
 
 If you have been following me for a little while, you know that I have a profound love for his music. 
 
