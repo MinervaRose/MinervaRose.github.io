@@ -23,7 +23,7 @@ As mentioned in [this previous blog post](https://www.violetandoberon.com/redbub
 **Joseph Bologne, Chevalier de Saint-Georges**, was a [composer](https://www.wikiwand.com/en/Chevalier_de_Saint-Georges), son of a slave and a French plantation owner. He rose to the heights of French society.
 
 
-Tes Grands Auteurs En Petits Morceaux, French educational YouTuber, made a short educational [Youtube video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8s8j1wIX0AhUNac0KHd-PD6wQtwJ6BAgGEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4eKVZPXsac&usg=AOvVaw1wdx_byv5Yk_LDwIf_QKrv) to introduce the life of the French prodigy. Feel free to turn on the subtitles in the language of your choice.
+To know more about his life, watch this amazing video in English with our beautiful digial art, fun animations, special affects and superb music [Youtube video](https://youtu.be/v7LXX57swb0). Feel free to turn on the subtitles in the language of your choice.
 
 
 *We could not find any Joseph Bologne T-shirts so we made our own!* 
@@ -76,5 +76,3 @@ We hope you will appreciate the love and care we put in our Chevalier de Saint-G
 
 We warmly welcome commisions, kindly reach out to our email address, contact at violetandoberon dot com.
 
-
-Please consider following us on [Instagram](https://www.instagram.com/violetandoberon/).
