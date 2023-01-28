@@ -559,19 +559,19 @@ Since we are making the crotch, make sure that you are starting from the inner p
 
 SS in the right leg.
  
-R1 SC in the right leg. Ch2. SC in the left leg. SC3, SC-inc, SC5 along the left leg. SC2 along the chain. SC in the right leg. SC3, SC-inc, SC3. (28)
+R1 SC in the right leg. Ch2. SC in the left leg. SC3, SC-inc, SC5 along the left leg. SC2 along the chain. SC in the right leg. SC3, SC-inc, SC3. (25) *I am only human, there might be small errors in my counting, please reach out if I need to correct anything in this pattern, thank you.*
 
-R2-4 28SC (28)
+R2-4 25SC (25)
 
 ![Crocheting the legs together](/images/st-george-legs-together.JPG)
 
 Change to black.
 
-R5 28SC
+R5 25SC
 
-R6 28BLO-SC (28)
+R6 25BLO-SC (25)
 
-R7 (5BLO-SC, BLO-SC-dec) X4 (24)
+R7 12BLO-SC, 1BLO-SC-dec, 11BLO-SC (24)
 
 Change to white.
 
