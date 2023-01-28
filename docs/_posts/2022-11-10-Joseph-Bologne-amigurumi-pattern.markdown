@@ -484,7 +484,7 @@ Start with black.
 
 Ch6. Start from the 2nd ch from your hook.
 
-R1 4SC, SC-incT, 3SC, 2SC (12)
+R1 4SC, SC-incT, 3SC, SC-inc (12)
 
 R2 SC-inc, 3SC, Sc-inc, Sc, Sc-Inc, 3SC, Sc-Inc, Sc (16)
 
