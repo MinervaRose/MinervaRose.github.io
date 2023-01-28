@@ -616,7 +616,7 @@ R7 5SC, SC-dec, 5SC (11)
 R8 11SC
 
 Do not stuff the neck too much.
-In order for the head not to bobble, I find it best to put a piece of plastic of wood that acts like a spine from the body to the neck of the doll.
+In order for the head not to bobble, I find it best to put a piece of plastic or wood that acts like a spine from the body to the neck of the doll.
 
 Tie off. Keep tail for sewing head.
 
