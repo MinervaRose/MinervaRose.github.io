@@ -10,9 +10,9 @@ Pattern designed by VioletAndOberon
 
 # Introduction
 
-I have always been somewhat of a space nerd. For my 10th Christmas, I was gifted a telescope and an astronomy book. Lookin up has remained one of mu favourite hobbies ever since. I usually never miss any [Nuit des étoiles](https://www.afastronomie.fr/les-nuits-des-etoiles). In summer, I put on a big cardigan and bring my telescope on the terrace in the middle of the night to look at the Perseid and Leonid meteor showers. In winter, I love listening to [Star Talks](https://www.youtube.com/results?search_query=star+talks), Neil de Grasse Tyson and Chuck Nice have such a fun way to share knowledge about the universe.   
+I have always been somewhat of a space nerd. For my 10th Christmas, I was gifted a telescope and an astronomy book. Lookin up has remained one of my favourite hobbies ever since. I usually never miss any [Nuit des étoiles](https://www.afastronomie.fr/les-nuits-des-etoiles). In summer, I put on a big cardigan and bring my telescope on the terrace in the middle of the night to look at the [Perseids](https://en.wikipedia.org/wiki/Perseids) meteor showers. In winter, I love listening to [Star Talks](https://www.youtube.com/results?search_query=star+talks), Neil de Grasse Tyson and Chuck Nice have such a fun way to share knowledge about the universe.   
 
-As I am getting more into creating crochet wearable, I thought I should make a cardigan that shows my love for space.
+As I am getting more into creating crochet wearable, I thought I should make a cardigan that shows my passion for space.
 
 For the first blog article about this project, I have decided to share the pattern of the rocket spaceship appliqué that I have just designed. 
 
@@ -21,7 +21,7 @@ For the first blog article about this project, I have decided to share the patte
 
 **This pattern or any portion thereof may not be reproduced in any manner whatsoever without the express written permission of VioletAndOberon.**
 
-*This pattern is available free of charge, not only because it is pretty straightforward but also because a considerable number of my followers comes from low-income countries. Be nice.*
+*This pattern is available free of charge, not only because it is pretty straightforward but also because a considerable number of my followers comes from low-income countries. Be nice and provide attribution.*
 
 
 # Pattern information
@@ -127,7 +127,7 @@ Use white yarn to stitch a some arcs of light reflection into the window.
 
 With grey glitter yarn. Fun fact, the yarn I used was from a store-bought child sweater that I frogged.
 
-Start at the bottom centre of the rocket. Surface crochet with slip stitch all along the edges and between color changes.
+Start at the bottom centre of the rocket. Surface crochet on the right side of the work with slip stitches all along the edges and between color changes.
 
 
 # Bonus
@@ -150,7 +150,7 @@ You are now the proud maker of a really fun and sweet rocket crochet appliqué. 
 
 # Support a creator
 
-You may wish to visit the [VioletAndOberon Redbubble shop](https://www.redbubble.com/people/VioletAndOberon/shop) and treat yourself of a loved one to a lovely product on the theme of [space](https://www.redbubble.com/shop/VioletAndOberon%20space?search_type=search_box) or anything else that you might like as you visit the online [shop](https://www.redbubble.com/people/VioletAndOberon/shop).
+You may wish to visit the [VioletAndOberon Redbubble shop](https://www.redbubble.com/people/VioletAndOberon/shop) and treat yourself or a loved one to a lovely product on the theme of [space](https://www.redbubble.com/shop/VioletAndOberon%20space?search_type=search_box) or anything else that you might like as you visit the online [shop](https://www.redbubble.com/people/VioletAndOberon/shop).
 
 When you purchase from the VioletAndOberon shop, you get a very lovely thing (mug, T-shirt, mouse pad, and so much more), and you do the good deed of supporting a disabled creator. 
 
