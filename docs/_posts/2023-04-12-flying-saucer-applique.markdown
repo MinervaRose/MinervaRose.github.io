@@ -76,7 +76,7 @@ R4 Ch1. Turn. SC-dec 3 together. If you don't know how to do it, simply: insert 
 
 Add a bit of light reflection on the cockpit, either with a few surface crochet st, or sewing some white thread.
 
-Add lights. If you know how to make French knots, this is your time to shine. Otherwise sewing in small knots of yarn.
+Add lights. If you know how to make French knots, this is your time to shine. Otherwise you may want to sew in small knots of yarn.
 
 
 ![UFO simple crochet appliqué by VioletAndOberon](/images/img-flying-saucer-granny.JPG)
@@ -97,12 +97,12 @@ Use you yarn needle to sew on a knot of black yarn and then a strand of white ya
 
 ## Giving more dimensionality to the flying saucer
 
-I created ridges by slip stitching on the surface all around and between parts of the lying saucer, and to make it a bit higher, I then SC on top.
+I created ridges by slip stitching on the surface all around and between parts of the flying saucer, and to make it a bit higher, I then SC on top.
 
 ![UFO derpy aliens crochet appliqué by VioletAndOberon](/images/img-flying-saucer-derpy.JPG)
 
 
-The aliens look so delightfully confused. I can't help giggling every time I find that granu square in my stash. 
+The aliens look so delightfully confused. I can't help giggling every time I find that granny square in my stash. 
 
 
 ![UFO confused aliens crochet appliqué by VioletAndOberon](/images/img-flying-saucer-aliens.JPG)
