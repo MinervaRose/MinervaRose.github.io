@@ -10,13 +10,13 @@ categories: crochet
 
 ## and so can you!
 
-Today is the vernal equinox. This means Spring is officially starting. Since it is still pretty chilly, I decided to make a sweater for my Jack Russell terrier. She can wear it outside instead of her big winter coat. It is not too bulky and still allow me to put her harness on easily. Plus, I would love her to be extra pretty and fashionable for Easter.
+Today is the vernal equinox. This means Spring is officially starting. Since it is still pretty chilly, I decided to make a sweater for my Jack Russell terrier. She can wear it outside instead of her big winter coat. It is not too bulky and still allows me to put her harness on easily. Plus, I would love her to be extra pretty and fashionable for Easter.
 
-I thought granny squares would be the perfect project for the start of Spring. I explored my stash of leftover yarn. Some of the yarn is from the 1960s. It belonged to my grandmother and my mother. They used to knit together. I found some very vibrant apple green yarn that was all curly. I had a bit of scrap yellow and white. It was evident that I had to make daisy granny squares. Follow along to make the same dog sweater.
+I thought granny squares would be the perfect project for the start of Spring. I explored my stash of leftover yarn. Some of the yarn is from the 1960s. It belonged to my grandmother and my mother. They used to knit together. I found some very vibrant apple green yarn that was all curly. I had a bit of scrap yellow and white yarn. It was clear to me that I had to crochet daisy granny squares. Follow along to make the same dog sweater.
 
 # Crocheting a small daisy granny square
 
-The small daisy granny squares that I am making for my doggy sweater are made in three rounds. Once completed they should be about 6 to 7 cm wide.
+The small daisy granny squares that I am making for my doggy sweater are made in three rounds. Once completed they should be about 6 to 7 cm wide, i.e. 2.7 inches.
 
 ![Daisy granny square three rounds](/images/IMG-daisy square 3 steps.JPG)
 
@@ -26,7 +26,7 @@ The small daisy granny squares that I am making for my doggy sweater are made in
 
 With yellow yarn.
 
-R1 Ch3. DC11 into 1st ch. Pull the tail to tighten the centre. Weave it in, make a knot to secure it if you feel it's necessary. 
+R1 Ch3. DC11 into 1st ch. Pull the tail to tighten the centre. Weave it in, make a knot to secure it if you feel that it is necessary. 
 SS into the top of ch3, SS into 1st DC. Cut and weave in tails.
 
 ![Daisy granny square first round](/images/img-daisy-r1.JPG)
@@ -46,7 +46,7 @@ Then repeat three times: DC3tog. Ch1. DC3tog Ch1. DC3tog Ch2.
 
 Then DC3tog. Ch1. SS into first DC where you started the R2 sequence. Cut and weave in tails.
 
-As you can see, so far it looks round. But everytime you chained 2, you were actually making a corner. So your daisy is actually a square of 3-petal side. Try gently pulling on the 4 Ch2 to discover your little square shape.
+As you can see, so far it looks round. But everytime you chained 2, you were actually making a corner. So your daisy is actually a square of with 3 petals on each side. Try gently pulling on the 4 Ch2 to discover your little square shape.
 
 ![Crochet daisy granny square end of R2](/images/IMG_daisy-granny-square-endR2.JPG)
 
@@ -62,7 +62,7 @@ R3 Join in a space created by a Ch1 just before a Ch2, that is to say, join in t
 
 *Careful you are not doing DC2tog, you are actually making two DC. Do not chain after making your two DC.*
 
-Then in the corner space made: DC3. Ch1. DC3. Yes all of that in that space.
+Then in the corner space make: DC3. Ch1. DC3. Yes all of that in that space.
 
 You have just made your first green corner.
 
@@ -94,11 +94,11 @@ You can see that there is only one square placed between the two holes for the l
 
 ## Assembling
 
-I used a yarn needle and sew them from the back so that the stitching would not be visible. You are welcome to use any joining technique.
+I used a yarn needle to sew the back of the granny squares together so that the stitching would not be visible. You are welcome to use any joining technique.
 
 I ended up using 48 daisy granny squares.
 
-Both the front and back panel are made with 5 x 5 squares, but I removed two squares for the legs at the front.
+Both the front and back panels are made with 5 x 5 squares, but I removed two squares to leave room for the legs at the front.
 
 ## Making it pretty
 
@@ -142,7 +142,7 @@ There you go, your dog and mine are now proud daisy granny squares fashionistas.
 
 I also crocheted a basket of eggs and an Easter peeper.
 
-I loved taking photographs of my sweet Jack Russell wearing her daisy granny squares sweater. A great side effect of the sweater is that she was much calmer and less fidgety than usual!
+I loved taking photographs of my sweet Jack Russell wearing her daisy granny square sweater. A great side effect of the sweater is that she was much calmer and less fidgety than usual!
 
 ## Supporting the creator
 
@@ -150,6 +150,6 @@ I hope you enjoyed this blog post and that you will have fun crocheting a granny
 
 If you wish to support me, I would suggest purchasing something for yourself or a loved one at my Redbubble shop. I am continuously adding new designs, photos, and illustrations, which means you are sure to find your new favorite thing.
 
-Visit the shop [here](https://www.redbubble.com/people/VioletAndOberon/shop).
+Visit the online VioletAndOberon Redbubble shop [here](https://www.redbubble.com/people/VioletAndOberon/shop).
 
 Thank you for your generosity. Remember to bookmark the VioletAndOberon blog for more ideas, free crochet patterns, and more. 
