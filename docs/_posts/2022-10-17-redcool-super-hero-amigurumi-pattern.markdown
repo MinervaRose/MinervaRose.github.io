@@ -1,5 +1,5 @@
 ---
-title: "How to crochet Deadpool"
+title: "How to crochet a red super hero"
 date: 2022-10-17 09:45:06 -0500
 categories: crochet
 ---
@@ -9,18 +9,17 @@ categories: crochet
 **This free crochet pattern is for private use only. This pattern was designed by VioletAndOberon**
 **Please note that this fibre art object is not a toy. It is not suitable for children.**
 
-**Pattern writing still in progress**
 
-I have loved Deadpool ever since I watched the first movie. His irreverence and self-awareness changed the way I thought of super heroes. It made sense that my first pattern of an amigurumi that stands on its own was that of an adorable Deadpool.
+I love the irreverence of the red super hero. It made sense that my first pattern of an amigurumi that stands on its own was that of an adorable red super hero.
 
 The finished object is about 21 cm high. It is almost entirely made of acrylic yarn, except for the eyes that are scrap fabric that I cut and sewed on the head. 
 
 The process of making it is quite easy if you are used to crochet. 
 
 
-# Cute Deadpool amigurumi crochet pattern
+# Cute red super hero amigurumi crochet pattern
 
-This cute amigurumi Deadpool is meant to stand on its own. Make sure to pay extra attention when making the soles of the boots so that they are flat. If necessary, when stuffing, add a bit of heavier material to the polyfill at the bottom of the shoes - **remember, this is not a toy. Do not give it to children. Do not give it to pets.** 
+This cute amigurumi of red super hero is meant to stand on its own. Make sure to pay extra attention when making the soles of the boots so that they are flat. If necessary, when stuffing, add a bit of heavier material to the polyfill at the bottom of the shoes - **remember, this is not a toy. Do not give it to children. Do not give it to pets.** 
 
 
 ## Abbreviations
@@ -122,7 +121,7 @@ In the next step, you will be crocheting the arms and body together.
 Do not stuff the arms too much, particularly towards the top, because you might end up with the arms stuck in an awkward stiff position, perpendicular to the body.
 
 
-![Deadpool crochet arm](/images/deadpool-arm.jpg)
+![Red super hero crochet arm](/images/deadpool-arm.jpg)
 
 
 ## Upper body
@@ -139,13 +138,13 @@ R3 sc in next 4, sc2tog, sc in next 5, sc2tog, sc in next 7, sc2tog, sc in next 
 
 Make sure to sew the hole under each arm.
 
-![Deadpool sewing the armpits](/images/deadpool-sewing-armpit.jpg)
+![Red super hero sewing the armpits](/images/deadpool-sewing-armpit.jpg)
 
 R4 sc in next 3 st, sc2tog, sc in next 4 st, sc2tog, sc in next 2 st, sc2tog, sc in next 3 st, sc2tog, sc in next 4 st, sc2tog, sc in next 2 st, sc2tog (24)
 
 R5 (sc in next st, sc2tog) * 8 (16)
 
-![Deadpool body with arms](/images/deadpool-body-two-arms.jpg)
+![Red super hero body with arms](/images/deadpool-body-two-arms.jpg)
 
 R6 (sc in next 2 st, sc2tog) * 4 (12)
 
@@ -156,7 +155,7 @@ Fasten off. Keep long tail for sewing head.
 Stuff the body firmly particularly towards the neck, but do not put too much.
 
 
-![Deadpool body completed and stuffed](/images/deadpool-stuffed-body.jpg)
+![Red super hero body completed and stuffed](/images/deadpool-stuffed-body.jpg)
 
 
 ## Head
@@ -179,7 +178,7 @@ Fold the rectangle along the longest part, ss to join, ch 1.
 
 Now you will be starting the head and crocheting in the round.
 
-![Deadpool tip of head](/images/deadpool-tip-head.jpg)
+![Red super hero tip of head](/images/deadpool-tip-head.jpg)
 
 
 #### The head
@@ -219,7 +218,7 @@ Stuff the head firmly. Squish it a bit at the bottom.
 Sew onto the body.
 
 
-![Deadpool completed head](/images/deadpool-completed-head.jpg)
+![Red super hero completed head](/images/deadpool-completed-head.jpg)
 
 ## Embellishments
 
@@ -252,15 +251,15 @@ R1 6 dc. ch1, turn
 R2 ss in first and second st. ch2, dc in next 2 st, ch2, ss in next 2 st. Fasten off. Leave long tail to sew onto body.
 
 
-![Deadpool crochet amigurumi completed from free pattern](/images/amigurumi-deadpool-complete.JPG)
+![Red Super Hero crochet amigurumi completed from free pattern](/images/amigurumi-deadpool-complete.JPG)
 
 
 ### Other accessories
 
-I will add other accessories to this pattern. Please make sure to bookmark it and come back to see updates.
+I might add other accessories to this pattern. Please make sure to bookmark it and come back to see updates.
 
 
-If you appreciated this free crochet pattern and want to support my endeavours, you may treat yourself with one of the beautiful designs that I created and adapted for our [Redbubble shop](https://www.redbubble.com/shop/?query=violetandoberon).
+If you appreciated this free crochet pattern and want to support my endeavours, you may treat yourself with one of the beautiful designs that I created and adapted for the VioletAndOberon [Redbubble shop](https://www.redbubble.com/shop/?query=violetandoberon).
 
 
 
