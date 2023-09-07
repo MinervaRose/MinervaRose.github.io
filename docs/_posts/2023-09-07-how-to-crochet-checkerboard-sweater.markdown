@@ -41,7 +41,7 @@ If you manage to crochet 20 squares a day, you can be done making squares after 
 
 The squares work up really fast, so after a couple, you will be in the flow and won't see the time pass. Particularly if you are watching your favorite show on Netflix to keep you company.
 
-I ended up choosing to make the shape a little bit different to go with the rest of my clothes. I opted for a bomber jacket style of cardigan. To achieve the shape, I added some ribbing around the neck hole, the cuffs, and at the bottom.
+Eventually, I decided to make the shape a little bit different to go with the rest of my clothes. I opted for a bomber jacket style of cardigan. To achieve the shape, I added some ribbing around the neck hole, the cuffs, and at the bottom.
 
 # Resources
 
