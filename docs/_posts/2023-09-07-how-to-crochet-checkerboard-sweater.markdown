@@ -1,5 +1,5 @@
 ---
-title: "How to crochet a checkerboard sweater"
+title: "How to crochet a checkerboard sweater inspired by Wednesday Adams"
 date: 2023-09-07 09:45:06 -0500
 categories: crochet
 ---
