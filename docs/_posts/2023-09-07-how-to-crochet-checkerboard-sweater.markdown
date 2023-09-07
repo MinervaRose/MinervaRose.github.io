@@ -53,6 +53,31 @@ If you already know single crochet and double crochet, your can directly watch t
 
 *This post is a work in progress, I will keep adding to it*
 
+# Making the cuffs
+
+You may choose to keep your sleeves very wide, including at the cuffs - then you don't need to make any ribbed edging. You can just leave the sleeves as they are after sewing all the squares or you could do a row of single crochet all around. 
+
+You could do like what I did, a tight ribbed edging. 
+
+### Start with decreasing
+
+Take you sleeve and pinch it tight around your wrist. You will see that you should need only half the squares or even less to wrap around your wrist. This will give you an idea of how much you need to decrease. 
+
+This is what worked for me with a 2.5 mm hook:
+
+R1 SC all around
+
+R2 SC-decrease all around
+
+R3 (SC, SC, SC-decrease) all around
+
+R4 DC all around
+
+R5 - R10 FPBPDC all around
+
+![Ribbed edging of the cuff of the crochet checkerboard sweater](/images/cuff.jpg)
+
+
 # Supporting the creator
 
 My crochet video series is called, The Sisterhood of the Crochet Klatch. You can see the beautiful logo in each of the tutorial videos.
