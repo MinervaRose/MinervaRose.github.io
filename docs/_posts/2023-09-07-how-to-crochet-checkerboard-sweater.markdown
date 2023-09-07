@@ -8,7 +8,7 @@ categories: crochet
 
 *A tutorial by VioletAndOberon*
 
-I was wondering what new crochet project I would make, when I finally got to watch Wednesday Adams on Netflix. I was expecting all black fashion, or maybe only stripes but when I saw her wonderful sweaters, I knew I had them for myself. I particularly loved the checkerboard one.
+I was wondering what new crochet project I would make, when I finally got to watch Wednesday Adams on Netflix. I was expecting all black fashion, or maybe only stripes but when I saw her wonderful sweaters, I knew I had to make them for myself. I particularly loved the checkerboard one.
 
 Then I looked through patterns and got worried. I am quite large. I buy plus size dresses and purchase my T-shirts in the Men's section. Long story short, I was really doubtful that I would be able to find a pattern that fits me. I did not want to have to go through endless trial and error modifications.
 
