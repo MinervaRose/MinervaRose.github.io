@@ -7,21 +7,7 @@ permalink: /about/
 ![image-center]({{ '/images/image-2.jpg' | absolute_url }}){: .align-center}
 
 
-**VioletAndOberon is the name of a graphic and fibre artist. Most people know her as Violet.** 
-
-VioletAndOberon is also a team with a very dedicated and supportive founder who often whispers ideas to Violet.
-
-We love crochet and fibre art and have started to publish our own patterns.
-
-We love creating beautiful designs inspired by the greatest works of literature and their
-authors. Long-time Sherlockians, we strive at adapting and redesigning
-some of the early illustrations of the Adventures of Sherlock Holmes
-by Sidney Paget, Frederic Dorr Steele, and Charles Dana Gibson and
-making them available on gorgeous gifts available on
-[Redbubble](https://www.redbubble.com/people/VioletAndOberon/shop) and [Teepublic](https://www.teepublic.com/user/violetandoberon).
-
-
-We also have a profound love and reverence for the music of composer Joseph Bologne, Chevalier de Saint-Georges. We have a whole [collection](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant) of designs dedicated to him, these designs are also available on [Teepublic](https://www.teepublic.com/user/violetandoberon).
+We  have a profound love and reverence for the music of composer Joseph Bologne, Chevalier de Saint-Georges. We have a whole [collection](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant) of designs dedicated to him, these designs are also available on [Teepublic](https://www.teepublic.com/user/violetandoberon).
 
 
 We warmly welcome commissions. Please reach out by clicking below, or simply send us an email at contact at violetandoberon dot com.
