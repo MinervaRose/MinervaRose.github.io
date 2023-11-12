@@ -22,7 +22,7 @@ locale: en-US
 title: VioletAndOberon
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Graphic, fibre artist, and developer
+  Crochet blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/img-logo-violetandoberon-black-white.png"
@@ -69,12 +69,12 @@ defaults:
 
 # Site Author
 author:
-  name: Jamie Bree
+  name: VioletAndOberon
   picture: /images/jamie-photo.jpg
 
 
 # Copyright
-copyright: "This site is made with <3 by *Violet and Oberon*."
+copyright: "*Violetand Oberon*"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
