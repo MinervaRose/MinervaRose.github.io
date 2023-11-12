@@ -127,11 +127,7 @@ Repeat it as many times as you need to get a circle with alternating colors.
 
 ## Support the designer
 
-There are beautiful gifts at the VioletAndOberon Redbubble shop. I highly recommend the mouse pads, but you may find other gifts to purchase for yourself or a loved one. When you buy at the VioletAndOberon Redbubble shop, I get paid a small commission that help me earn a living as a creator and designer.
 
-Find beautiful space gifts [here](https://www.redbubble.com/shop/VioletAndOberon%20space?search_type=search_box)
-
-Visit the shop [here](https://www.redbubble.com/people/VioletAndOberon/shop)
 
 Thank you for your generosity. Stay tuned for another free crochet pattern.
 
