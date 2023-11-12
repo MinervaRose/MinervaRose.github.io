@@ -150,9 +150,6 @@ You are now the proud maker of a really fun and sweet rocket crochet appliqué. 
 
 # Support a creator
 
-You may wish to visit the [VioletAndOberon Redbubble shop](https://www.redbubble.com/people/VioletAndOberon/shop) and treat yourself or a loved one to a lovely product on the theme of [space](https://www.redbubble.com/shop/VioletAndOberon%20space?search_type=search_box) or anything else that you might like as you visit the online [shop](https://www.redbubble.com/people/VioletAndOberon/shop).
-
-When you purchase from the VioletAndOberon shop, you get a very lovely thing (mug, T-shirt, mouse pad, and so much more), and you do the good deed of supporting a disabled creator. 
 
 
 ![Rocket spaceship crochet appliqué by VioletAndOberon](/images/img_crochet_rocket_applique_small.jpg)
