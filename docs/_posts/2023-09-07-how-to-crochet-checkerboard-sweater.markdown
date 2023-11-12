@@ -82,11 +82,6 @@ R5 - R10 FPBPDC all around
 
 My crochet video series is called, The Sisterhood of the Crochet Klatch. You can see the beautiful logo in each of the tutorial videos.
 
-If you are in the USA, please consider purchasing [a cool T-shirt of the Sisterhood of the Crochet Klatch from Amazon merch](https://www.amazon.com/dp/B0CH98SZ6C).
-
-You can also choose to purchase it from [Redbubble](https://www.redbubble.com/i/long-sleeve-t-shirt/The-sisterhood-of-the-crochet-klatch-by-VioletAndOberon/151610696.6I7YY?ref=explore-for-you-recently-viewed) or [TeePublic](https://www.teepublic.com/t-shirt/50174903-the-sisterhood-of-the-crochet-klatch?store_id=1868119). 
-
-Thank you for your kind generosity, you are helping a disabled creator.
 
 
 
