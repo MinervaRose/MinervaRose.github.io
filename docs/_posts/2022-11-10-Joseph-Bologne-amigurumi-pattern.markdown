@@ -11,7 +11,7 @@ Pattern designed by VioletAndOberon
 **Warning: this crochet object, no matter how cute it is, is not a toy. It has not been tested for safety. Do not give it to children or pets.**
 
 If you don't know Joseph Bologne, you may wish to start with watching [this amazing presentation of his life in English](https://youtu.be/v7LXX57swb0), with animations and epic music.
-If you are in the US and love Chevalier de Saint-Georges, you might be interested in our T-shirts and hoodies available on Amazon Merch, such as [his classical portrait](https://www.amazon.com/dp/B0C3YYFTY8), and [the stylized one](https://www.amazon.com/dp/B0C3Y7NSBB).
+
 
 
 # Copyright information
@@ -22,13 +22,6 @@ If you are in the US and love Chevalier de Saint-Georges, you might be intereste
 
 I make this pattern available free of charge here, because a considerable number of my followers, subscribers, and viewers come from low-income countries.
 
-If you wish to support my work, please consider purchasing one of my designs available at [the VioletAndOberon Redbubble shop.](https://www.redbubble.com/people/VioletAndOberon/shop?asc=u&ref=account-nav-dropdown)
-
-You may also wish to discover my other beautiful artworks in the Chevalier de Saint-Georges collection such as this illustration of Joseph Bologne playing the violin while Marie Antoinette Queen of France is playing the harp. I love it printed on this [mug.](https://www.redbubble.com/i/mug/Chevalier-de-Saint-Georges-Joseph-Bologne-and-Marie-Antoinette-Queen-of-France-by-VioletAndOberon/134863182.9Q0AD)
-
-![Joseph Bologne practising music with Marie Antoinette](/images/work-134863182-classic-mug.jpg)
-
-# Introduction
 
 ### About Joseph Bologne Chevalier de Saint-Georges
 
@@ -913,11 +906,6 @@ I would love to see your little Joseph Bologne once you have completed it.
 
 Use the Hashtag #VioletAndOberon when sharing your pictures on social media, and kindly credit @VioletAndOberon as the designer :) .
 
-# How to support VioletAndOberon
-
-If you appreciated this free crochet pattern and want to support my endeavours, you may wish to treat yourself to one of the beautiful illustrations and designs dedicated to Joseph Bologne Chevalier de Saint-Georges that I created and adapted for the VioletAndOberon [Redbubble shop.](https://www.redbubble.com/people/violetandoberon/shop?artistUserName=VioletAndOberon&collections=2396303&iaCode=all-departments&sortOrder=relevant)
-You can also find these designs on [Amazon Merch](https://www.amazon.com/dp/B0C3Y7NSBB) and [Teepublic](https://www.teepublic.com/user/violetandoberon).
-Thank you for your kindness and generosity.
 
 
 
