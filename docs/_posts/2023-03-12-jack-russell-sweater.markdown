@@ -148,8 +148,3 @@ I loved taking photographs of my sweet Jack Russell wearing her daisy granny squ
 
 I hope you enjoyed this blog post and that you will have fun crocheting a granny square sweater for your dog too. 
 
-If you wish to support me, I would suggest purchasing something for yourself or a loved one at my Redbubble shop. I am continuously adding new designs, photos, and illustrations, which means you are sure to find your new favorite thing.
-
-Visit the online VioletAndOberon Redbubble shop [here](https://www.redbubble.com/people/VioletAndOberon/shop).
-
-Thank you for your generosity. Remember to bookmark the VioletAndOberon blog for more ideas, free crochet patterns, and more. 
