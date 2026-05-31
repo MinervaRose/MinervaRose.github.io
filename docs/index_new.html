@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="S. Palis — AI systems, computational research, technical education, and human-centered AI projects." />
+  <title>S. Palis | AI Systems • Computational Research • Technical Education</title>
+
+  <style>
+    :root {
+      --bg: #fffafc;
+      --bg-soft: #fff3f8;
+      --bg-alt: #f7f4ff;
+      --text: #17141f;
+      --muted: #5d566b;
+      --accent: #d81b60;
+      --accent-2: #ff8a00;
+      --accent-3: #7b2ff7;
+      --card: rgba(255,255,255,0.86);
+      --border: rgba(48, 30, 73, 0.12);
+      --shadow: 0 18px 45px rgba(54, 35, 74, 0.10);
+      --max: 1120px;
+      --radius: 24px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(216, 27, 96, 0.16), transparent 34rem),
+        radial-gradient(circle at 85% 15%, rgba(255, 138, 0, 0.16), transparent 28rem),
+        radial-gradient(circle at 50% 100%, rgba(123, 47, 247, 0.13), transparent 30rem),
+        var(--bg);
+      line-height: 1.6;
+    }
+
+    a { color: inherit; }
+
+    .container {
+      width: min(100% - 2rem, var(--max));
+      margin: 0 auto;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(18px);
+      background: rgba(255, 250, 252, 0.76);
+      border-bottom: 1px solid var(--border);
+    }
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.9rem 0;
+    }
+
+    .brand {
+      font-weight: 800;
+      letter-spacing: -0.03em;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    .nav-links a {
+      text-decoration: none;
+    }
+
+    .hero {
+      padding: 6.5rem 0 4.5rem;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 0.6fr;
+      gap: 3rem;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.4rem 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: rgba(255,255,255,0.68);
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 1.2rem;
+    }
+
+    h1 {
+      font-size: clamp(3rem, 7vw, 5.6rem);
+      line-height: 0.94;
+      letter-spacing: -0.08em;
+      margin: 0 0 1rem;
+    }
+
+    .gradient-text {
+      background: linear-gradient(110deg, var(--accent), var(--accent-2), var(--accent-3));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .subtitle {
+      font-size: clamp(1.2rem, 2vw, 1.65rem);
+      color: #2a2235;
+      max-width: 760px;
+      margin: 0 0 1.1rem;
+      font-weight: 650;
+      letter-spacing: -0.03em;
+    }
+
+    .lead {
+      font-size: 1.08rem;
+      color: var(--muted);
+      max-width: 720px;
+      margin: 0;
+    }
+
+    .hero-card {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--card);
+      box-shadow: var(--shadow);
+      padding: 1.2rem;
+    }
+
+    .portrait {
+      width: 100%;
+      max-width: 220px;
+      aspect-ratio: 1;
+      object-fit: cover;
+      border-radius: 36px;
+      display: block;
+      margin: 0 auto 1rem;
+      border: 1px solid rgba(255,255,255,0.8);
+    }
+
+    .profile-note {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.95rem;
+      margin: 0;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+      margin-top: 1.7rem;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.8rem 1.1rem;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 750;
+      border: 1px solid var(--border);
+      background: white;
+      box-shadow: 0 10px 25px rgba(54, 35, 74, 0.08);
+    }
+
+    .button.primary {
+      color: white;
+      border: none;
+      background: linear-gradient(110deg, var(--accent), var(--accent-2));
+    }
+
+    section {
+      padding: 3.8rem 0;
+    }
+
+    .section-heading {
+      max-width: 760px;
+      margin-bottom: 1.6rem;
+    }
+
+    h2 {
+      font-size: clamp(2rem, 3vw, 2.8rem);
+      line-height: 1;
+      letter-spacing: -0.055em;
+      margin: 0 0 0.65rem;
+    }
+
+    .section-heading p {
+      color: var(--muted);
+      margin: 0;
+      font-size: 1.03rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+
+    .grid.two {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 1.35rem;
+    }
+
+    .card h3 {
+      margin: 0 0 0.45rem;
+      font-size: 1.18rem;
+      letter-spacing: -0.03em;
+    }
+
+    .card p {
+      color: var(--muted);
+      margin: 0.35rem 0 0;
+    }
+
+    .project-card {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+
+    .project-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: auto;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.26rem 0.58rem;
+      border-radius: 999px;
+      background: var(--bg-soft);
+      border: 1px solid rgba(216, 27, 96, 0.16);
+      color: #7b1741;
+      font-size: 0.78rem;
+      font-weight: 650;
+    }
+
+    .project-card a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 750;
+      margin-top: 0.25rem;
+    }
+
+    .band {
+      background: linear-gradient(120deg, rgba(216, 27, 96, 0.08), rgba(255, 138, 0, 0.08), rgba(123, 47, 247, 0.08));
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 1.2rem;
+      align-items: start;
+    }
+
+    .list {
+      display: grid;
+      gap: 0.75rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .list li {
+      padding: 0.9rem 1rem;
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,0.72);
+      color: var(--muted);
+    }
+
+    footer {
+      padding: 2.5rem 0;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      background: rgba(255,255,255,0.55);
+    }
+
+    footer .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 860px) {
+      .hero-grid,
+      .split,
+      .grid,
+      .grid.two {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        padding-top: 4.5rem;
+      }
+
+      .nav-links {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <div class="brand">S. Palis</div>
+        <div class="nav-links">
+          <a href="#work">Work</a>
+          <a href="#projects">Projects</a>
+          <a href="#research">Research</a>
+          <a href="#education">Education</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <div class="eyebrow">AI systems · computational research · technical education</div>
+          <h1>Building useful AI for <span class="gradient-text">learning, discovery, and decisions.</span></h1>
+          <p class="subtitle">I design applied AI systems, exploratory computational projects, and learning technologies that make complex information easier to understand and act on.</p>
+          <p class="lead">My work sits at the intersection of AI engineering, data science, technical education, and research-oriented prototyping. I care about systems that are clear, inspectable, human-centered, and useful in real operational contexts.</p>
+          <div class="actions">
+            <a class="button primary" href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">Explore GitHub</a>
+            <a class="button" href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a class="button" href="#projects">View projects</a>
+          </div>
+        </div>
+
+        <aside class="hero-card">
+          <img class="portrait" src="photo.png" alt="Profile photo of S. Palis" />
+          <p class="profile-note">MSc Artificial Intelligence, First Class Honours. AI educator, mentor, project builder, and independent computational researcher.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section id="work" class="band">
+      <div class="container">
+        <div class="section-heading">
+          <h2>What I build</h2>
+          <p>A portfolio designed around three compatible directions: practical AI systems, computational research, and technical education.</p>
+        </div>
+
+        <div class="grid">
+          <div class="card">
+            <h3>Applied AI Systems</h3>
+            <p>LLM workflows, decision-support tools, automation pipelines, triage systems, and human-in-the-loop applications for real tasks.</p>
+          </div>
+          <div class="card">
+            <h3>Computational Research</h3>
+            <p>Exploratory notebooks, scientific data pipelines, anomaly detection, visualization, and research-style reports for complex domains.</p>
+          </div>
+          <div class="card">
+            <h3>Technical Education</h3>
+            <p>Project-based learning systems, AI tutors, curriculum design, mentoring, and explanations that help learners move from theory to implementation.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects">
+      <div class="container">
+        <div class="section-heading">
+          <h2>Selected projects</h2>
+          <p>Representative work across business-oriented AI, scientific exploration, education, and data visualization.</p>
+        </div>
+
+        <div class="grid two">
+          <article class="card project-card">
+            <h3>Industry Integrated AI Systems Synthesis</h3>
+            <p>A governed AI decision-support architecture for anomaly triage in safety-critical aerospace contexts, combining system integration, escalation logic, and human oversight.</p>
+            <div class="project-meta"><span class="tag">AI systems</span><span class="tag">Safety</span><span class="tag">Decision support</span></div>
+            <a href="https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis" target="_blank" rel="noreferrer">View repository →</a>
+          </article>
+
+          <article class="card project-card">
+            <h3>LeadFlow AI</h3>
+            <p>An AI lead qualification and automation pipeline with structured intake, scoring, LLM-assisted analysis, and safer workflow design.</p>
+            <div class="project-meta"><span class="tag">Business AI</span><span class="tag">Automation</span><span class="tag">LLM workflows</span></div>
+            <a href="https://github.com/MinervaRose/leadflow-ai" target="_blank" rel="noreferrer">View repository →</a>
+          </article>
+
+          <article class="card project-card">
+            <h3>OpsFlow AI</h3>
+            <p>A multi-agent client operations router for classifying inbound requests, prioritizing actions, and supporting safer operational triage.</p>
+            <div class="project-meta"><span class="tag">Agentic AI</span><span class="tag">Operations</span><span class="tag">Routing</span></div>
+            <a href="https://github.com/MinervaRose/opsflow.ai" target="_blank" rel="noreferrer">View repository →</a>
+          </article>
+
+          <article class="card project-card">
+            <h3>AI-Powered Civic Exam Tutor</h3>
+            <p>A curriculum-based tutoring system for French civic exam preparation, combining deterministic scoring, AI explanations, and learner feedback.</p>
+            <div class="project-meta"><span class="tag">Education</span><span class="tag">Gradio</span><span class="tag">LLM tutor</span></div>
+            <a href="https://github.com/MinervaRose/Ai-powered-civic-exam-tutor" target="_blank" rel="noreferrer">View repository →</a>
+          </article>
+
+          <article class="card project-card">
+            <h3>Exoplanet Discovery Observatory</h3>
+            <p>A Tableau data visualization project exploring planetary systems beyond the Solar System through accessible, visually coherent analytics.</p>
+            <div class="project-meta"><span class="tag">Tableau</span><span class="tag">Data viz</span><span class="tag">Astronomy</span></div>
+            <a href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">Explore on GitHub →</a>
+          </article>
+
+          <article class="card project-card">
+            <h3>Cosmic Latent Frontier</h3>
+            <p>An exploratory computational research project using latent spaces, scientific representation, and disciplined speculation to investigate unresolved structure.</p>
+            <div class="project-meta"><span class="tag">Research</span><span class="tag">Scientific AI</span><span class="tag">Visualization</span></div>
+            <a href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">Explore on GitHub →</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="research" class="band">
+      <div class="container split">
+        <div class="section-heading">
+          <h2>Research direction</h2>
+          <p>Independent, project-based research focused on AI systems for exploration, uncertainty, and scientific attention.</p>
+        </div>
+
+        <div class="card">
+          <p>I develop notebook-based research artifacts, technical reports, and reproducible project repositories around AI-assisted discovery, exploratory data systems, and governed decision architectures.</p>
+          <p>This research orientation supports, rather than replaces, practical work: the goal is to build systems that can be inspected, explained, reused, and taught.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="education">
+      <div class="container split">
+        <div class="section-heading">
+          <h2>Teaching, mentoring, and communication</h2>
+          <p>Technical education is not separate from my AI work. It is one of the ways I test whether systems and ideas are actually understandable.</p>
+        </div>
+
+        <ul class="list">
+          <li>Mentoring in Python, SQL, statistics, machine learning, data analysis, and portfolio projects.</li>
+          <li>Creation of learning materials, project walkthroughs, feedback frameworks, and learner-centered AI tools.</li>
+          <li>Strong emphasis on clarity, structure, visual explanation, and practical implementation.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="section-heading">
+          <h2>Current interests</h2>
+          <p>Open enough for future opportunities, specific enough to make the portfolio coherent.</p>
+        </div>
+
+        <div class="grid">
+          <div class="card"><h3>Agentic AI systems</h3><p>Modular workflows, orchestration, routing, evaluation, and human oversight.</p></div>
+          <div class="card"><h3>AI for discovery</h3><p>Exploratory systems for astronomy, bioacoustics, scientific datasets, and frontier detection.</p></div>
+          <div class="card"><h3>Learning technologies</h3><p>AI tutors, adaptive feedback, technical pedagogy, and mission-based learning environments.</p></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="contact">
+    <div class="container">
+      <span>© S. Palis · AI systems, computational research, and technical education</span>
+      <span><a href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">GitHub</a> · <a href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noreferrer">LinkedIn</a></span>
+    </div>
+  </footer>
+</body>
+</html>
