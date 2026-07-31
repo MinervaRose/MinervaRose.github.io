@@ -312,6 +312,19 @@
       flex-wrap: wrap;
     }
 
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      clip-path: inset(50%);
+      border: 0;
+      white-space: nowrap;
+    }
+    
     @media (max-width: 860px) {
       .hero-grid,
       .split,
@@ -558,5 +571,12 @@
       <span><a href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">GitHub</a> · <a href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noreferrer">LinkedIn</a></span>
     </div>
   </footer>
+
+  <!-- Hidden internal link for future use -->
+  <a href="https://minervarose.github.io/profile.html"
+     class="visually-hidden">
+    Indexation Matrix
+  </a>
+  
 </body>
 </html>
