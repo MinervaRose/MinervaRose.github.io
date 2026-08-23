@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="S. Palis — AI systems, computational research, technical education, and human-centered AI projects." />
+  <meta name="description" content="S. Palis — auditable AI systems, computational research, decision-support tools, and technical education for complex real-world problems." />
   <title>S. Palis | AI Systems • Computational Research • Technical Education</title>
 
   <style>
@@ -268,6 +268,18 @@
       margin-top: 0.25rem;
     }
 
+    .project-status {
+      color: var(--accent-3);
+      font-weight: 750;
+      margin-top: 0.25rem;
+    }
+
+    .project-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 1rem;
+    }
+
     .band {
       background: linear-gradient(120deg, rgba(216, 27, 96, 0.08), rgba(255, 138, 0, 0.08), rgba(123, 47, 247, 0.08));
       border-top: 1px solid var(--border);
@@ -366,19 +378,20 @@
       <div class="container hero-grid">
         <div>
           <div class="eyebrow">AI systems · computational research · technical education</div>
-          <h1>Building useful AI for <span class="gradient-text">learning, discovery, and decisions.</span></h1>
-          <p class="subtitle">I design applied AI systems, exploratory computational projects, and learning technologies that make complex information easier to understand and act on.</p>
-          <p class="lead">My work sits at the intersection of AI engineering, data science, technical education, and research-oriented prototyping. I care about systems that are clear, inspectable, human-centered, and useful in real operational contexts.</p>
+          <h1>Building AI systems for <span class="gradient-text">discovery, learning, and consequential decisions.</span></h1>
+          <p class="subtitle">I design auditable AI and data systems, exploratory computational research, and technical education for complex real-world problems.</p>
+          <p class="lead">My work connects AI engineering, scientific exploration, analytics, and pedagogy. I am particularly interested in systems that make evidence, uncertainty, and reasoning visible while keeping human judgement firmly in the loop.</p>
           <div class="actions">
             <a class="button primary" href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">Explore GitHub</a>
             <a class="button" href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noreferrer">LinkedIn</a>
             <a class="button" href="#projects">View projects</a>
+            <a class="button" href="/profile.html">Professional profile</a>
           </div>
         </div>
 
         <aside class="hero-card">
           <img class="portrait" src="photo.png" alt="Profile photo of S. Palis" />
-          <p class="profile-note">MSc Artificial Intelligence, First Class Honours. AI educator, mentor, project builder, and independent computational researcher.</p>
+          <p class="profile-note">MSc Artificial Intelligence, First Class Honours · MA Education, Merit · PGCE/QTS. Independent researcher, higher-education lecturer, mentor, and AI certification juror.</p>
         </aside>
       </div>
     </section>
@@ -387,21 +400,21 @@
       <div class="container">
         <div class="section-heading">
           <h2>What I build</h2>
-          <p>A portfolio designed around three compatible directions: practical AI systems, computational research, and technical education.</p>
+          <p>A portfolio shaped by three connected practices: decision-support systems, computational research, and technical education.</p>
         </div>
 
         <div class="grid">
           <div class="card">
-            <h3>Applied AI Systems</h3>
-            <p>LLM workflows, decision-support tools, automation pipelines, triage systems, and human-in-the-loop applications for real tasks.</p>
+            <h3>Decision-Support AI</h3>
+            <p>Auditable AI systems, anomaly triage, agentic workflows, and human-in-the-loop tools for situations where mistakes matter.</p>
           </div>
           <div class="card">
             <h3>Computational Research</h3>
-            <p>Exploratory notebooks, scientific data pipelines, anomaly detection, visualization, and research-style reports for complex domains.</p>
+            <p>Scientific data pipelines, signal and time-series analysis, anomaly detection, multimodal exploration, and uncertainty-aware prototypes.</p>
           </div>
           <div class="card">
             <h3>Technical Education</h3>
-            <p>Project-based learning systems, AI tutors, curriculum design, mentoring, and explanations that help learners move from theory to implementation.</p>
+            <p>Higher-education teaching, agentic learning tools, curriculum design, mentoring, and project-based paths from theory to implementation.</p>
           </div>
         </div>
       </div>
@@ -411,110 +424,75 @@
       <div class="container">
         <div class="section-heading">
           <h2>Selected projects</h2>
-          <p>Representative work across applied generative AI, business workflows, decision support, human-in-the-loop systems, technical education, scientific exploration, and data visualization.</p>
+          <p>Current and representative work across auditable AI systems, public-interest technology, scientific exploration, agentic architectures, and multimodal creation.</p>
         </div>
 
         <div class="grid two">
           <article class="card project-card">
-            <h3>AI Competitive Intelligence Observatory</h3>
-            <p>A French Streamlit demonstrator for business teams showing how generative AI can transform scattered monitoring signals into a structured strategic briefing, with LLM analysis, source traceability, human validation, and lightweight AI governance.</p>
-            <div class="project-meta"><span class="tag">Streamlit</span><span class="tag">Generative AI</span><span class="tag">Business AI</span><span class="tag">Governance</span></div>
-            <a href="https://github.com/MinervaRose/ai-competitive-intelligence-observatory" target="_blank" rel="noreferrer">View repository →</a>
+            <h3>BeLedgerReady</h3>
+            <p>An audit-readiness assistant for SMEs that combines deterministic financial tests, explainable anomaly analysis, evidence tracking, and transparent reporting without presenting itself as an auditor.</p>
+            <div class="project-meta"><span class="tag">Explainable AI</span><span class="tag">Anomaly detection</span><span class="tag">Audit readiness</span><span class="tag">Evidence</span></div>
+            <a href="https://github.com/MinervaRose/BeLedgerReady" target="_blank" rel="noreferrer">View repository →</a>
           </article>
 
           <article class="card project-card">
-            <h3>Moonlit Showrunner</h3>
-            <p>An AI-assisted short-film pipeline built with Python and Streamlit. The app turns a magical story premise into a structured production workflow: story package, storyboard, character reference cards, generated images, visual animatic, optional Sora clips, and final assembled video.</p>
-
-            <div class="project-meta">
-              <span class="tag">Generative AI</span>
-              <span class="tag">Sora</span>
-              <span class="tag">Streamlit</span>
-              <span class="tag">Creative Coding</span>
-            </div>
-
-            <a href="https://github.com/MinervaRose/moonlit-showrunner"
-               target="_blank"
-               rel="noreferrer">
-               View repository →
-            </a>
-          
-            <a href="https://youtu.be/vknl0erAFn8"
-               target="_blank"
-               rel="noreferrer">
-               Watch generated video →
-            </a>
-          
-            <a href="https://medium.com/@sabrina.jorgenson/the-kitten-the-tooth-fairy-and-the-window-frame-57d1ddb3c9bb"
-               target="_blank"
-               rel="noreferrer">
-               Read project write-up →
-            </a>
-          
-            <a href="https://zenodo.org/records/20633401"
-               target="_blank"
-               rel="noreferrer">
-               View Zenodo archive →
-            </a>
+            <h3>Airline Said No</h3>
+            <p>An explainable passenger-rights assistant that structures a disrupted-travel case, evaluates the available evidence, and helps travellers understand plausible rights and next steps while making uncertainty explicit.</p>
+            <div class="project-meta"><span class="tag">Public-interest AI</span><span class="tag">Decision support</span><span class="tag">Explainability</span><span class="tag">Human oversight</span></div>
+            <span class="project-status">Recent project</span>
           </article>
 
           <article class="card project-card">
             <h3>Industry Integrated AI Systems Synthesis</h3>
-            <p>A governed AI decision-support architecture for anomaly triage in safety-critical aerospace contexts, combining system integration, escalation logic, and human oversight.</p>
-            <div class="project-meta"><span class="tag">AI systems</span><span class="tag">Safety</span><span class="tag">Decision support</span></div>
+            <p>An integrated, governed AI architecture for anomaly triage in safety-critical aerospace operations, combining multiple analytical components with escalation logic, uncertainty handling, and human authority.</p>
+            <div class="project-meta"><span class="tag">Aerospace AI</span><span class="tag">Safety</span><span class="tag">Systems integration</span><span class="tag">Governance</span></div>
             <a href="https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis" target="_blank" rel="noreferrer">View repository →</a>
           </article>
 
           <article class="card project-card">
-            <h3>LeadFlow AI</h3>
-            <p>An AI lead qualification and automation pipeline with structured intake, scoring, LLM-assisted analysis, and safer workflow design.</p>
-            <div class="project-meta"><span class="tag">Business AI</span><span class="tag">Automation</span><span class="tag">LLM workflows</span></div>
-            <a href="https://github.com/MinervaRose/leadflow-ai" target="_blank" rel="noreferrer">View repository →</a>
+            <h3>PyroNav</h3>
+            <p>An offline-first wildfire evacuation PWA designed around hazard-aware route diversity, combining fire observations, weather, terrain, uncertainty, and official closures without replacing emergency instructions.</p>
+            <div class="project-meta"><span class="tag">Public safety</span><span class="tag">Offline PWA</span><span class="tag">Geospatial routing</span><span class="tag">Uncertainty</span></div>
+            <span class="project-status">In development</span>
           </article>
 
           <article class="card project-card">
-          <h3>Recruitment Copilot</h3>
-          <p>An AI-assisted recruitment decision-support tool that compares CVs with job descriptions, extracts evidence, generates recruiter briefings, and supports structured candidate evaluation through a transparent human-in-the-loop workflow.</p>
-
-          <div class="project-meta">
-            <span class="tag">Streamlit</span>
-            <span class="tag">HR Tech</span>
-            <span class="tag">Decision Support</span>
-          </div>
-
-          <a href="https://github.com/MinervaRose/recruitment-copilot"
-             target="_blank"
-             rel="noreferrer">
-             View repository →
-          </a>
-        </article>
-
-          <article class="card project-card">
-            <h3>OpsFlow AI</h3>
-            <p>A multi-agent client operations router for classifying inbound requests, prioritizing actions, and supporting safer operational triage.</p>
-            <div class="project-meta"><span class="tag">Agentic AI</span><span class="tag">Operations</span><span class="tag">Routing</span></div>
-            <a href="https://github.com/MinervaRose/opsflow.ai" target="_blank" rel="noreferrer">View repository →</a>
+            <h3>intibi</h3>
+            <p>A desktop solar companion whose evolving states are driven by daily H-alpha observations. The project translates real solar behaviour into an interactive, scientifically grounded character system.</p>
+            <div class="project-meta"><span class="tag">Solar data</span><span class="tag">H-alpha</span><span class="tag">Desktop companion</span><span class="tag">Scientific interaction</span></div>
+            <span class="project-status">In development</span>
           </article>
 
           <article class="card project-card">
-            <h3>AI-Powered Civic Exam Tutor</h3>
-            <p>A curriculum-based tutoring system for French civic exam preparation, combining deterministic scoring, AI explanations, and learner feedback.</p>
-            <div class="project-meta"><span class="tag">Education</span><span class="tag">Gradio</span><span class="tag">LLM tutor</span></div>
-            <a href="https://github.com/MinervaRose/Ai-powered-civic-exam-tutor" target="_blank" rel="noreferrer">View repository →</a>
+            <h3>Bioacoustic Topology</h3>
+            <p>An exploratory framework that models birdsong as a latent dynamical system through acoustic features, manifold embeddings, motif grammars, trajectory reconstruction, and transition analysis.</p>
+            <div class="project-meta"><span class="tag">Bioacoustics</span><span class="tag">Manifold learning</span><span class="tag">Dynamical systems</span><span class="tag">Scientific AI</span></div>
+            <a href="https://github.com/MinervaRose/bioacoustic-topology" target="_blank" rel="noreferrer">View repository →</a>
           </article>
 
           <article class="card project-card">
-            <h3>Exoplanet Discovery Observatory</h3>
-            <p>A Tableau data visualization project exploring planetary systems beyond the Solar System through accessible, visually coherent analytics.</p>
-            <div class="project-meta"><span class="tag">Tableau</span><span class="tag">Data viz</span><span class="tag">Astronomy</span></div>
-            <a href="https://github.com/MinervaRose/exoplanet-discovery-observatory" target="_blank" rel="noreferrer">Explore on GitHub →</a>
+            <h3>Latent Physiological Topology</h3>
+            <p>An exploratory, non-diagnostic investigation of cardiac acoustic signals as latent physiological state spaces, using manifold learning, trajectory dynamics, cyclic representations, and anomaly analysis.</p>
+            <div class="project-meta"><span class="tag">Biomedical signals</span><span class="tag">State-space modelling</span><span class="tag">Anomaly analysis</span><span class="tag">Non-diagnostic</span></div>
+            <a href="https://github.com/MinervaRose/latent-physiological-topology" target="_blank" rel="noreferrer">View repository →</a>
           </article>
 
           <article class="card project-card">
-            <h3>Cosmic Latent Frontier</h3>
-            <p>An exploratory computational research project using latent spaces, scientific representation, and disciplined speculation to investigate unresolved structure.</p>
-            <div class="project-meta"><span class="tag">Research</span><span class="tag">Scientific AI</span><span class="tag">Visualization</span></div>
-            <a href="https://github.com/MinervaRose/cosmic-latent-governance" target="_blank" rel="noreferrer">Explore on GitHub →</a>
+            <h3>Design of Agentic Workflows</h3>
+            <p>A systems-oriented study of multi-agent workflow design, with explicit roles, handoffs, validation stages, escalation paths, and governance mechanisms for more dependable orchestration.</p>
+            <div class="project-meta"><span class="tag">Agentic AI</span><span class="tag">Orchestration</span><span class="tag">Evaluation</span><span class="tag">Governance</span></div>
+            <a href="https://github.com/MinervaRose/design-of-agentic-workflows" target="_blank" rel="noreferrer">View repository →</a>
+          </article>
+
+          <article class="card project-card">
+            <h3>Moonlit Showrunner</h3>
+            <p>A multimodal short-film pipeline that turns a story premise into a structured production workflow spanning narrative design, storyboards, character references, generated imagery, animatics, optional video clips, and final assembly.</p>
+            <div class="project-meta"><span class="tag">Multimodal AI</span><span class="tag">Sora</span><span class="tag">Creative coding</span><span class="tag">Production pipeline</span></div>
+            <div class="project-links">
+              <a href="https://github.com/MinervaRose/moonlit-showrunner" target="_blank" rel="noreferrer">Repository →</a>
+              <a href="https://youtu.be/vknl0erAFn8" target="_blank" rel="noreferrer">Generated film →</a>
+              <a href="https://zenodo.org/records/20633401" target="_blank" rel="noreferrer">Zenodo archive →</a>
+            </div>
           </article>
         </div>
       </div>
@@ -524,12 +502,12 @@
       <div class="container split">
         <div class="section-heading">
           <h2>Research direction</h2>
-          <p>Independent, project-based research focused on AI systems for exploration, uncertainty, and scientific attention.</p>
+          <p>Independent, project-based research on AI systems for scientific triage, uncertainty-aware exploration, and human attention.</p>
         </div>
 
         <div class="card">
-          <p>I develop notebook-based research artifacts, technical reports, and reproducible project repositories around AI-assisted discovery, exploratory data systems, and governed decision architectures.</p>
-          <p>This research orientation supports, rather than replaces, practical work: the goal is to build systems that can be inspected, explained, reused, and taught.</p>
+          <p>I explore how AI can help humans notice meaningful signals in complex scientific and technical environments: surfacing anomalies, connecting multimodal evidence, tracking uncertainty, and supporting disciplined investigation.</p>
+          <p>Current themes include scientific triage, AI mission control, human–AI discovery cockpits, agentic technical education, and multimodal frontier detection. The work is documented through reproducible repositories, technical specifications, notebooks, and research-oriented prototypes.</p>
         </div>
       </div>
     </section>
@@ -538,13 +516,13 @@
       <div class="container split">
         <div class="section-heading">
           <h2>Teaching, mentoring, and communication</h2>
-          <p>Technical education is not separate from my AI work. It is one of the ways I test whether systems and ideas are actually understandable.</p>
+          <p>Technical education is both a professional practice and a test of whether systems and ideas are genuinely understandable.</p>
         </div>
 
         <ul class="list">
-          <li>Mentoring in Python, SQL, statistics, machine learning, data analysis, and portfolio projects.</li>
-          <li>Creation of learning materials, project walkthroughs, feedback frameworks, and learner-centered AI tools.</li>
-          <li>Strong emphasis on clarity, structure, visual explanation, and practical implementation.</li>
+          <li>Higher-education teaching and curriculum design across AI, data, cloud, business analysis, and digital systems.</li>
+          <li>Professional mentoring in data analysis, business intelligence, machine learning, Python, SQL, and applied AI projects.</li>
+          <li>Learning systems, visual resources, simulations, and agentic teaching tools that help learners reason rather than merely reproduce procedures.</li>
         </ul>
       </div>
     </section>
@@ -553,13 +531,13 @@
       <div class="container">
         <div class="section-heading">
           <h2>Current interests</h2>
-          <p>Open for future opportunities.</p>
+          <p>Questions and systems I am actively developing.</p>
         </div>
 
         <div class="grid">
-          <div class="card"><h3>Agentic AI systems</h3><p>Modular workflows, orchestration, routing, evaluation, and human oversight.</p></div>
-          <div class="card"><h3>AI for discovery</h3><p>Exploratory systems for astronomy, bioacoustics, scientific datasets, and frontier detection.</p></div>
-          <div class="card"><h3>Learning technologies</h3><p>AI tutors, adaptive feedback, technical pedagogy, and mission-based learning environments.</p></div>
+          <div class="card"><h3>AI mission control</h3><p>Interfaces and governed agent systems that help humans coordinate evidence, uncertainty, priorities, and intervention.</p></div>
+          <div class="card"><h3>Frontier detection</h3><p>Multimodal systems for finding unusual, weak, or easily overlooked signals across scientific data and literature.</p></div>
+          <div class="card"><h3>Agentic technical education</h3><p>Learning environments in which AI agents support investigation, feedback, simulation, and skill verification without replacing learner judgement.</p></div>
         </div>
       </div>
     </section>
@@ -573,11 +551,5 @@
     </div>
   </footer>
 
-  <!-- Hidden internal link for future use -->
-  <a href="https://minervarose.github.io/profile.html"
-     class="visually-hidden">
-    Indexation Matrix
-  </a>
-  
 </body>
 </html>
