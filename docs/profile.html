@@ -1,379 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Sabrina Palis | AI & Data Educator • Independent Researcher</title>
-  <meta name="description" content="Professional profile of Sabrina Palis: AI and data educator, mentor, certification juror, independent researcher, and applied AI systems practitioner." />
-  <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://minervarose.github.io/profile.html" />
+  <title>Sabrina Palis | Professional Profile</title>
 
-  <meta property="og:type" content="profile" />
-  <meta property="og:title" content="Sabrina Palis | Professional Profile" />
-  <meta property="og:description" content="AI and data education, applied AI systems, computational research, mentoring, assessment, and open science." />
-  <meta property="og:url" content="https://minervarose.github.io/profile.html" />
-  <meta property="og:image" content="https://minervarose.github.io/photo.png" />
+  <meta name="description" content="Professional profile of Sabrina Palis, AI systems and data specialist, independent researcher, higher-education technical educator, mentor, certification juror, and consultant.">
+
+  <link
+    rel="canonical"
+    href="https://minervarose.github.io/profile.html"
+  >
 
   <style>
     :root {
       --bg: #fffafc;
-      --bg-soft: #fff3f8;
-      --bg-alt: #f7f4ff;
-      --text: #17141f;
-      --muted: #5d566b;
-      --accent: #d81b60;
-      --accent-2: #ff8a00;
-      --accent-3: #7b2ff7;
-      --card: rgba(255,255,255,0.86);
-      --border: rgba(48, 30, 73, 0.12);
-      --shadow: 0 18px 45px rgba(54, 35, 74, 0.10);
-      --max: 1040px;
-      --radius: 24px;
+      --text: #222;
+      --muted: #666;
+      --accent: #c2185b;
+      --border: #e8dce2;
     }
-
-    * { box-sizing: border-box; }
-
-    html { scroll-behavior: smooth; }
 
     body {
-      margin: 0;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 760px;
+      margin: auto;
+      padding: 50px 25px;
+      font-family: Georgia, serif;
+      line-height: 1.75;
+      background: var(--bg);
       color: var(--text);
-      background:
-        radial-gradient(circle at top left, rgba(216, 27, 96, 0.16), transparent 34rem),
-        radial-gradient(circle at 85% 15%, rgba(255, 138, 0, 0.14), transparent 28rem),
-        radial-gradient(circle at 50% 100%, rgba(123, 47, 247, 0.12), transparent 30rem),
-        var(--bg);
-      line-height: 1.65;
     }
 
-    a { color: inherit; }
-
-    .container {
-      width: min(100% - 2rem, var(--max));
-      margin: 0 auto;
-    }
-
-    header {
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      backdrop-filter: blur(18px);
-      background: rgba(255, 250, 252, 0.78);
-      border-bottom: 1px solid var(--border);
-    }
-
-    nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 1rem;
-      padding: 0.9rem 0;
-    }
-
-    .brand {
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      text-decoration: none;
-    }
-
-    .nav-links {
-      display: flex;
-      gap: 1rem;
-      flex-wrap: wrap;
-      justify-content: flex-end;
-      font-size: 0.92rem;
-      color: var(--muted);
-    }
-
-    .nav-links a { text-decoration: none; }
-    .nav-links a:hover { color: var(--accent); }
-
-    .hero {
-      padding: 5.5rem 0 3.5rem;
-    }
-
-    .hero-grid {
-      display: grid;
-      grid-template-columns: 1.35fr 0.65fr;
-      gap: 2.6rem;
-      align-items: center;
-    }
-
-    .eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.45rem;
-      padding: 0.4rem 0.75rem;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      background: rgba(255,255,255,0.68);
-      color: var(--muted);
-      font-size: 0.9rem;
-      margin-bottom: 1.15rem;
-    }
-
-    h1, h2, h3 {
-      letter-spacing: -0.04em;
+    h1,
+    h2 {
+      font-family: Arial, Helvetica, sans-serif;
     }
 
     h1 {
-      font-size: clamp(3rem, 7vw, 5.2rem);
-      line-height: 0.96;
-      margin: 0 0 1rem;
+      margin-bottom: 0.2em;
     }
 
     h2 {
-      font-size: clamp(2rem, 3vw, 2.7rem);
-      line-height: 1;
-      margin: 0 0 0.7rem;
-    }
-
-    h3 {
-      margin: 0 0 0.45rem;
-      font-size: 1.16rem;
-    }
-
-    .gradient-text {
-      background: linear-gradient(110deg, var(--accent), var(--accent-2), var(--accent-3));
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-    }
-
-    .subtitle {
-      font-size: clamp(1.18rem, 2vw, 1.55rem);
-      color: #2a2235;
-      max-width: 760px;
-      margin: 0 0 1rem;
-      font-weight: 650;
-      letter-spacing: -0.025em;
-    }
-
-    .lead {
-      font-size: 1.05rem;
-      color: var(--muted);
-      max-width: 740px;
-      margin: 0;
-    }
-
-    .hero-card, .card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-    }
-
-    .hero-card {
-      padding: 1.2rem;
-    }
-
-    .portrait {
-      width: 100%;
-      max-width: 220px;
-      aspect-ratio: 1;
-      object-fit: cover;
-      border-radius: 36px;
-      display: block;
-      margin: 0 auto 1rem;
-      border: 1px solid rgba(255,255,255,0.8);
-    }
-
-    .profile-note {
-      text-align: center;
-      color: var(--muted);
-      font-size: 0.94rem;
-      margin: 0;
-    }
-
-    .actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.75rem;
-      margin-top: 1.6rem;
-    }
-
-    .button {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.78rem 1.05rem;
-      border-radius: 999px;
-      text-decoration: none;
-      font-weight: 750;
-      border: 1px solid var(--border);
-      background: white;
-      box-shadow: 0 10px 25px rgba(54, 35, 74, 0.08);
-    }
-
-    .button.primary {
-      color: white;
-      border: none;
-      background: linear-gradient(110deg, var(--accent), var(--accent-2));
-    }
-
-    section {
-      padding: 3.4rem 0;
-    }
-
-    .band {
-      background: linear-gradient(120deg, rgba(216, 27, 96, 0.07), rgba(255, 138, 0, 0.07), rgba(123, 47, 247, 0.07));
-      border-top: 1px solid var(--border);
+      margin-top: 2.2em;
+      padding-bottom: 0.25em;
       border-bottom: 1px solid var(--border);
     }
 
-    .section-heading {
-      max-width: 780px;
-      margin-bottom: 1.5rem;
-    }
-
-    .section-heading p {
+    .subtitle {
       color: var(--muted);
-      margin: 0;
-      font-size: 1.02rem;
+      margin-top: 0;
+      margin-bottom: 2em;
     }
 
-    .card {
-      padding: 1.35rem;
-    }
-
-    .card p {
+    .evidence-note {
       color: var(--muted);
-      margin: 0.45rem 0 0;
+      font-size: 0.95em;
     }
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1rem;
-    }
-
-    .grid.two {
-      grid-template-columns: repeat(2, 1fr);
-    }
-
-    .split {
-      display: grid;
-      grid-template-columns: 0.9fr 1.1fr;
-      gap: 1.2rem;
-      align-items: start;
-    }
-
-    .stack {
-      display: grid;
-      gap: 1rem;
-    }
-
-    .list {
-      display: grid;
-      gap: 0.75rem;
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-
-    .list li {
-      padding: 0.9rem 1rem;
-      border: 1px solid var(--border);
-      border-radius: 18px;
-      background: rgba(255,255,255,0.72);
-      color: var(--muted);
-    }
-
-    .identity-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      margin-top: 1rem;
-    }
-
-    .tag {
-      display: inline-flex;
-      align-items: center;
-      padding: 0.28rem 0.6rem;
-      border-radius: 999px;
-      background: var(--bg-soft);
-      border: 1px solid rgba(216, 27, 96, 0.16);
-      color: #7b1741;
-      font-size: 0.8rem;
-      font-weight: 650;
-    }
-
-    .project-card {
-      display: flex;
-      flex-direction: column;
-      gap: 0.6rem;
-    }
-
-    .project-card a,
-    .writing-list a,
-    .profile-links a {
+    a {
       color: var(--accent);
-      font-weight: 750;
       text-decoration: none;
     }
 
-    .project-card a:hover,
-    .writing-list a:hover,
-    .profile-links a:hover {
+    a:hover {
       text-decoration: underline;
     }
 
-    .writing-list {
-      margin: 0;
-      padding-left: 1.2rem;
-    }
-
-    .writing-list li {
-      margin: 0.75rem 0;
-    }
-
-    .profile-links {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 0.75rem;
-    }
-
-    .profile-links a {
-      padding: 0.9rem 1rem;
-      border: 1px solid var(--border);
-      border-radius: 18px;
-      background: rgba(255,255,255,0.74);
-      text-align: center;
-    }
-
     footer {
-      padding: 2.4rem 0;
-      color: var(--muted);
+      margin-top: 60px;
+      padding-top: 20px;
       border-top: 1px solid var(--border);
-      background: rgba(255,255,255,0.55);
-    }
-
-    footer .container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
-
-    @media (max-width: 860px) {
-      .hero-grid,
-      .split,
-      .grid,
-      .grid.two,
-      .profile-links {
-        grid-template-columns: 1fr;
-      }
-
-      .hero {
-        padding-top: 4.2rem;
-      }
-
-      .nav-links {
-        display: none;
-      }
+      color: var(--muted);
+      font-size: 0.9em;
     }
   </style>
 
@@ -391,21 +91,27 @@
         "MinervaRose"
       ],
       "url": "https://minervarose.github.io/profile.html",
-      "mainEntityOfPage": "https://minervarose.github.io/profile.html",
-      "image": "https://minervarose.github.io/photo.png",
-      "description": "AI and data educator, mentor, certification juror, independent researcher, and applied AI systems practitioner working across computational research, analytics, technical education, and human-centered AI.",
+      "description": "AI systems and data specialist, independent researcher, higher-education technical educator, mentor, consultant, author and qualified Generative AI Certification Juror.",
       "jobTitle": [
-        "AI and Data Educator",
-        "AI and Data Mentor",
-        "Generative AI Certification Juror",
-        "Independent Researcher",
         "AI Systems and Data Specialist",
-        "Artificial Intelligence and Data Consultant"
+        "Independent Researcher",
+        "Higher Education Technical Educator",
+        "AI and Data Mentor",
+        "Artificial Intelligence Consultant",
+        "Generative AI Certification Juror"
       ],
       "hasOccupation": [
         {
           "@type": "Occupation",
-          "name": "AI and Data Educator"
+          "name": "AI Systems and Data Specialist"
+        },
+        {
+          "@type": "Occupation",
+          "name": "Independent Researcher"
+        },
+        {
+          "@type": "Occupation",
+          "name": "Higher Education Technical Educator"
         },
         {
           "@type": "Occupation",
@@ -414,14 +120,6 @@
         {
           "@type": "Occupation",
           "name": "Generative AI Certification Juror"
-        },
-        {
-          "@type": "Occupation",
-          "name": "Independent Researcher"
-        },
-        {
-          "@type": "Occupation",
-          "name": "AI Systems and Data Specialist"
         },
         {
           "@type": "Occupation",
@@ -445,14 +143,12 @@
         "Decision-Support Systems",
         "Data Visualization",
         "Technical Education",
-        "Curriculum Design",
-        "Project Assessment",
         "Scientific Communication",
-        "Open Science",
-        "Reproducible Research",
         "Big Data",
         "Business Administration",
-        "Digital Transformation"
+        "Digital Transformation",
+        "Open Science",
+        "Reproducible Research"
       ],
       "alumniOf": [
         {
@@ -500,7 +196,8 @@
               "@type": "CollegeOrUniversity",
               "name": "Woolf"
             }
-          ]
+          ],
+          "url": "https://woolf.university/id/4400202887"
         },
         {
           "@type": "EducationalOccupationalCredential",
@@ -542,8 +239,8 @@
         },
         {
           "@type": "EducationalOccupationalCredential",
-          "name": "Licence in English",
-          "credentialCategory": "Bachelor-level university qualification",
+          "name": "Licence d’anglais",
+          "credentialCategory": "French bachelor-level university degree",
           "recognizedBy": {
             "@type": "CollegeOrUniversity",
             "name": "Université Rennes 2"
@@ -551,7 +248,7 @@
         },
         {
           "@type": "EducationalOccupationalCredential",
-          "name": "Postgraduate Business and Management Programmes — including Big Data",
+          "name": "Postgraduate business and management programmes, including Big Data",
           "credentialCategory": "Título propio / continuing postgraduate education",
           "educationalLevel": "Postgraduate",
           "recognizedBy": {
@@ -564,12 +261,6 @@
         "Certificate of Academic Excellence for the MSc in Artificial Intelligence.",
         "Recipient of competitive technology scholarship opportunities supported by Google and Facebook."
       ],
-      "identifier": {
-        "@type": "PropertyValue",
-        "propertyID": "ORCID",
-        "value": "0009-0009-4663-9778",
-        "url": "https://orcid.org/0009-0009-4663-9778"
-      },
       "sameAs": [
         "https://github.com/MinervaRose",
         "https://www.linkedin.com/in/sabrina-jp/",
@@ -579,7 +270,13 @@
         "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Palis%2C%20Sabrina%22",
         "https://scholar.google.fr/citations?user=mOpMYocAAAAJ",
         "https://orcid.org/0009-0009-4663-9778"
-      ]
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0009-4663-9778",
+        "url": "https://orcid.org/0009-0009-4663-9778"
+      }
     },
     {
       "@type": "Article",
@@ -657,300 +354,207 @@
 </head>
 
 <body>
-  <header>
-    <div class="container">
-      <nav>
-        <a class="brand" href="/">S. Palis</a>
-        <div class="nav-links">
-          <a href="/">Home</a>
-          <a href="#profile">Profile</a>
-          <a href="#practice">Practice</a>
-          <a href="#research">Research</a>
-          <a href="#identity">Identity</a>
-          <a href="#profiles">Profiles</a>
-        </div>
-      </nav>
-    </div>
-  </header>
-
   <main>
-    <section class="hero">
-      <div class="container hero-grid">
-        <div>
-          <div class="eyebrow">Professional profile · identity reference</div>
-          <h1>Sabrina <span class="gradient-text">Palis</span></h1>
-          <p class="subtitle">AI &amp; Data Educator · Mentor &amp; Certification Juror · Independent Researcher · Applied AI Systems</p>
-          <p class="lead">
-            I work across applied AI systems, computational research, analytics, and technical education.
-            My practice combines technical development with mentoring, assessment, research, and the design
-            of systems that help people inspect complex information, understand uncertainty, and make better decisions.
-          </p>
-          <div class="actions">
-            <a class="button primary" href="/">Portfolio</a>
-            <a class="button" href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">GitHub</a>
-            <a class="button" href="https://orcid.org/0009-0009-4663-9778" target="_blank" rel="noreferrer">ORCID</a>
-            <a class="button" href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noreferrer">LinkedIn</a>
-          </div>
-        </div>
+    <h1>Sabrina Palis</h1>
 
-        <aside class="hero-card">
-          <img class="portrait" src="photo.png" alt="Profile photo of Sabrina Palis" />
-          <p class="profile-note">
-            MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS.<br>
-            Sustained technical development since 2017.
-          </p>
-        </aside>
-      </div>
-    </section>
+    <p class="subtitle">
+      AI Systems &amp; Data Specialist · Independent Researcher ·
+      Higher-Education Technical Educator · Mentor · Consultant ·
+      Generative AI Certification Juror
+    </p>
 
-    <section id="profile" class="band">
-      <div class="container split">
-        <div class="section-heading">
-          <h2>Professional profile</h2>
-          <p>A cross-disciplinary practice grounded in both technical formation and long-standing educational experience.</p>
-        </div>
+    <h2>Profile</h2>
 
-        <div class="stack">
-          <div class="card">
-            <p>
-              Sabrina Palis is an AI and data educator, mentor, certification juror, independent researcher,
-              and applied AI systems practitioner. Her work brings together artificial intelligence,
-              computational research, analytics, technical education, and human-centred system design.
-            </p>
-            <p>
-              She builds and investigates systems that make evidence, uncertainty, limitations, and reasoning
-              more visible while preserving meaningful human judgement. Her interests include explainable and
-              human-in-the-loop AI, decision-support systems, anomaly detection, scientific signal and time-series
-              analysis, agentic workflows, analytics and visualisation, and AI-assisted scientific exploration.
-            </p>
-          </div>
+    <p>
+      Sabrina Palis is an AI systems and data specialist whose work brings
+      together applied artificial intelligence, computational research,
+      analytics and technical education. She designs auditable systems that
+      help people examine complex information, understand uncertainty and make
+      better decisions while retaining meaningful human oversight.
+    </p>
 
-          <div class="card">
-            <p>
-              She holds an MSc in Artificial Intelligence with First Class Honours from the Udacity Institute
-              of AI and Technology and Woolf, an MA in Education with Merit from the University of Nottingham,
-              an MBA from Universidad Isabel I, and a Licence in English from Université Rennes 2.
-              She also holds a PGCE with Qualified Teacher Status.
-            </p>
-            <p>
-              Her technical development has been continuous since 2017, spanning software development,
-              machine learning, deep learning, reinforcement learning, autonomous systems, computer vision,
-              cloud technologies, data science, and generative AI through structured programmes,
-              specialist study, scholarships, and extensive project-based practice.
-            </p>
-            <p>
-              Her postgraduate business and management training also includes multiple ENEB
-              <em>títulos propios</em>, including specialist study in Big Data. These programmes
-              complement her formal university qualifications by extending her work into management,
-              analytics, digital transformation, and applied business decision-making.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+    <p>
+      She holds a
+      <a href="https://woolf.university/id/4400202887">
+        <strong>Master of Science in Artificial Intelligence with First Class Honours</strong>
+      </a>
+      from the Udacity Institute of AI and Technology and Woolf. Her academic
+      background also includes a <strong>Master of Arts in Education with Merit</strong>
+      from the University of Nottingham, an <strong>MBA from Universidad Isabel I</strong>,
+      a <strong>Licence d’anglais from Université Rennes 2</strong>, and a
+      Postgraduate Certificate in Education with Qualified Teacher Status in
+      England and Wales.
+    </p>
 
-    <section id="practice">
-      <div class="container">
-        <div class="section-heading">
-          <h2>Current professional practice</h2>
-          <p>These activities are intentionally described by function rather than by naming current employers, clients, or institutions.</p>
-        </div>
+    <p>
+      Her postgraduate business and management training also includes multiple
+      ENEB <em>títulos propios</em>, including specialist study in
+      <strong>Big Data</strong>, management, analytics and digital transformation.
+    </p>
 
-        <div class="grid">
-          <div class="card">
-            <h3>Technical education &amp; mentoring</h3>
-            <p>
-              Higher-education technical teaching, AI and data mentoring, curriculum design, project-based learning,
-              educational technology, advanced learner support, and the creation of resources that move learners
-              from procedure-following toward genuine technical understanding.
-            </p>
-          </div>
+    <p>
+      Her technical development has been continuous since 2017. Beginning with a
+      Google Developer Scholarship Challenge, she pursued structured study across
+      software development, deep learning, reinforcement learning, autonomous
+      systems, data science, computer vision, cloud technologies and generative AI.
+      This work developed through professional programmes, specialist courses,
+      scholarships, self-directed study and extensive project-based practice,
+      eventually culminating in the MSc in Artificial Intelligence in 2026.
+    </p>
 
-          <div class="card">
-            <h3>Assessment &amp; certification</h3>
-            <p>
-              Qualified jury and project-assessment work in Generative AI, with attention to technical reasoning,
-              methodology, documentation, evidence, limitations, communication, and responsible use.
-            </p>
-          </div>
+    <p class="evidence-note">
+      A broader record of technical and professional certifications, including
+      issuer and verification links where available, is maintained on
+      <a href="https://www.linkedin.com/in/sabrina-jp/">LinkedIn</a>.
+    </p>
 
-          <div class="card">
-            <h3>Applied AI &amp; data</h3>
-            <p>
-              Decision-support systems, explainable AI, agentic workflows, analytics, visualisation,
-              anomaly analysis, and human-in-the-loop tools designed for inspectability and practical reasoning.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+    <p>
+      Her current professional activities include higher-education technical
+      education and curriculum design, technical mentoring in data analysis,
+      business intelligence, machine learning and applied AI, independent
+      research, and AI and data consulting. She also serves as a qualified juror
+      for the French RS6891 professional certification in Generative Artificial
+      Intelligence, assessing candidates' technical reasoning, methodology,
+      documentation and communication.
+    </p>
 
-    <section id="research" class="band">
-      <div class="container split">
-        <div class="section-heading">
-          <h2>Independent research &amp; open science</h2>
-          <p>Exploratory computational work documented through inspectable public artefacts.</p>
-        </div>
+    <p>
+      She also accepts a limited number of private tutoring students on a highly
+      selective basis. Her tutoring work has included the Da Vinci Program of
+      Crimson Global Academy and Groupe Réussite, with experience supporting
+      advanced learners and preparing students for selective French
+      <em>classes préparatoires</em> entrance examinations.
+    </p>
 
-        <div class="card">
-          <p>
-            Her independent research explores how computation can help humans notice structure and meaningful
-            signals in complex scientific and technical environments. Current themes include scientific triage,
-            uncertainty-aware exploration, signal and time-series analysis, multimodal data, anomaly detection,
-            human–AI collaboration, and scientific visualisation.
-          </p>
-          <p>
-            She favours research outputs that can be examined and revisited: repositories, notebooks,
-            technical specifications, datasets, visualisations, reproducible experiments, and openly archived artefacts.
-          </p>
-          <p>
-            ORCID: <a href="https://orcid.org/0009-0009-4663-9778" target="_blank" rel="noreferrer"><strong>0009-0009-4663-9778</strong></a>
-          </p>
-        </div>
-      </div>
-    </section>
+    <p>
+      Her technical and research interests include explainable and human-in-the-loop
+      AI, decision-support systems, anomaly detection, scientific signal and
+      time-series analysis, agentic workflows, analytics and visualisation, and
+      AI-assisted scientific exploration. Across these areas, she places particular
+      emphasis on evidence, uncertainty, reproducibility and human judgement.
+    </p>
 
-    <section id="projects">
-      <div class="container">
-        <div class="section-heading">
-          <h2>Selected current work</h2>
-          <p>Representative projects across explainable AI, scientific exploration, public-interest systems, and governed AI architectures.</p>
-        </div>
+    <p>
+      Earlier in her career, Sabrina Palis worked in international relations and
+      economic development, including positions with the Comité France Chine of
+      MEDEF and Bretagne International. These roles involved international
+      communication, economic development, information and communication work,
+      and France–China business contexts.
+    </p>
 
-        <div class="grid two">
-          <article class="card project-card">
-            <h3>BeLedgerReady</h3>
-            <p>Explainable financial anomaly analysis and audit-readiness support built around deterministic evidence before LLM explanation.</p>
-            <a href="https://github.com/MinervaRose/BeLedgerReady" target="_blank" rel="noreferrer">View repository →</a>
-          </article>
+    <h2>Writing and public scholarship</h2>
 
-          <article class="card project-card">
-            <h3>Industry Integrated AI Systems Synthesis</h3>
-            <p>Auditable decision-support architecture for anomaly triage in safety-critical aerospace environments.</p>
-            <a href="https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis" target="_blank" rel="noreferrer">View repository →</a>
-          </article>
+    <p>
+      Sabrina Palis also publishes essays and technical reflections on Medium
+      under the name <strong>Sabrina Jorgenson</strong>. This writing extends
+      her work beyond software projects into questions of artificial
+      intelligence, language, cognition, representation, mathematics and
+      scientific thought.
+    </p>
 
-          <article class="card project-card">
-            <h3>Bioacoustic Topology</h3>
-            <p>Exploratory computational research modelling birdsong through acoustic features, latent representations, and dynamical structure.</p>
-            <a href="https://github.com/MinervaRose/bioacoustic-topology" target="_blank" rel="noreferrer">View repository →</a>
-          </article>
+    <ul>
+      <li>
+        <a href="https://medium.com/@sabrina.jorgenson/the-linguistic-creature-language-ai-and-the-survival-of-information-4e8ac16acf4b">
+          The Linguistic Creature: Language, AI, and the Survival of Information
+        </a>
+      </li>
+      <li>
+        <a href="https://medium.com/@sabrina.jorgenson/i-asked-ai-to-rate-my-face-it-modeled-my-mind-instead-cd9e0546dbc5">
+          I Asked AI to Rate My Face. It Modeled My Mind Instead
+        </a>
+      </li>
+      <li>
+        <a href="https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2">
+          The World Is Not Made Of Things
+        </a>
+      </li>
+      <li>
+        <a href="https://medium.com/@sabrina.jorgenson/spinors-at-the-intersection-of-two-geometries-1de69fed2305">
+          Spinors at the Intersection of Two Geometries
+        </a>
+      </li>
+      <li>
+        <a href="https://medium.com/@sabrina.jorgenson/are-we-asking-the-wrong-question-about-consciousness-1636c2df604e">
+          Are We Asking the Wrong Question About Consciousness?
+        </a>
+      </li>
+    </ul>
 
-          <article class="card project-card">
-            <h3>Latent Physiological Topology</h3>
-            <p>Non-diagnostic exploratory work on acoustic physiological signals, latent state spaces, trajectories, and anomaly analysis.</p>
-            <a href="https://github.com/MinervaRose/latent-physiological-topology" target="_blank" rel="noreferrer">View repository →</a>
-          </article>
+    <h2>Selected current work</h2>
 
-          <article class="card project-card">
-            <h3>PyroNav</h3>
-            <p>Hazard-aware wildfire evacuation research and prototyping around route diversity, geospatial evidence, uncertainty, and official constraints.</p>
-          </article>
+    <ul>
+      <li>
+        <a href="https://github.com/MinervaRose/BeLedgerReady">BeLedgerReady</a>,
+        an explainable financial anomaly analysis and audit-readiness assistant.
+      </li>
+      <li>
+        <a href="https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis">
+          Industry Integrated AI Systems Synthesis
+        </a>, an auditable decision-support architecture for anomaly triage in
+        safety-critical aerospace environments.
+      </li>
+      <li>
+        <a href="https://github.com/MinervaRose/bioacoustic-topology">
+          Bioacoustic Topology
+        </a>
+        and
+        <a href="https://github.com/MinervaRose/latent-physiological-topology">
+          Latent Physiological Topology
+        </a>, exploratory research on acoustic signals as latent dynamical systems.
+      </li>
+      <li>
+        PyroNav and intibi, current projects exploring hazard-aware wildfire
+        evacuation and interactive interpretation of H-alpha solar observations.
+      </li>
+      <li>
+        Airline Said No, an explainable public-interest assistant for disrupted
+        air-travel cases and passenger-rights reasoning.
+      </li>
+    </ul>
 
-          <article class="card project-card">
-            <h3>intibi</h3>
-            <p>An interactive solar companion whose changing states are driven by H-alpha observations and scientifically grounded solar behaviour.</p>
-          </article>
-        </div>
-      </div>
-    </section>
+    <h2>Current areas of activity</h2>
 
-    <section id="writing" class="band">
-      <div class="container split">
-        <div class="section-heading">
-          <h2>Writing &amp; public scholarship</h2>
-          <p>Essays and technical reflections extending the work beyond software into questions of representation, cognition, mathematics, language, and science.</p>
-        </div>
+    <ul>
+      <li>AI systems and decision support</li>
+      <li>Computational research and scientific exploration</li>
+      <li>Explainable and human-in-the-loop AI</li>
+      <li>Anomaly detection and signal analysis</li>
+      <li>Agentic workflows and governed orchestration</li>
+      <li>Data analytics, Big Data and visualisation</li>
+      <li>Higher-education technical education and curriculum design</li>
+      <li>Professional mentoring in AI, data and business intelligence</li>
+      <li>Generative AI certification assessment</li>
+      <li>Technical writing, open science and scientific communication</li>
+    </ul>
 
-        <div class="card">
-          <ul class="writing-list">
-            <li><a href="https://medium.com/@sabrina.jorgenson/the-linguistic-creature-language-ai-and-the-survival-of-information-4e8ac16acf4b">The Linguistic Creature: Language, AI, and the Survival of Information</a></li>
-            <li><a href="https://medium.com/@sabrina.jorgenson/i-asked-ai-to-rate-my-face-it-modeled-my-mind-instead-cd9e0546dbc5">I Asked AI to Rate My Face. It Modeled My Mind Instead</a></li>
-            <li><a href="https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2">The World Is Not Made Of Things</a></li>
-            <li><a href="https://medium.com/@sabrina.jorgenson/spinors-at-the-intersection-of-two-geometries-1de69fed2305">Spinors at the Intersection of Two Geometries</a></li>
-            <li><a href="https://medium.com/@sabrina.jorgenson/are-we-asking-the-wrong-question-about-consciousness-1636c2df604e">Are We Asking the Wrong Question About Consciousness?</a></li>
-          </ul>
-        </div>
-      </div>
-    </section>
+    <h2>Selected public profiles</h2>
 
-    <section id="identity">
-      <div class="container split">
-        <div class="section-heading">
-          <h2>Public identity</h2>
-          <p>This page also acts as an identity-resolution reference across different publishing and technical platforms.</p>
-        </div>
-
-        <div class="card">
-          <p>
-            <strong>Sabrina Palis</strong> is the primary professional and research identity used on this site.
-            <strong>Sabrina Palis Jorgenson</strong> is a fuller form of the same name.
-            Essays and public scholarship may also appear under <strong>Sabrina Jorgenson</strong>,
-            while <strong>MinervaRose</strong> is the GitHub identity used for technical projects and repositories.
-          </p>
-          <p>
-            These names and profiles refer to the same person and are linked here deliberately so that
-            professional, research, technical, and publishing work can be understood as parts of one coherent body of work.
-          </p>
-          <div class="identity-row">
-            <span class="tag">Sabrina Palis</span>
-            <span class="tag">Sabrina Palis Jorgenson</span>
-            <span class="tag">Sabrina Jorgenson</span>
-            <span class="tag">MinervaRose</span>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="background" class="band">
-      <div class="container split">
-        <div class="section-heading">
-          <h2>Earlier professional context</h2>
-          <p>The technical practice grew from an earlier career rather than replacing it.</p>
-        </div>
-
-        <div class="card">
-          <p>
-            Before moving deeply into AI and data, Sabrina worked across education, languages,
-            international relations, communication, and economic development, including France–China
-            business cooperation and international development contexts.
-          </p>
-          <p>
-            That background continues to shape her technical work: systems are approached not only as
-            code, but as tools used by people who need to understand evidence, make decisions,
-            communicate reasoning, and operate under real constraints.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <section id="profiles">
-      <div class="container">
-        <div class="section-heading">
-          <h2>Selected public profiles</h2>
-          <p>Linked public identities across technical work, research, writing, visual analytics, and open scholarship.</p>
-        </div>
-
-        <div class="profile-links">
-          <a href="/" aria-label="Portfolio home">Portfolio</a>
-          <a href="https://github.com/MinervaRose" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="https://orcid.org/0009-0009-4663-9778" target="_blank" rel="noreferrer">ORCID</a>
-          <a href="https://scholar.google.fr/citations?user=mOpMYocAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
-          <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Palis%2C%20Sabrina%22" target="_blank" rel="noreferrer">Zenodo</a>
-          <a href="https://medium.com/@sabrina.jorgenson" target="_blank" rel="noreferrer">Medium</a>
-          <a href="https://public.tableau.com/app/profile/sabrina.palis/vizzes" target="_blank" rel="noreferrer">Tableau Public</a>
-          <a href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noreferrer">LinkedIn</a>
-        </div>
-      </div>
-    </section>
+    <ul>
+      <li><a href="https://minervarose.github.io/">Portfolio</a></li>
+      <li><a href="https://github.com/MinervaRose">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/sabrina-jp/">LinkedIn</a></li>
+      <li><a href="https://orcid.org/0009-0009-4663-9778">ORCID</a></li>
+      <li><a href="https://scholar.google.fr/citations?user=mOpMYocAAAAJ">Google Scholar</a></li>
+      <li>
+        <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Palis%2C%20Sabrina%22">
+          Zenodo
+        </a>
+      </li>
+      <li><a href="https://medium.com/@sabrina.jorgenson">Medium</a></li>
+      <li>
+        <a href="https://public.tableau.com/app/profile/sabrina.palis/vizzes">
+          Tableau Public
+        </a>
+      </li>
+      <li><a href="https://www.youtube.com/@palebluemanifold">YouTube</a></li>
+    </ul>
   </main>
 
   <footer>
-    <div class="container">
-      <span>© S. Palis · AI &amp; data education, applied AI systems, computational research</span>
-      <span>This page is the canonical public professional profile and identity reference for Sabrina Palis.</span>
-    </div>
+    This page provides a concise public reference describing the principal
+    professional activities, qualifications, current work and public profiles
+    of Sabrina Palis.
   </footer>
 </body>
-</html>
 
+</html>
