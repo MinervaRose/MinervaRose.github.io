@@ -1109,6 +1109,32 @@ a { color:inherit; }
 }
 @media(prefers-reduced-motion:reduce){.background.background-editorial *{transition:none!important;}}
 
+/* Restore portrait clarity while keeping soft edges */
+@media (min-width: 981px) {
+  .hero-image-wrap::before {
+    background:
+      linear-gradient(90deg,
+        rgba(255,250,252,.18) 0%,
+        rgba(255,250,252,.06) 6%,
+        rgba(255,250,252,0) 13%
+      ),
+      radial-gradient(
+        circle at 14% 88%,
+        rgba(255,250,252,.20),
+        transparent 20%
+      );
+  }
+
+  .hero-image-wrap::after {
+    height: 24%;
+    background: linear-gradient(
+      180deg,
+      transparent 0%,
+      rgba(255,250,252,.16) 50%,
+      rgba(255,250,252,.73) 100%
+    );
+  }
+}
 </style>
 </head>
 <body>
