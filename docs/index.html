@@ -1,360 +1,1478 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Sabrina Palis: independent research, AI and data systems, scientific computing, technical education, expert review, and selected writing." />
-  <title>Sabrina Palis | Research, AI Systems & Education</title>
-  <style>
-    :root {
-      --bg: #fffafc;
-      --text: #20182a;
-      --muted: #645b6e;
-      --pink: #d81b60;
-      --orange: #ff8a00;
-      --purple: #7b2ff7;
-      --border: rgba(54, 35, 74, 0.14);
-      --max: 1130px;
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#fffafc" name="theme-color"/>
+<meta content="Sabrina Palis — artificial intelligence, data science, technical education, AI systems and evaluation, independent research and selected writing." name="description"/>
+<title>Sabrina Palis | AI, Data Science, Research &amp; Education</title>
+<style>
+    :root { --pink:#d81b60; --orange:#ff8a00; --purple:#7b2ff7; --ink:#20182a; --muted:#5b5266; --paper:#fffafc; --border:#e9e0e9; --max:1200px; color-scheme:light; }
+    *,*::before,*::after {box-sizing:border-box}
+    html{scroll-behavior:smooth;scroll-padding-top:100px}
+    body{margin:0;color:var(--ink);background:var(--paper);font-family:Inter,"Segoe UI",ui-sans-serif,system-ui,-apple-system,Arial,sans-serif;line-height:1.63}
+    p,h1,h2,h3{margin-top:0}
+    a{color:inherit} a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--purple);outline-offset:4px;border-radius:6px}
+    .container{width:min(calc(100% - 64px),var(--max));margin-inline:auto}
+    .skip{position:absolute;top:-100px;left:12px;z-index:200;background:#fff;color:var(--ink);padding:10px 16px;border:2px solid var(--purple)}
+    .skip:focus{top:12px}
+    .top-progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:99;pointer-events:none}
+    .top-progress span{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--pink),var(--orange),var(--purple));transition:width .12s linear}
+    header{position:sticky;top:0;z-index:80;background:rgba(255,250,252,.93);backdrop-filter:blur(18px);border-bottom:1px solid rgba(55,27,73,.08)}
+    .nav{min-height:82px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+    .brand{display:inline-flex;gap:12px;align-items:center;text-decoration:none;font-size:20px;font-weight:760;letter-spacing:-.045em;white-space:nowrap}
+    .brand strong{background:linear-gradient(120deg,var(--pink),var(--orange),var(--purple));color:transparent;background-clip:text}
+    .brand-mark{width:35px;height:35px;display:inline-block;flex:none}
+    .desktop-links{display:flex;align-items:center;gap:clamp(13px,1.65vw,27px)}
+    .desktop-links a{text-decoration:none;font-size:13px;font-weight:650;color:#423750;white-space:nowrap;padding:12px 0}
+    .desktop-links a:hover,.mobile-menu a:hover{color:var(--pink)}
+    .desktop-links a.lang{color:var(--pink)}
+    .desktop-links a.nav-contact{border:1px solid #dfcbdc;border-radius:999px;padding:10px 16px;background:#fff}
+    .mobile-menu{display:none;position:relative}
+    .mobile-menu summary{list-style:none;cursor:pointer;font-size:15px;font-weight:700;padding:10px 18px;border:1px solid var(--border);border-radius:999px;background:white}
+    .mobile-menu summary::-webkit-details-marker{display:none}
+    .mobile-menu nav{position:absolute;right:0;top:calc(100% + 12px);display:flex;flex-direction:column;min-width:210px;background:white;border:1px solid var(--border);border-radius:16px;padding:10px;box-shadow:0 22px 55px #28153125}
+    .mobile-menu nav a{padding:11px 13px;text-decoration:none;font-weight:600}
+    .eyebrow,.kicker{font-size:11px;letter-spacing:.17em;text-transform:uppercase;font-weight:850;color:#9b296e}
+    .hero{position:relative;overflow:hidden;isolation:isolate;background:radial-gradient(ellipse 53% 67% at 103% 25%,rgba(123,47,247,.16),transparent),radial-gradient(ellipse 48% 70% at 72% 95%,rgba(255,138,0,.10),transparent),radial-gradient(ellipse 44% 58% at 1% 0%,rgba(216,27,96,.065),transparent),var(--paper)}
+    .hero:before{content:"";position:absolute;pointer-events:none;inset:0;opacity:.45;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Ccircle cx='46' cy='35' r='1.1' fill='%23ba8eab' fill-opacity='.38'/%3E%3Ccircle cx='148' cy='113' r='.8' fill='%23b9a1cd' fill-opacity='.35'/%3E%3C/svg%3E")}
+    .hero-inner{position:relative;display:grid;grid-template-columns:1.07fr .93fr;min-height:685px;align-items:center;gap:30px;padding-top:60px;padding-bottom:58px}
+    .hero-copy{z-index:3;max-width:640px}
+    .hero h1{font-size:clamp(66px,7.5vw,112px);line-height:.91;font-weight:810;letter-spacing:-.083em;margin:23px 0 29px}
+    .hero h1 span{display:block;background:linear-gradient(105deg,var(--pink) 6%,#f45b4b 38%,var(--orange) 70%,var(--purple));-webkit-background-clip:text;background-clip:text;color:transparent;padding-bottom:.07em}
+    .hero-intro{font-size:clamp(17px,1.55vw,20px);max-width:620px;line-height:1.6;color:#30263b;margin:0 0 16px}
+    .hero-second{font-size:15px;color:var(--muted);line-height:1.7;max-width:610px;margin-bottom:25px}
+    .buttons{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;border-radius:999px;text-decoration:none;font-size:14px;font-weight:740;padding:12px 22px;border:1px solid #e6d8e4;background:white;box-shadow:0 4px 12px rgba(56,31,75,.03);transition:transform .2s,box-shadow .2s}
+    .btn:hover{transform:translateY(-2px);box-shadow:0 12px 25px #ad62a522}
+    .btn.primary{background:linear-gradient(110deg,#e12c68,#ff7540,#9228e8);border:none;color:#fff;box-shadow:0 10px 22px #dc43712a}
+    .hero-footnote{margin:30px 0 0;font-size:12px;color:#695870;display:flex;gap:15px;align-items:center;flex-wrap:wrap}
+    .hero-footnote span+span:before{content:"•";margin-right:15px;color:#c9b4c8}
+    .hero-art{position:relative;min-width:0;height:610px;align-self:end;display:grid;place-items:center}
+    .portrait-glow{position:absolute;width:92%;height:86%;top:8%;left:2%;border-radius:46%;background:conic-gradient(from 35deg at 50% 48%,rgba(123,47,247,.26),rgba(216,27,96,.13),rgba(255,138,0,.21),rgba(123,47,247,.26));filter:blur(55px);animation:breathe 11s ease-in-out infinite}
+    .portrait-pane{position:relative;isolation:isolate;width:100%;max-width:550px;height:100%;overflow:hidden;mask-image:linear-gradient(to bottom,black 0%,black 77%,transparent 99%);-webkit-mask-image:linear-gradient(to bottom,black 0%,black 77%,transparent 99%)}
+    .portrait-pane img{display:block;height:100%;width:100%;object-fit:contain;object-position:center bottom;filter:drop-shadow(0 14px 23px rgba(62,23,78,.12))}
+    .portrait-glow{width:105%;height:79%;top:12%;left:-3%;border-radius:50%;filter:blur(72px);opacity:.87}
+    .orbital{position:absolute;inset:4% -3% 0;pointer-events:none;width:106%;height:91%;overflow:visible;opacity:.82}
+    .orbit-ring{fill:none;stroke-width:1.6;transform-origin:50% 50%;animation:orbit 38s linear infinite}
+    .orbit-ring.alt{animation-duration:55s;animation-direction:reverse}
+    .orbit-dot{animation:pulse 4s ease-in-out infinite}
+    .floating-label{position:absolute;background:#fffafce8;border:1px solid #efdfeb;border-radius:12px;color:#503854;box-shadow:0 14px 35px #27113012;font-size:12px;font-weight:740;padding:11px 15px;z-index:5;backdrop-filter:blur(8px)}
+    .floating-label.one{top:16%;left:-5%}.floating-label.two{bottom:21%;right:-6%}
+    .section{padding:100px 0}
+    .section-heading{display:flex;justify-content:space-between;align-items:end;gap:35px;margin-bottom:40px}
+    h2{font-size:clamp(38px,4.4vw,60px);letter-spacing:-.066em;line-height:1.07;margin:8px 0 0}
+    h3{letter-spacing:-.035em}
+    .section-note{max-width:380px;color:var(--muted);font-size:15px;margin:0}
+    .practice{background:#fff;border-top:1px solid #eee4ee;border-bottom:1px solid #eee4ee}
+    .practice-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--border)}
+    .practice-item{padding:31px 34px 10px 0;position:relative}
+    .practice-item + .practice-item{padding-left:32px;border-left:1px solid var(--border)}
+    .practice-number{color:#ad3f8b;font-size:12px;font-weight:800;letter-spacing:.18em;display:block;margin-bottom:24px}
+    .practice-icon{display:block;width:46px;height:46px;margin-bottom:24px;color:var(--purple)}
+    .practice-item h3{font-size:22px;line-height:1.17;margin-bottom:13px}
+    .practice-item p{font-size:15px;color:var(--muted);margin:0;line-height:1.7}
+    .projects{background:linear-gradient(180deg,#fffafc,#fff8f9 80%,#fffafc)}
+    .featured-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+    /* Celestial-inspired light: visible in the resting artwork, richer on interaction. */
+    .project-feature{
+      background:#fff;border-radius:24px;border:1px solid rgba(227,184,220,.65);
+      box-shadow:0 14px 40px rgba(94,47,102,.10),0 0 22px rgba(216,27,96,.08),0 0 32px rgba(123,47,247,.055);
+      overflow:hidden;display:flex;flex-direction:column;
+      transition:box-shadow .75s ease,transform .75s cubic-bezier(.2,.75,.2,1),border-color .75s ease;
     }
-    *, *::before, *::after { box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
-    body {
-      margin: 0;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.68;
-      color: var(--text);
-      background: var(--bg);
+    .project-feature:hover,.project-feature:focus-within{
+      transform:translateY(-3px);
+      border-color:rgba(213,137,195,.75);
+      box-shadow:0 22px 50px rgba(94,47,102,.15),0 0 30px rgba(216,27,96,.15),0 0 54px rgba(123,47,247,.12);
     }
-    a { color: inherit; }
-    a:focus-visible { outline: 3px solid var(--purple); outline-offset: 4px; border-radius: 3px; }
-    .container { width: min(calc(100% - 3rem), var(--max)); margin-inline: auto; }
-    .skip-link { position: absolute; left: -999px; top: 0; background: white; padding: .5rem 1rem; z-index: 30; }
-    .skip-link:focus { left: 1rem; top: 1rem; }
-    header { position: sticky; top: 0; z-index: 20; border-bottom: 1px solid var(--border); background: rgba(255,250,252,.91); backdrop-filter: blur(20px); }
-    nav { min-height: 70px; display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
-    .brand { font-weight: 800; letter-spacing: -.03em; text-decoration: none; white-space: nowrap; }
-    .nav-links { display: flex; flex-wrap: wrap; gap: .35rem 1.25rem; align-items: center; font-size: .88rem; color: #5e566a; }
-    .nav-links a { text-decoration: none; }
-    .nav-links a:hover, .inline-link:hover { color: var(--pink); }
-    .nav-links .lang { color: var(--pink); font-weight: 750; }
-    .hero {
-      position: relative;
-      isolation: isolate;
-      overflow: hidden;
-      padding: clamp(5rem, 10vw, 8rem) 0 clamp(4.5rem, 8vw, 7rem);
+    .project-media{
+      --bloom-a:255,167,91;--bloom-b:245,92,187;--bloom-c:163,98,255;
+      position:relative;height:286px;overflow:hidden;isolation:isolate;background:#eadcf7;
+    }
+    .project-media--aerospace{--bloom-a:255,172,91;--bloom-b:254,95,174;--bloom-c:155,101,254}
+    .project-media--bioacoustics{--bloom-a:255,189,112;--bloom-b:249,97,168;--bloom-c:183,119,251}
+    .project-media svg{display:block;width:100%;height:100%}
+    .project-media img{
+      display:block;width:100%;height:100%;object-fit:cover;object-position:center;
+      filter:saturate(1.08) contrast(1.025) brightness(1.055);
+      transition:transform 1s cubic-bezier(.2,.75,.2,1),filter 1s ease;
+    }
+    /* These glow layers are luminous overlays, not opaque pictures or effects over text. */
+    .project-media::before{
+      content:"";position:absolute;z-index:1;pointer-events:none;inset:-15%;
       background:
-        radial-gradient(ellipse at 7% 12%, rgba(216,27,96,.14), transparent 38%),
-        radial-gradient(ellipse at 91% 5%, rgba(255,138,0,.17), transparent 32%),
-        radial-gradient(ellipse at 71% 100%, rgba(123,47,247,.13), transparent 40%),
-        #fffafc;
+        radial-gradient(ellipse 34% 44% at 17% 24%,rgba(var(--bloom-b),.22),transparent 100%),
+        radial-gradient(ellipse 37% 40% at 78% 27%,rgba(var(--bloom-c),.17),transparent 100%),
+        radial-gradient(ellipse 41% 45% at 58% 80%,rgba(var(--bloom-a),.24),transparent 100%);
+      filter:blur(16px);mix-blend-mode:screen;opacity:.85;
+      transform:translate3d(0,0,0) scale(1);
+      transition:opacity 1s ease,transform 1.1s cubic-bezier(.2,.75,.2,1);
     }
-    .hero::after {
-      content: ""; position: absolute; pointer-events: none; z-index: -1;
-      width: min(68vw, 700px); aspect-ratio: 1; border-radius: 50%; right: -21%; top: -56%;
-      border: 1px solid rgba(123,47,247,.11);
-      box-shadow: 0 0 0 82px rgba(216,27,96,.025), 0 0 0 178px rgba(255,138,0,.018);
+    .project-media::after{
+      content:"";position:absolute;z-index:2;pointer-events:none;inset:0;
+      background:
+        radial-gradient(ellipse 63% 48% at 50% 108%,rgba(var(--bloom-a),.18),transparent 84%),
+        linear-gradient(115deg,rgba(var(--bloom-b),.09),transparent 36%,rgba(var(--bloom-c),.09) 70%,rgba(var(--bloom-a),.10));
+      box-shadow:inset 0 0 0 1px rgba(255,228,239,.20),inset 0 0 34px rgba(var(--bloom-c),.10);
+      mix-blend-mode:screen;transition:box-shadow .85s ease,opacity .85s ease;
     }
-    .hero-layout { display: grid; grid-template-columns: minmax(0,1.35fr) minmax(230px,.65fr); gap: clamp(2rem,5vw,5.5rem); align-items: center; }
-    .eyebrow, .kicker { text-transform: uppercase; letter-spacing: .15em; font-size: .76rem; font-weight: 780; color: #9a276a; }
-    h1, h2, h3, p { margin-top: 0; }
-    h1 { font-size: clamp(3.4rem, 8.7vw, 7.2rem); font-weight: 800; line-height: .98; letter-spacing: -.078em; margin: 1.2rem 0 1.6rem; }
-    h1 span { display: block; background: linear-gradient(105deg, var(--pink) 3%, var(--orange) 47%, var(--purple) 95%); background-clip: text; -webkit-background-clip: text; color: transparent; }
-    .hero-intro { font-size: clamp(1.13rem, 2vw, 1.34rem); line-height: 1.65; max-width: 640px; color: #40344c; }
-    .hero-second { max-width: 640px; color: var(--muted); font-size: 1.03rem; }
-    .actions { display: flex; flex-wrap: wrap; gap: .65rem; margin-top: 1.9rem; }
-    .button { display: inline-flex; text-decoration: none; font-weight: 730; font-size: .9rem; padding: .75rem 1.08rem; border-radius: 999px; border: 1px solid var(--border); background: rgba(255,255,255,.79); }
-    .button.primary { background: linear-gradient(108deg, var(--pink), #eb3e7f, var(--orange)); color: white; border: 0; }
-    .portrait-zone { display: flex; align-items: center; flex-direction: column; justify-content: center; }
-    .portrait-frame { padding: 10px; border-radius: 45% 45% 39% 39%; width: min(100%,285px); background: linear-gradient(130deg,rgba(216,27,96,.22),rgba(255,138,0,.18),rgba(123,47,247,.23)); }
-    .portrait { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 44% 44% 38% 38%; background: linear-gradient(135deg,#fbe9f3,#f3e7fc); }
-    .portrait-note { margin: 1.3rem 0 0; max-width: 270px; font-size: .85rem; color: var(--muted); text-align: center; line-height: 1.7; }
-    section { scroll-margin-top: 86px; }
-    .section-pad { padding: clamp(4.4rem, 8vw, 7rem) 0; }
-    .section-top { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 2.4rem; }
-    h2 { font-size: clamp(2.25rem, 4vw, 3.35rem); line-height: 1.1; letter-spacing: -.057em; margin: .5rem 0 0; font-weight: 780; }
-    .section-description { max-width: 450px; color: var(--muted); margin: 0; }
-    .practice { border-block: 1px solid var(--border); background: #fff; }
-    .practice-layout { display: grid; grid-template-columns: .78fr 1.22fr; gap: clamp(2rem, 6vw, 6rem); }
-    .practice-intro { position: sticky; top: 115px; align-self: start; }
-    .practice-intro p { color: var(--muted); margin-top: 1.1rem; max-width: 330px; }
-    .practice-list { border-top: 1px solid var(--border); }
-    .practice-line { display: grid; grid-template-columns: 2.4rem 1fr; gap: 1.3rem; padding: 1.55rem 0; border-bottom: 1px solid var(--border); }
-    .practice-line .num { color: var(--pink); font-size: .8rem; font-weight: 780; padding-top: .3rem; }
-    .practice-line h3 { font-size: 1.24rem; letter-spacing: -.03em; margin: 0 0 .3rem; }
-    .practice-line p { color: var(--muted); margin: 0; max-width: 590px; }
-    .projects-heading { margin-bottom: 2.25rem; }
-    .feature { display: grid; grid-template-columns: minmax(210px,.72fr) minmax(0,1.28fr); border-block: 1px solid var(--border); min-height: 320px; }
-    .feature + .feature { border-top: 0; }
-    .feature-visual { display: flex; flex-direction: column; justify-content: space-between; padding: clamp(1.5rem,3vw,2.7rem); overflow: hidden; position: relative; isolation: isolate; }
-    .feature-visual::before { content:""; width: 230px; height: 230px; position: absolute; inset: auto -80px -95px auto; border-radius: 50%; border: 1px solid rgba(255,255,255,.45); box-shadow: 0 0 0 50px rgba(255,255,255,.075), 0 0 0 100px rgba(255,255,255,.045); z-index: -1; }
-    .feature-visual.purple { background: linear-gradient(135deg,#602ec0,#aa3bb9 55%,#e44581); color: #fff; }
-    .feature-visual.orange { background: linear-gradient(135deg,#ffad61,#fc7c94 55%,#b556d2); color: #32192d; }
-    .feature-number { font-weight: 780; letter-spacing: -.04em; font-size: clamp(5.4rem, 10vw, 8.7rem); line-height: 1; opacity: .63; }
-    .feature-label { text-transform: uppercase; letter-spacing: .13em; font-size: .78rem; font-weight: 750; }
-    .feature-copy { padding: clamp(1.5rem,3.4vw,3rem); display: flex; flex-direction: column; justify-content: center; }
-    .feature-copy h3 { font-size: clamp(1.65rem, 2.7vw, 2.45rem); line-height: 1.18; letter-spacing: -.045em; margin: .2rem 0 .8rem; }
-    .feature-copy p { color: var(--muted); max-width: 620px; font-size: 1.02rem; }
-    .feature-copy .inline-link { color: var(--pink); font-weight: 720; text-decoration-thickness: 1px; text-underline-offset: 4px; }
-    .feature-tags { font-size: .8rem; color: #775d88; margin-bottom: 1.4rem; }
-    .other-work { margin-top: 3.25rem; }
-    .other-work h3 { font-size: 1.26rem; letter-spacing: -.025em; margin-bottom: .8rem; }
-    .project-row { display: grid; grid-template-columns: minmax(170px,.7fr) minmax(0,1.3fr) auto; align-items: baseline; gap: .8rem 1.5rem; border-bottom: 1px solid var(--border); padding: 1.25rem 0; }
-    .project-row:first-of-type { border-top: 1px solid var(--border); }
-    .project-row strong { font-weight: 750; }
-    .project-row p { color: var(--muted); margin: 0; font-size: .94rem; }
-    .project-row a { color: var(--pink); font-weight: 730; text-decoration: none; white-space: nowrap; font-size: .85rem; }
-    .project-row .status { color: #795b85; white-space: nowrap; font-size: .8rem; }
-    .research { background: linear-gradient(125deg,#fce8f3 0%,#fff4e9 48%,#f1eafe 100%); border-block: 1px solid var(--border); }
-    .research-layout { display: grid; grid-template-columns: .75fr 1.25fr; gap: clamp(2rem,6vw,6rem); align-items: start; }
-    .research-main { font-size: clamp(1.12rem,2vw,1.35rem); line-height: 1.75; margin: .1rem 0 1.35rem; }
-    .research-detail { color: #594e65; margin: 0; }
-    .research-topics { margin-top: 1.5rem; padding-top: 1.2rem; border-top: 1px solid rgba(54,35,74,.15); color: #684778; font-size: .9rem; }
-    .writing-list { max-width: 1040px; margin: 1.7rem 0 1.3rem; }
-    .writing-row { padding: 1.22rem 0; border-top: 1px solid var(--border); display: grid; grid-template-columns: 3rem 1fr auto; align-items: center; gap: 1rem; }
-    .writing-row:last-child { border-bottom: 1px solid var(--border); }
-    .writing-row .no { font-size: .75rem; color: #9b7fa7; font-weight: 780; }
-    .writing-row a { text-decoration: none; font-size: clamp(1.1rem,2vw,1.47rem); letter-spacing: -.025em; font-weight: 670; line-height: 1.3; }
-    .writing-row a:hover { color: var(--pink); }
-    .writing-row .arr { color: var(--pink); }
-    .more-link { color: var(--pink); font-weight: 740; text-underline-offset: 4px; }
-    .background { border-top: 1px solid var(--border); background: #fff; }
-    .background-columns { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem,6vw,6rem); }
-    .background-columns h3 { margin: 0 0 .75rem; font-size: 1.42rem; letter-spacing: -.035em; }
-    .background-columns p { color: var(--muted); }
-    .background-small { font-size: .93rem; }
-    .credentials { color: #5b466c; font-size: .91rem; border-top: 1px solid var(--border); padding-top: 1rem; margin-top: 1.4rem; }
-    footer { padding: 2.7rem 0; background: #241b2b; color: #f9eff9; }
-    .footer-layout { display: flex; gap: 1.5rem; justify-content: space-between; align-items: center; flex-wrap: wrap; }
-    footer p { margin: .35rem 0; color: #cbbdd5; font-size: .92rem; }
-    footer a { text-decoration: none; color: #f8d3e8; }
-    .footer-links { display: flex; flex-wrap: wrap; gap: 1rem; font-size: .89rem; }
-    @media (max-width: 840px) {
-      .hero-layout, .practice-layout, .research-layout, .background-columns { grid-template-columns: 1fr; }
-      .hero-layout { gap: 2.1rem; }
-      .portrait-zone { align-items: flex-start; }
-      .portrait-frame { width: 190px; }
-      .portrait-note { text-align: left; max-width: 440px; }
-      .practice-intro { position: static; }
-      .section-top { align-items: start; flex-direction: column; }
-      .feature { grid-template-columns: 210px 1fr; }
+    .project-feature:hover .project-media img,.project-feature:focus-within .project-media img{
+      transform:scale(1.055);filter:saturate(1.18) contrast(1.035) brightness(1.10);
     }
-    @media (max-width: 600px) {
-      .container { width: min(calc(100% - 2rem), var(--max)); }
-      nav { align-items: flex-start; padding: 1rem 0; flex-direction: column; gap: .35rem; }
-      .nav-links { gap: .15rem .9rem; font-size: .83rem; }
-      .hero { padding-top: 4rem; }
-      .hero-layout { grid-template-columns: 1fr; }
-      .feature { grid-template-columns: 1fr; }
-      .feature-visual { min-height: 140px; flex-direction: row; align-items: center; }
-      .feature-number { font-size: 4rem; }
-      .feature-copy { padding: 1.4rem .3rem 2rem; }
-      .project-row { grid-template-columns: 1fr auto; }
-      .project-row p { grid-column: 1 / -1; grid-row: 2; }
-      .writing-row { grid-template-columns: 1.7rem 1fr 1rem; gap: .6rem; }
-      .section-pad { padding: 4rem 0; }
+    .project-feature:hover .project-media::before,.project-feature:focus-within .project-media::before{
+      opacity:1;transform:translate3d(2%, -2%,0) scale(1.08);
     }
-    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
-  </style>
+    .project-feature:hover .project-media::after,.project-feature:focus-within .project-media::after{
+      box-shadow:inset 0 0 0 1px rgba(255,227,239,.34),inset 0 0 46px rgba(var(--bloom-c),.20);
+    }
+    .project-feature .project-index{z-index:3}
+    @media (prefers-reduced-motion:reduce){
+      .project-feature,.project-media img,.project-media::before,.project-media::after{transition:none!important}
+      .project-feature:hover,.project-feature:focus-within{transform:none}
+      .project-feature:hover .project-media img,.project-feature:focus-within .project-media img{transform:none}
+      .project-feature:hover .project-media::before,.project-feature:focus-within .project-media::before{transform:none}
+    }
+    .project-copy{padding:32px 34px 34px;flex:1;display:flex;flex-direction:column}
+    .overline{font-size:11px;font-weight:850;text-transform:uppercase;letter-spacing:.16em;color:#9b296e}
+    .project-copy h3{font-size:29px;line-height:1.19;letter-spacing:-.05em;margin:12px 0}
+    .project-copy p{color:var(--muted);font-size:15px;line-height:1.74;margin-bottom:17px}
+    .project-tags{font-size:12px;color:#7e5b87;margin-top:auto;margin-bottom:15px}
+    .text-link{color:#ba1b60;text-decoration-thickness:1px;text-underline-offset:4px;font-size:14px;font-weight:800;align-self:flex-start}
+    .text-link:hover{color:var(--purple)}
+    .project-index{position:absolute;top:17px;left:20px;color:#fff;font-size:11px;letter-spacing:.14em;font-weight:850;background:#29133148;border:1px solid #fff7;border-radius:999px;padding:7px 12px}
+    .extra-work{margin-top:48px}
+    .extra-work h3{font-size:26px;margin:0 0 16px}
+    .extra-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+    .extra-card{background:#fff;border:1px solid var(--border);border-radius:15px;padding:25px;min-height:205px;display:flex;flex-direction:column;transition:border-color .2s,transform .2s}
+    .extra-card:hover{border-color:#d9a5c9;transform:translateY(-2px)}
+    .extra-card h4{margin:0 0 12px;font-size:18px;letter-spacing:-.025em}
+    .extra-card p{color:var(--muted);font-size:14px;line-height:1.64;margin:0 0 18px}
+    .extra-card a,.extra-card small{margin-top:auto;font-size:13px;font-weight:740;color:#b51c62;text-decoration:none}
+    .extra-card small{color:#806d87}
+    .small-wave{margin:-5px 0 15px;width:100%;max-width:210px;height:30px}
+    .research{background:linear-gradient(115deg,#fce9f3 0%,#fff5ea 47%,#f1eafe 100%);border-block:1px solid #eadbe7;overflow:hidden}
+    .research-layout{display:grid;grid-template-columns:1fr;gap:32px;align-items:start}
+    .research-copy{max-width:820px}
+    .research-main{font-size:clamp(19px,2vw,25px);line-height:1.55;margin:26px 0 20px}
+    .research-detail{color:#594e65;font-size:15px;line-height:1.8;margin:0 0 14px}
+    .research-topics{margin-top:24px;padding-top:19px;border-top:1px solid #cbb1c9;color:#674975;font-size:13px;line-height:1.9}
+    .research-visual{position:relative;min-height:0;width:100%;overflow:hidden;display:block;margin-top:10px}
+    .research-visual img{display:block;width:100%;height:auto;mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent);-webkit-mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent)}
+    
+    .writing{background:#fff}
+    .essay-list{border-top:1px solid var(--border)}
+    .essay{display:grid;grid-template-columns:50px 1fr 28px;gap:12px;align-items:center;border-bottom:1px solid var(--border);padding:23px 4px;text-decoration:none;transition:background .2s,padding .2s}
+    .essay:hover{background:#fff8fb;padding-left:13px}
+    .essay .no{font-size:12px;color:#b06b9a;font-weight:800}
+    .essay .name{font-size:clamp(17px,2vw,23px);font-weight:710;letter-spacing:-.025em}
+    .essay .arr{color:var(--pink);font-size:21px;text-align:right}
+    .essay-footer{margin-top:26px}
+    .background{border-top:1px solid var(--border);background:var(--paper)}
+    .background-cols{display:grid;grid-template-columns:1fr 1fr;gap:clamp(35px,8vw,120px)}
+    .background-cols h3{font-size:23px;margin:0 0 15px}
+    .background-cols p{font-size:15px;color:var(--muted);line-height:1.8}
+    .credentials{margin-top:20px;padding-top:20px;border-top:1px solid var(--border);font-size:13px!important;color:#704f78!important}
+    .celestial-section{background:radial-gradient(ellipse 40% 60% at 50% 35%,#fdf0f7,#fffafc 78%);border-top:1px solid #f2e7ef;padding:38px 0 22px}
+    .celestial-inner{max-width:620px;margin:0 auto}
+    .celestial-inner iframe{width:100%;display:block;height:535px;border:0;background:transparent}
+    footer{background:#241b2b;color:#f9eff9;padding:42px 0}
+    .footer-inner{display:flex;justify-content:space-between;align-items:center;gap:26px;flex-wrap:wrap}
+    footer strong{font-size:16px}footer p{color:#d3c3d8;margin:5px 0 0;font-size:13px}
+    .footer-links{display:flex;flex-wrap:wrap;gap:12px 25px}
+    .footer-links a{text-decoration:none;color:#f8d3e8;font-size:13px;font-weight:650}
+    .footer-links a:hover{text-decoration:underline}
+    @keyframes breathe{50%{transform:scale(1.10);opacity:.72}}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes pulse{50%{opacity:.25}}
+    @keyframes line-flow{to{stroke-dashoffset:-30}}
+    .flow-line{stroke-dasharray:3 9;animation:line-flow 3s linear infinite}
+    .reveal{opacity:1;transform:none}
+    .js-motion .reveal{opacity:0;transform:translateY(16px);transition:opacity .75s ease,transform .75s ease}
+    .js-motion .reveal.visible{opacity:1;transform:none}
+    @media(max-width:1020px){.desktop-links{gap:12px}.desktop-links a{font-size:12px}.hero-inner{grid-template-columns:1fr .85fr}.hero-art{height:540px}.floating-label.one{left:-2%}.floating-label.two{right:-2%}.practice-item{padding-right:20px}.practice-item + .practice-item{padding-left:20px}}
+    @media(max-width:840px){.desktop-links{display:none}.mobile-menu{display:block}.hero-inner{min-height:unset;padding:70px 0 45px;grid-template-columns:1fr;gap:8px}.hero-copy{max-width:720px}.hero-art{height:540px;width:100%;max-width:520px;margin:0 auto}.floating-label.one{left:3%}.floating-label.two{right:2%}.practice-grid{grid-template-columns:1fr}.practice-item,.practice-item+.practice-item{border-left:0;border-bottom:1px solid var(--border);padding:25px 0}.practice-item:last-child{border-bottom:0}.practice-number{margin-bottom:12px}.practice-icon{margin-bottom:12px}.featured-grid{grid-template-columns:1fr}.project-feature{max-width:760px}.extra-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.research-layout{grid-template-columns:1fr;gap:5px}.research-visual{min-height:0}.section{padding:75px 0}}
+    @media(max-width:600px){.container{width:min(calc(100% - 34px),var(--max))}.nav{min-height:69px}.brand{font-size:18px}.hero-inner{padding-top:55px}.hero h1{font-size:clamp(58px,13vw,77px)}.hero-intro{font-size:17px}.hero-second{font-size:14px}.hero-footnote{gap:7px}.hero-footnote span+span:before{margin-right:8px}.hero-art{height:410px;max-width:400px}.portrait-pane{max-width:360px}.floating-label{font-size:11px;padding:8px 10px}.floating-label.one{top:13%}.floating-label.two{bottom:20%}.section-heading{align-items:start;flex-direction:column;gap:13px;margin-bottom:27px}.section{padding:63px 0}.project-media{height:228px}.project-copy{padding:24px}.project-copy h3{font-size:25px}.extra-grid{grid-template-columns:1fr}.extra-card{min-height:0}.research-visual{min-height:0;overflow:hidden}.research-visual img{width:850px;max-width:none;position:relative;left:50%;transform:translateX(-50%)}.background-cols{grid-template-columns:1fr;gap:24px}.essay{grid-template-columns:32px 1fr 18px}.celestial-inner iframe{height:510px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.js-motion .reveal{opacity:1!important;transform:none!important}}
+  
+
+/* ==============================================
+   Approved hero — integrated (2026-10-31)
+   ============================================== */
+
+* { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+a { color:inherit; }
+    a:focus-visible, button:focus-visible { outline:3px solid var(--purple); outline-offset:4px; border-radius:10px; }
+    .topbar .container, .hero .container { width:min(calc(100% - 52px), 1320px); margin-inline:auto; }
+    .topbar { position:sticky; top:0; z-index:50; background:rgba(255,250,252,.84); backdrop-filter:blur(18px); border-bottom:1px solid rgba(78,44,93,.08); }
+    .nav { min-height:84px; display:flex; align-items:center; justify-content:space-between; gap:24px; }
+    .brand { display:inline-flex; align-items:center; gap:14px; text-decoration:none; white-space:nowrap; }
+    .brand-mark { width:34px; height:34px; flex:none; }
+    .brand-name { font-size:20px; font-weight:780; letter-spacing:-.04em; }
+    .brand-name strong { font-weight:780; background:linear-gradient(110deg,var(--pink),var(--orange),var(--purple)); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    .nav-links { display:flex; align-items:center; gap:clamp(14px,1.6vw,28px); }
+    .nav-links a { text-decoration:none; color:#43384f; font-weight:640; font-size:13px; white-space:nowrap; }
+    .nav-links a:hover { color:var(--pink); }
+    .nav-actions { display:flex; align-items:center; gap:16px; }
+    .lang { display:inline-flex; gap:10px; align-items:center; color:#594e64; font-size:13px; font-weight:700; }
+    .lang .active { color:var(--ink); }
+    .github-btn { display:inline-flex; align-items:center; gap:10px; min-height:48px; padding:0 18px; border-radius:999px; border:1px solid rgba(89,64,106,.16); text-decoration:none; background:rgba(255,255,255,.8); box-shadow:0 6px 18px rgba(81,32,88,.05); font-size:14px; font-weight:720; }
+    .github-btn:hover { box-shadow:0 12px 30px rgba(81,32,88,.12); transform:translateY(-1px); }
+    .menu-btn { display:none; min-height:46px; padding:0 18px; border-radius:999px; border:1px solid rgba(89,64,106,.16); background:#fff; font:inherit; font-weight:720; color:#3c3248; }
+
+    .hero { position:relative; overflow:hidden; }
+    .hero::before { content:""; position:absolute; inset:0; pointer-events:none; background:
+        radial-gradient(circle at 16% 30%, rgba(255,255,255,.7), transparent 26%),
+        radial-gradient(circle at 71% 22%, rgba(255,206,167,.22), transparent 18%),
+        radial-gradient(circle at 83% 32%, rgba(123,47,247,.10), transparent 24%),
+        linear-gradient(180deg, rgba(255,255,255,.42), rgba(255,255,255,0)); }
+    .hero-wrap { position:relative; display:grid; grid-template-columns:minmax(360px, 500px) minmax(520px, 1fr); gap:32px; align-items:center; min-height:690px; padding:52px 0 60px; }
+    .hero-copy { position:relative; z-index:2; padding:18px 0 18px; }
+    .eyebrow { display:flex; align-items:center; gap:12px; font-size:11px; letter-spacing:.2em; text-transform:uppercase; font-weight:850; color:#8f4276; margin-bottom:18px; }
+    .eyebrow::before { content:""; width:4px; height:28px; border-radius:999px; background:linear-gradient(180deg, var(--orange), var(--pink), var(--purple)); box-shadow:0 8px 20px rgba(216,27,96,.22); }
+    .eyebrow span { opacity:.86; }
+    .hero h1 { margin:0 0 26px; font-family: Georgia, "Times New Roman", serif; font-size:clamp(76px,8vw,122px); line-height:.86; letter-spacing:-.07em; font-weight:700; color:#181238; }
+    .hero h1 span { display:block; background:linear-gradient(120deg, var(--pink) 8%, #fa684a 38%, var(--orange) 70%, var(--purple) 96%); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    .hero-intro { font-size:clamp(18px,1.55vw,22px); line-height:1.62; color:#2f263c; margin:0 0 14px; max-width:26ch; }
+    .hero-second { font-size:16px; line-height:1.75; color:var(--muted); margin:0 0 28px; max-width:31ch; }
+    .hero-panel { position:relative; padding:10px 8px 6px 0; }
+    .hero-buttons { display:flex; gap:14px; flex-wrap:wrap; align-items:center; }
+    .btn { display:inline-flex; align-items:center; justify-content:center; gap:10px; min-height:54px; border-radius:999px; padding:0 22px; text-decoration:none; font-size:15px; font-weight:740; border:1px solid rgba(83,54,99,.12); background:rgba(255,255,255,.78); box-shadow:0 10px 28px rgba(101,58,106,.08); backdrop-filter:blur(10px); }
+    .btn:hover { transform:translateY(-2px); box-shadow:0 16px 34px rgba(101,58,106,.13); }
+    .btn.primary { color:#fff; border:none; background:linear-gradient(100deg, #ff8f3d 0%, #ef3971 48%, #7c2df4 100%); box-shadow:0 16px 34px rgba(183,71,141,.28); }
+    .btn svg { width:16px; height:16px; }
+
+    .hero-stage { position:relative; min-height:590px; z-index:1; }
+    .hero-stage::before { content:""; position:absolute; inset:4% 0 2% 4%; border-radius:40px; background:
+        radial-gradient(circle at 54% 52%, rgba(255,255,255,.30), transparent 20%),
+        radial-gradient(circle at 86% 34%, rgba(255,182,153,.20), transparent 26%),
+        radial-gradient(circle at 69% 16%, rgba(123,47,247,.14), transparent 24%),
+        linear-gradient(180deg, rgba(255,255,255,.28), rgba(255,255,255,.02)); filter:blur(14px); }
+    .hero-image-wrap { position:absolute; inset:0; border-radius:36px; overflow:hidden; }
+    .hero-image-wrap::before { content:""; position:absolute; inset:-1px; z-index:2; pointer-events:none; background:
+        linear-gradient(90deg, rgba(255,250,252,1) 0%, rgba(255,250,252,.93) 8%, rgba(255,250,252,.60) 16%, rgba(255,250,252,.08) 28%, rgba(255,250,252,0) 42%),
+        radial-gradient(circle at 14% 88%, rgba(255,250,252,.96), transparent 30%),
+        linear-gradient(180deg, rgba(255,250,252,.22), rgba(255,250,252,0) 14%, rgba(255,250,252,0) 86%, rgba(255,250,252,.22)); }
+    .hero-image-wrap::after { content:""; position:absolute; inset:auto 0 -2px 0; height:34%; z-index:2; pointer-events:none; background:linear-gradient(180deg, rgba(255,250,252,0) 0%, rgba(255,250,252,.50) 36%, rgba(255,250,252,.97) 100%); }
+    .hero-image { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center center; filter:saturate(1.05) contrast(1.02); transform:scale(1.015); }
+    .hero-orbit { position:absolute; inset:0; z-index:3; pointer-events:none; opacity:.96; }
+    .hero-orbit path { fill:none; stroke-linecap:round; stroke-linejoin:round; }
+    .hero-orbit .orbit-a { stroke:rgba(255,179,82,.82); stroke-width:1.4; }
+    .hero-orbit .orbit-b { stroke:rgba(255,116,198,.48); stroke-width:1.35; }
+    .hero-orbit .orbit-c { stroke:rgba(193,131,255,.50); stroke-width:1.2; }
+    .hero-orbit .spark { fill:#ffb95d; }
+    .hero-orbit .spark.pink { fill:#ff57b4; }
+    .hero-orbit .spark.white { fill:#fff3ea; }
+    .orbit-motion-a { animation:orbitFloatA 16s ease-in-out infinite; }
+    .orbit-motion-b { animation:orbitFloatB 20s ease-in-out infinite; }
+    .orbit-motion-c { animation:orbitFloatC 18s ease-in-out infinite; }
+    .hero-caption { display:flex; justify-content:space-between; align-items:center; gap:20px; margin-top:18px; padding-top:18px; border-top:1px solid rgba(80,46,97,.10); }
+    .hero-caption .k { font-size:12px; letter-spacing:.17em; text-transform:uppercase; font-weight:820; color:#8d4b75; }
+    .hero-caption a { text-decoration:none; color:#d92f78; font-weight:760; font-size:14px; }
+
+    .note { padding:0 0 54px; color:#6b5a73; font-size:14px; }
+    .note strong { color:#3b294a; }
+
+    @keyframes orbitFloatA { 0%,100% { transform:translateY(0px) rotate(0deg); } 50% { transform:translateY(-7px) rotate(1deg); } }
+    @keyframes orbitFloatB { 0%,100% { transform:translateY(0px) translateX(0px); } 50% { transform:translateY(6px) translateX(-5px); } }
+    @keyframes orbitFloatC { 0%,100% { transform:translateY(0px) translateX(0px); } 50% { transform:translateY(-5px) translateX(4px); } }
+
+    @media (max-width: 1120px) {
+      .nav-links { gap:14px; }
+      .hero-wrap { grid-template-columns:minmax(320px, 440px) minmax(420px, 1fr); gap:26px; min-height:unset; }
+      .hero-stage { min-height:530px; }
+      .hero h1 { font-size:clamp(64px,8vw,100px); }
+    }
+    @media (max-width: 980px) {
+      .nav-links { display:none; }
+      .github-btn { display:none; }
+      .menu-btn { display:inline-flex; align-items:center; }
+      .hero-wrap { grid-template-columns:1fr; gap:20px; padding-top:38px; }
+      .hero-copy { order:2; }
+      .hero-stage { order:1; min-height:450px; }
+      .hero-copy { max-width:640px; }
+      .hero-intro,.hero-second { max-width:none; }
+      .hero-image-wrap::before { background:
+        linear-gradient(180deg, rgba(255,250,252,.10), rgba(255,250,252,0) 16%, rgba(255,250,252,0) 84%, rgba(255,250,252,.12)),
+        linear-gradient(90deg, rgba(255,250,252,.16), rgba(255,250,252,0) 18%, rgba(255,250,252,0) 82%, rgba(255,250,252,.16)); }
+    }
+    @media (max-width: 720px) {
+      .container { width:min(calc(100% - 34px), var(--max)); }
+      .nav { min-height:76px; }
+      .brand-name { font-size:18px; }
+      .lang { font-size:12px; gap:8px; }
+      .hero-wrap { padding-top:24px; padding-bottom:44px; gap:18px; }
+      .hero-stage { min-height:330px; }
+      .hero h1 { font-size:clamp(54px,16vw,88px); }
+      .hero-intro { font-size:17px; }
+      .hero-second { font-size:15px; }
+      .hero-buttons { gap:12px; }
+      .btn { width:100%; justify-content:flex-start; min-height:52px; }
+      .hero-caption { display:block; }
+      .hero-caption a { display:inline-block; margin-top:8px; }
+    }
+  
+/* Hero integration only: keep lower-page content unchanged. */
+.hero { scroll-margin-top:90px; }
+.topbar .lang a { color:#d81b60; font-weight:750; text-decoration:none; }
+.topbar .lang a:hover { text-decoration:underline; }
+.mobile-nav { display:none; position:relative; }
+.mobile-nav summary { cursor:pointer; list-style:none; display:inline-flex; align-items:center; justify-content:center; min-height:46px; border-radius:999px; padding:0 18px; border:1px solid rgba(89,64,106,.16); font-weight:720; background:#fff; }
+.mobile-nav summary::-webkit-details-marker { display:none; }
+.mobile-nav nav { position:absolute; right:0; top:calc(100% + 10px); min-width:220px; padding:10px; border:1px solid rgba(89,64,106,.16); border-radius:18px; background:#fff; box-shadow:0 15px 40px rgba(60,25,73,.14); display:flex; flex-direction:column; z-index:100; }
+.mobile-nav nav a { display:block; padding:11px 13px; border-radius:8px; font-size:15px; font-weight:680; text-decoration:none; }
+.mobile-nav nav a:hover { background:#fff2f7; color:var(--pink); }
+@media (max-width:980px) { .mobile-nav { display:block; } }
+@media (max-width:720px) { .topbar .container, .hero .container {width:min(calc(100% - 34px), 1320px);} }
+@media (prefers-reduced-motion:reduce) { .hero-orbit > g {animation:none!important;} .btn {transition:none!important;} }
+
+/* v5.1: deliberately restrained treatment of the approved v5 hero.
+   Everything outside the hero, and the source hero photograph, is unchanged. */
+.hero-image-wrap .hero-earth-tint {
+  position:absolute;
+  inset:0;
+  z-index:2;
+  pointer-events:none;
+  background:
+    radial-gradient(ellipse 24% 31% at 76% 54%, rgba(244,73,142,.24), transparent 94%),
+    radial-gradient(ellipse 25% 24% at 87% 67%, rgba(255,140,59,.26), transparent 94%),
+    radial-gradient(ellipse 26% 30% at 95% 40%, rgba(145,66,242,.14), transparent 96%);
+  mix-blend-mode:soft-light;
+}
+.hero-image-wrap .hero-earth-light {
+  position:absolute;
+  inset:0;
+  z-index:2;
+  pointer-events:none;
+  background:
+    radial-gradient(ellipse 18% 22% at 81% 50%, rgba(255,91,164,.12), transparent 90%),
+    radial-gradient(ellipse 21% 22% at 88% 69%, rgba(255,172,83,.12), transparent 92%);
+  mix-blend-mode:screen;
+}
+.hero-satellite {
+  position:absolute;
+  z-index:4;
+  pointer-events:none;
+  height:auto;
+  overflow:visible;
+  filter:drop-shadow(0 4px 6px rgba(27,13,44,.25)) drop-shadow(0 0 8px rgba(255,170,121,.36));
+}
+.hero-satellite--a {
+  left:64%; top:40%; width:144px; transform:rotate(-14deg);
+}
+.hero-satellite--b {
+  left:79%; top:66%; width:115px; transform:rotate(16deg);
+}
+@media(max-width:720px){
+  .hero-satellite--a{left:65%;top:39%;width:88px}
+  .hero-satellite--b{left:79%;top:65%;width:68px}
+}
+@media(prefers-reduced-motion:reduce){
+  .hero-satellite { animation:none !important; }
+}
+
+
+/* v5.2: Professional practice visual refinement. Other sections unchanged. */
+.practice.practice-refined {
+  position:relative;
+  isolation:isolate;
+  overflow:hidden;
+  background:
+    radial-gradient(ellipse 60% 90% at 8% 9%, rgba(135,44,159,.32), transparent 67%),
+    radial-gradient(ellipse 50% 105% at 94% 86%, rgba(100,53,182,.28), transparent 72%),
+    radial-gradient(ellipse 29% 67% at 68% 4%, rgba(240,79,139,.16), transparent 72%),
+    linear-gradient(118deg,#161027 0%,#211337 53%,#151025 100%);
+  color:#fff7fc;
+  border-top:1px solid rgba(255,171,201,.35);
+  border-bottom:1px solid rgba(255,187,135,.24);
+  padding:87px 0 94px;
+}
+.practice.practice-refined:before {
+  content:""; position:absolute; inset:0; pointer-events:none; opacity:.55; z-index:-1;
+  background-image:
+    radial-gradient(circle at 7% 18%,rgba(255,239,234,.78) 0 1px,transparent 1.6px),
+    radial-gradient(circle at 44% 47%,rgba(255,198,224,.62) 0 1px,transparent 1.7px),
+    radial-gradient(circle at 88% 27%,rgba(255,212,168,.66) 0 1px,transparent 1.8px),
+    radial-gradient(circle at 69% 83%,rgba(244,197,255,.64) 0 1px,transparent 1.6px);
+  background-size:410px 310px,530px 370px,650px 410px,490px 360px;
+}
+.practice.practice-refined:after {
+  content:""; position:absolute; right:-300px; top:-390px; width:760px; height:760px;
+  border:1px solid rgba(255,183,209,.10); border-radius:50%; box-shadow:0 0 0 70px rgba(251,174,207,.015),0 0 0 142px rgba(251,174,207,.014);
+  transform:rotate(-25deg); pointer-events:none; z-index:-1;
+}
+.practice-content { position:relative; z-index:1; }
+.practice.practice-refined .practice-heading { margin-bottom:40px; align-items:end; }
+.practice.practice-refined .kicker { color:#ffc0dc; letter-spacing:.19em; }
+.practice.practice-refined h2 {
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(48px,5.2vw,72px);
+  font-weight:600; letter-spacing:-.065em; line-height:1.05;
+  color:#fff8ff; margin-top:10px;
+  text-shadow:0 0 45px rgba(255,145,206,.18);
+}
+.practice.practice-refined .section-note {
+  color:#e3d6eb; max-width:420px; font-size:16px; line-height:1.75;
+}
+.practice.practice-refined .practice-grid {
+  display:grid; grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:0; border-top:1px solid rgba(255,221,245,.22); border-bottom:1px solid rgba(255,221,245,.14);
+}
+.practice.practice-refined .practice-field {
+  position:relative; padding:29px 38px 33px; min-width:0;
+  border:0; display:flex; flex-direction:column;
+  transition:background-color .35s ease;
+}
+.practice.practice-refined .practice-field:first-child { padding-left:0; }
+.practice.practice-refined .practice-field:last-child { padding-right:0; }
+.practice.practice-refined .practice-field + .practice-field { border-left:1px solid rgba(255,221,245,.19); }
+.practice.practice-refined .practice-field:hover { background:rgba(255,255,255,.025); }
+.practice.practice-refined .practice-top { display:flex; align-items:center; justify-content:space-between; gap:15px; }
+.practice.practice-refined .practice-number { color:#ffb8d5; font-size:12px; letter-spacing:.18em; font-weight:790; margin:0; }
+.practice.practice-refined .practice-short-rule { height:1px; width:44px; flex:none; background:linear-gradient(90deg,#fa85b8,#ffb26e,transparent); opacity:.8; }
+.practice.practice-refined .practice-orbit-art {
+  position:relative; width:128px; height:128px;
+  margin:17px 0 23px 3px; flex:none; isolation:isolate;
+  transition:transform .5s ease;
+}
+.practice.practice-refined .practice-field:hover .practice-orbit-art { transform:translateY(-4px); }
+.practice.practice-refined .practice-halo { position:absolute; inset:2%; border-radius:50%; background:radial-gradient(circle,rgba(251,130,197,.47),rgba(170,83,234,.21) 44%,transparent 70%); filter:blur(17px); }
+.practice.practice-refined .practice-planet {
+  position:absolute; inset:18%; border-radius:50%;
+  background:
+    radial-gradient(circle at 29% 23%,rgba(255,250,225,.92) 0,rgba(255,211,161,.55) 5%,transparent 26%),
+    radial-gradient(circle at 35% 31%,#f275d2 0%,#9a41d1 34%,#471975 63%,#1b103e 84%);
+  box-shadow:inset -11px -12px 16px rgba(18,8,38,.6),inset 4px 3px 8px rgba(255,229,242,.33),0 0 17px rgba(232,91,181,.37),0 0 35px rgba(157,69,223,.26);
+}
+.practice.practice-refined .practice-field--evaluate .practice-planet {
+  background:
+    radial-gradient(circle at 30% 24%,rgba(255,253,234,.95) 0,rgba(255,218,155,.70) 6%,transparent 26%),
+    radial-gradient(circle at 33% 32%,#ff9d84 0%,#cb438e 38%,#632a9c 65%,#20143d 90%);
+  box-shadow:inset -10px -11px 17px rgba(29,8,46,.55),inset 4px 3px 8px rgba(255,220,196,.4),0 0 17px rgba(255,138,121,.44),0 0 34px rgba(208,67,148,.29);
+}
+.practice.practice-refined .practice-field--teach .practice-planet {
+  background:
+    radial-gradient(circle at 29% 22%,rgba(255,253,233,.92) 0,rgba(255,224,148,.65) 6%,transparent 26%),
+    radial-gradient(circle at 34% 34%,#efaa82 0%,#b958b7 38%,#5e2c9f 65%,#221744 88%);
+  box-shadow:inset -11px -12px 17px rgba(29,8,46,.58),inset 4px 3px 8px rgba(255,220,196,.3),0 0 17px rgba(255,165,125,.40),0 0 34px rgba(192,86,205,.30);
+}
+.practice.practice-refined .practice-glyph { position:absolute; inset:0; width:100%; height:100%; filter:drop-shadow(0 0 4px rgba(255,208,200,.36)); }
+.practice.practice-refined .practice-glint { position:absolute; left:15%; top:19%; width:4px; height:4px; border-radius:50%; background:#ffe2c5; box-shadow:0 0 13px 5px rgba(255,179,132,.35); }
+.practice.practice-refined .practice-field h3 {
+  color:#fff7fa; font-size:clamp(23px,2.1vw,28px); line-height:1.22;
+  letter-spacing:-.045em; font-weight:680;
+  margin:0 0 17px; max-width:300px;
+}
+.practice.practice-refined .practice-field p {
+  color:#ddd0e6; font-size:15.5px; line-height:1.8; margin:0; max-width:340px;
+}
+@media(max-width:950px) {
+  .practice.practice-refined .practice-field { padding-inline:24px; }
+  .practice.practice-refined .practice-field h3 { font-size:22px; }
+}
+@media(max-width:740px) {
+  .practice.practice-refined { padding:72px 0 76px; }
+  .practice.practice-refined .practice-heading { gap:16px; margin-bottom:30px; }
+  .practice.practice-refined .practice-grid { grid-template-columns:1fr; }
+  .practice.practice-refined .practice-field,
+  .practice.practice-refined .practice-field:first-child,
+  .practice.practice-refined .practice-field:last-child { padding:27px 0 30px; }
+  .practice.practice-refined .practice-field + .practice-field { border-left:0; border-top:1px solid rgba(255,221,245,.19); }
+  .practice.practice-refined .practice-orbit-art { width:110px; height:110px; margin:10px 0 16px; }
+  .practice.practice-refined .practice-field h3 { max-width:unset; font-size:25px; }
+  .practice.practice-refined .practice-field p { max-width:590px; }
+}
+@media(prefers-reduced-motion:reduce){
+  .practice.practice-refined .practice-orbit-art,
+  .practice.practice-refined .practice-field{transition:none!important;}
+}
+
+
+/* v5.3: project presentation only. Locked hero and practice are untouched. */
+.projects.projects-editorial {
+  position:relative;
+  isolation:isolate;
+  overflow:hidden;
+  background:
+    radial-gradient(ellipse 48% 28% at 8% 8%,rgba(252,161,215,.16),transparent 77%),
+    radial-gradient(ellipse 42% 34% at 96% 18%,rgba(246,163,111,.12),transparent 83%),
+    radial-gradient(ellipse 35% 38% at 76% 78%,rgba(173,113,232,.07),transparent 82%),
+    linear-gradient(180deg,#fffbfd 0%,#fff9fa 48%,#fffafc 100%);
+  padding-top:103px;
+  padding-bottom:111px;
+}
+.projects.projects-editorial::before {
+  content:"";
+  position:absolute;z-index:0;pointer-events:none;
+  left:0;right:0;top:0;height:2px;
+  background:linear-gradient(90deg,transparent 0%,rgba(255,159,176,.74) 24%,rgba(255,183,111,.7) 53%,rgba(166,98,231,.76) 80%,transparent 100%);
+  box-shadow:0 0 24px 5px rgba(208,99,190,.12);
+}
+.projects.projects-editorial > .container {position:relative;z-index:1}
+.projects.projects-editorial .section-heading {align-items:end;margin-bottom:45px;gap:48px}
+.projects.projects-editorial .kicker {color:#ad377e;letter-spacing:.18em}
+.projects.projects-editorial h2,
+.projects.projects-editorial .extra-work h3 {
+  font-family:Georgia,"Times New Roman",serif;
+  font-weight:600;
+  letter-spacing:-.06em;
+  color:#241633;
+}
+.projects.projects-editorial h2 {font-size:clamp(47px,5.1vw,70px);line-height:1.08;margin-top:11px}
+.projects.projects-editorial .section-note {border-left:2px solid rgba(211,96,158,.35);padding-left:20px;max-width:380px;font-size:15px;line-height:1.74;color:#64576c}
+.projects.projects-editorial .featured-grid {display:flex;flex-direction:column;gap:37px}
+.projects.projects-editorial .project-feature {
+  display:grid;
+  grid-template-columns:minmax(0,1.06fr) minmax(0,.94fr);
+  min-height:400px;
+  border-radius:26px;
+  border:1px solid rgba(225,178,211,.68);
+  background:rgba(255,255,255,.88);
+  box-shadow:0 22px 49px rgba(93,47,88,.095),0 0 31px rgba(216,27,96,.055);
+  overflow:hidden;
+  transition:box-shadow .65s ease,transform .65s cubic-bezier(.2,.75,.2,1),border-color .65s ease;
+}
+.projects.projects-editorial .project-feature:hover,
+.projects.projects-editorial .project-feature:focus-within {
+  transform:translateY(-3px);
+  box-shadow:0 27px 63px rgba(88,39,83,.16),0 0 40px rgba(216,27,96,.13),0 0 55px rgba(123,47,247,.09);
+}
+.projects.projects-editorial .project-feature:nth-child(2) {grid-template-columns:minmax(0,.94fr) minmax(0,1.06fr)}
+.projects.projects-editorial .project-feature:nth-child(2) .project-media {order:2}
+.projects.projects-editorial .project-feature:nth-child(2) .project-copy {order:1}
+.projects.projects-editorial .project-media {
+  height:auto;min-height:400px;position:relative;
+  background:linear-gradient(130deg,#29133e,#ed8bd0);
+}
+.projects.projects-editorial .project-media img {position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.projects.projects-editorial .project-media .project-index {
+  top:23px;left:24px;
+  border:1px solid rgba(255,255,255,.48);
+  background:rgba(38,15,57,.42);
+  backdrop-filter:blur(8px);
+  color:#fff6fa;
+  padding:8px 13px;
+}
+.projects.projects-editorial .project-copy {
+  padding:43px clamp(30px,3.4vw,52px) 40px;
+  justify-content:center;
+  align-items:flex-start;
+  gap:0;
+  min-width:0;
+}
+.projects.projects-editorial .overline {
+  color:#b12a75;
+  letter-spacing:.15em;
+  font-size:11px;
+  font-weight:830;
+}
+.projects.projects-editorial .project-copy h3 {
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(31px,3.05vw,44px);
+  font-weight:600;
+  letter-spacing:-.052em;
+  line-height:1.12;
+  margin:17px 0 22px;
+  color:#241633;
+  text-wrap:balance;
+}
+.projects.projects-editorial .project-copy p {
+  color:#5c5164;font-size:15.2px;line-height:1.75;
+  margin:0 0 19px;
+}
+.projects.projects-editorial .project-tags {
+  margin:0 0 21px;
+  color:#8a6084;
+  font-size:12px;line-height:1.6;
+  padding-top:17px;
+  border-top:1px solid rgba(211,169,203,.38);
+  align-self:stretch;
+}
+.projects.projects-editorial .project-copy .text-link {
+  color:#a9226d;
+  text-decoration:none;
+  font-size:14px;
+  font-weight:800;
+  letter-spacing:.01em;
+  border-bottom:1px solid rgba(192,61,125,.55);
+  padding-bottom:3px;
+  margin:0;
+}
+.projects.projects-editorial .project-copy .text-link:hover {color:#722bd8;border-color:#722bd8}
+.projects.projects-editorial .extra-work {
+  position:relative;
+  margin-top:81px;
+  padding-top:41px;
+  border-top:1px solid rgba(200,156,198,.52);
+}
+.projects.projects-editorial .extra-work::before {
+  content:"";position:absolute;top:-2px;left:0;width:138px;height:3px;
+  background:linear-gradient(90deg,#d81b60,#ff8a00,#7b2ff7);
+  border-radius:4px;
+}
+.projects.projects-editorial .extra-work h3 {font-size:clamp(33px,3.5vw,45px);margin:0 0 17px}
+.projects.projects-editorial .extra-grid {
+  counter-reset:projectextra;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  column-gap:50px;row-gap:0;
+}
+.projects.projects-editorial .extra-card {
+  counter-increment:projectextra;
+  position:relative;
+  min-height:0;
+  padding:24px 8px 25px 43px;
+  border:0;
+  border-top:1px solid rgba(220,190,216,.61);
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+  transition:background .2s ease;
+}
+.projects.projects-editorial .extra-card::before {
+  content:counter(projectextra, decimal-leading-zero);
+  position:absolute;top:28px;left:1px;
+  font-size:11px;font-weight:760;letter-spacing:.08em;color:#b25b91;
+}
+.projects.projects-editorial .extra-card:hover {transform:none;border-color:rgba(220,190,216,.61);background:linear-gradient(100deg,rgba(255,233,247,.48),transparent 73%)}
+.projects.projects-editorial .extra-card h4 {
+  font-size:19px;
+  color:#302039;
+  font-weight:750;
+  margin-bottom:9px;
+  letter-spacing:-.025em;
+}
+.projects.projects-editorial .extra-card p {color:#63576c;line-height:1.7;font-size:14px;margin-bottom:13px}
+.projects.projects-editorial .extra-card a {text-underline-offset:4px;text-decoration:underline;text-decoration-color:rgba(180,67,127,.4);color:#ad2c74}
+.projects.projects-editorial .extra-card a:hover {color:#722bd8}
+@media(max-width:930px){
+  .projects.projects-editorial .project-feature,
+  .projects.projects-editorial .project-feature:nth-child(2) {grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .projects.projects-editorial .project-media {min-height:390px}
+  .projects.projects-editorial .project-copy {padding:34px 29px 31px}
+  .projects.projects-editorial .project-copy h3 {font-size:clamp(29px,3.4vw,37px)}
+  .projects.projects-editorial .extra-grid {column-gap:30px}
+}
+@media(max-width:740px){
+  .projects.projects-editorial {padding-top:78px;padding-bottom:78px}
+  .projects.projects-editorial .section-heading {margin-bottom:32px;gap:19px}
+  .projects.projects-editorial .section-note {max-width:640px}
+  .projects.projects-editorial .featured-grid {gap:29px}
+  .projects.projects-editorial .project-feature,
+  .projects.projects-editorial .project-feature:nth-child(2) {grid-template-columns:1fr;min-height:0}
+  .projects.projects-editorial .project-feature:nth-child(2) .project-media,
+  .projects.projects-editorial .project-feature:nth-child(2) .project-copy {order:initial}
+  .projects.projects-editorial .project-media {height:270px;min-height:270px}
+  .projects.projects-editorial .project-copy {padding:31px 29px 34px}
+  .projects.projects-editorial .project-copy h3 {font-size:clamp(30px,6.3vw,38px)}
+  .projects.projects-editorial .extra-work {margin-top:58px;padding-top:33px}
+  .projects.projects-editorial .extra-grid {grid-template-columns:1fr;gap:0}
+  .projects.projects-editorial .extra-card {padding-right:4px}
+}
+@media(max-width:430px){
+  .projects.projects-editorial .project-media {height:235px;min-height:235px}
+  .projects.projects-editorial .project-copy {padding:27px 23px 30px}
+  .projects.projects-editorial .project-copy h3 {font-size:30px}
+  .projects.projects-editorial .project-media .project-index {top:16px;left:16px}
+}
+@media(prefers-reduced-motion:reduce){
+  .projects.projects-editorial .project-feature,
+  .projects.projects-editorial .extra-card {transition:none!important}
+}
+
+
+/* v5.4 — Research Interests refinement only. Hero, practice, projects locked. */
+.research.research-editorial {
+  position:relative; isolation:isolate; overflow:hidden;
+  background:
+    radial-gradient(ellipse 48% 44% at 101% 14%, rgba(195,145,255,.17), transparent 72%),
+    radial-gradient(ellipse 46% 38% at 2% 90%, rgba(255,146,193,.11), transparent 74%),
+    linear-gradient(135deg,#fffcfc 0%,#fff8f6 47%,#fbf5fe 100%);
+  border-top:1px solid rgba(222,185,211,.42);
+  border-bottom:1px solid rgba(217,175,208,.52);
+  padding-top:113px;
+  padding-bottom:88px;
+}
+.research.research-editorial::before {
+  content:""; position:absolute; z-index:-1;
+  top:-140px; right:-140px; width:460px; height:460px;
+  border-radius:50%; pointer-events:none;
+  background:radial-gradient(circle,rgba(255,173,156,.11),rgba(202,152,255,.11) 35%,transparent 70%);
+  filter:blur(9px);
+}
+.research.research-editorial .research-layout {
+  display:block; position:relative;
+}
+.research.research-editorial .research-foreword {
+  display:grid;
+  grid-template-columns:minmax(0,.94fr) minmax(0,1.06fr);
+  gap:clamp(54px,7vw,112px);
+  align-items:start;
+}
+.research.research-editorial .research-introduction {max-width:590px;position:relative}
+.research.research-editorial .research-kicker {color:#ab3f79;letter-spacing:.18em}
+.research.research-editorial h2 {
+  font-family:Georgia,"Times New Roman",serif;
+  font-weight:600;
+  letter-spacing:-.064em;
+  line-height:1.05;
+  font-size:clamp(50px,5.1vw,72px);
+  margin:22px 0 30px;
+  color:#271935;
+  text-wrap:balance;
+}
+.research.research-editorial h2 em {
+  display:block;
+  font-weight:500;
+  font-style:italic;
+  background:linear-gradient(100deg,#cf236d 8%,#ef6a5a 48%,#8a36d9 94%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+}
+.research.research-editorial .research-main {
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(20px,2.05vw,26px);
+  color:#4b3a56;line-height:1.55;
+  max-width:565px;margin:0;
+}
+.research.research-editorial .research-investigations {padding-top:25px;}
+.research.research-editorial .research-entry {
+  display:grid;grid-template-columns:42px minmax(0,1fr);
+  gap:16px;
+  padding:18px 0 29px;
+  border-top:1px solid rgba(176,127,168,.39);
+}
+.research.research-editorial .research-entry + .research-entry {margin-top:17px;}
+.research.research-editorial .research-entry-index {
+  font-size:13px;letter-spacing:.11em;font-weight:800;
+  color:#ba4b8e;padding-top:5px;
+}
+.research.research-editorial .research-entry-content h3 {
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:23px;font-weight:600;line-height:1.3;
+  color:#34263e;letter-spacing:-.025em;
+  margin:0 0 13px;
+}
+.research.research-editorial .research-detail {
+  font-size:15px;line-height:1.8;color:#5d5165;
+  margin:0;
+}
+.research.research-editorial .research-horizon {
+  position:relative;margin-top:79px;
+  padding-top:14px;
+}
+.research.research-editorial .research-horizon::before {
+  content:"";position:absolute;pointer-events:none;z-index:0;
+  left:-6%;right:-6%;top:40px;height:250px;
+  background:
+    radial-gradient(ellipse 35% 67% at 13% 62%,rgba(255,170,190,.15),transparent 72%),
+    radial-gradient(ellipse 45% 66% at 56% 61%,rgba(255,164,109,.11),transparent 78%),
+    radial-gradient(ellipse 32% 60% at 88% 47%,rgba(170,118,238,.18),transparent 77%);
+  filter:blur(18px);
+}
+.research.research-editorial .research-horizon-topline {
+  position:relative;display:flex;align-items:center;gap:20px;
+  border-top:1px solid rgba(184,138,177,.28);padding-top:22px;
+}
+.research.research-editorial .research-horizon-title {
+  font-size:11px;letter-spacing:.18em;text-transform:uppercase;font-weight:800;color:#a34c86;white-space:nowrap;
+}
+.research.research-editorial .research-horizon-rule {height:1px;background:linear-gradient(90deg,rgba(193,117,175,.4),transparent);flex:1}
+.research.research-editorial .research-horizon-glyph {font-size:22px;line-height:1;color:#cc579c;text-shadow:0 0 14px rgba(216,27,96,.35)}
+.research.research-editorial .research-visual {
+  position:relative;z-index:1;display:block;min-height:0;overflow:visible;
+  margin-top:15px;margin-bottom:18px;width:100%;
+  filter:drop-shadow(0 14px 23px rgba(130,76,151,.09));
+}
+.research.research-editorial .research-visual img {
+  display:block;width:100%;height:auto;max-width:100%;
+  position:static;left:auto;transform:none;
+  mask-image:linear-gradient(90deg,transparent,#000 2.5%,#000 97.5%,transparent);
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 2.5%,#000 97.5%,transparent);
+}
+.research.research-editorial .research-topics {
+  position:relative;z-index:1;margin-top:0;
+  padding:22px 0 0;
+  border-top:1px solid rgba(192,141,179,.38);
+  display:flex;flex-wrap:wrap;gap:10px 13px;align-items:center;
+  color:#764e75;
+}
+.research.research-editorial .research-topics span {
+  display:inline-flex;align-items:center;gap:13px;
+  font-size:12px;letter-spacing:.035em;white-space:nowrap;color:#805b85;
+}
+.research.research-editorial .research-topics span:not(:first-child)::before {
+  content:"✦";font-size:8px;color:#d383af;
+}
+@media(max-width:940px) {
+  .research.research-editorial {padding-top:88px;padding-bottom:72px}
+  .research.research-editorial .research-foreword {gap:42px;grid-template-columns:minmax(0,.93fr) minmax(0,1.07fr)}
+  .research.research-editorial h2 {font-size:clamp(45px,6vw,60px)}
+  .research.research-editorial .research-main {font-size:20px}
+  .research.research-editorial .research-investigations {padding-top:12px}
+  .research.research-editorial .research-horizon {margin-top:60px}
+}
+@media(max-width:740px) {
+  .research.research-editorial {padding-top:73px;padding-bottom:68px}
+  .research.research-editorial .research-foreword {grid-template-columns:1fr;gap:30px}
+  .research.research-editorial .research-introduction {max-width:610px}
+  .research.research-editorial h2 {font-size:clamp(43px,9.6vw,61px);margin:16px 0 24px}
+  .research.research-editorial .research-main {max-width:620px; font-size:clamp(19px,3.1vw,24px)}
+  .research.research-editorial .research-investigations {padding-top:0}
+  .research.research-editorial .research-entry {padding:21px 0 20px}
+  .research.research-editorial .research-entry+.research-entry {margin-top:8px}
+  .research.research-editorial .research-horizon {margin-top:42px}
+  .research.research-editorial .research-visual {overflow:hidden}
+  .research.research-editorial .research-visual img {width:850px;max-width:none;position:relative;left:50%;transform:translateX(-50%)}
+  .research.research-editorial .research-topics span:not(:first-child)::before {content:"✦"}
+}
+@media(max-width:430px) {
+  .research.research-editorial .research-entry {grid-template-columns:30px minmax(0,1fr);gap:10px}
+  .research.research-editorial .research-entry-content h3 {font-size:22px}
+  .research.research-editorial .research-topics {gap:9px 11px}
+  .research.research-editorial .research-topics span {font-size:11.5px;gap:11px}
+  .research.research-editorial .research-horizon-title {font-size:10px;letter-spacing:.14em}
+  .research.research-editorial .research-visual img {width:730px}
+}
+@media(prefers-reduced-motion:reduce) { .research.research-editorial * {animation:none!important;transition:none!important} }
+
+
+/* v5.5 — Selected Essays, editorial reading room. Prior approved sections unchanged. */
+.writing.writing-editorial {
+  position:relative; isolation:isolate; overflow:hidden;
+  background:
+    radial-gradient(ellipse 34% 48% at 1% 17%, rgba(255,187,153,.17), transparent 90%),
+    radial-gradient(ellipse 39% 49% at 96% 85%, rgba(191,126,245,.12), transparent 80%),
+    linear-gradient(132deg,#fffcfa 0%,#fffafc 55%,#fffdfd 100%);
+  border-top:1px solid rgba(171,101,157,.13);
+  padding:116px 0 125px;
+}
+.writing.writing-editorial:before{
+  content:"";position:absolute;z-index:-1;pointer-events:none;inset:0;
+  background-image:radial-gradient(circle at 16% 30%,rgba(210,124,169,.30) 0 1px,transparent 1.8px),radial-gradient(circle at 68% 65%,rgba(211,145,122,.19) 0 .8px,transparent 1.8px);
+  background-size:370px 330px,570px 410px;opacity:.6;
+}
+.writing.writing-editorial .writing-layout{
+  display:grid;grid-template-columns:minmax(0,.90fr) minmax(0,1.18fr);
+  column-gap:clamp(52px,7vw,124px);
+  align-items:start;
+}
+.writing.writing-editorial .writing-introduction{position:relative;min-width:0;padding:2px 0 0;}
+.writing.writing-editorial .writing-kicker{
+  color:#b72a77;letter-spacing:.20em;font-size:11px;display:inline-block;
+  padding-left:18px;position:relative;
+}
+.writing.writing-editorial .writing-kicker:before{
+  content:"";position:absolute;left:0;top:2px;bottom:2px;width:3px;border-radius:5px;
+  background:linear-gradient(#fca75b,#e73383,#8744db);
+}
+.writing.writing-editorial h2{
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(54px,5.35vw,81px);letter-spacing:-.07em;font-weight:700;
+  line-height:.99;margin:30px 0 31px;
+  color:#271b35;max-width:540px;
+}
+.writing.writing-editorial h2 em{
+  display:block;font-weight:400;letter-spacing:-.056em;
+  background:linear-gradient(106deg,#d82478 4%,#ef7455 48%,#9550c4 94%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+  padding-bottom:.06em;
+}
+.writing.writing-editorial .writing-lead{
+  font-family:Georgia,"Times New Roman",serif;
+  color:#54465b;line-height:1.72;font-size:clamp(18px,1.85vw,23px);
+  max-width:455px;margin:0 0 35px;
+}
+.writing.writing-editorial .writing-read-more{
+  text-decoration:none;display:inline-flex;gap:18px;align-items:center;
+  border-bottom:1px solid #d37d9e;padding-bottom:9px;
+  font-size:15px;color:#a52067;font-weight:720;
+}
+.writing.writing-editorial .writing-read-more:hover{color:#742dcc;border-color:#742dcc}
+.writing.writing-editorial .writing-read-more-arrow{font-size:21px;line-height:1;font-weight:400;transition:transform .18s}
+.writing.writing-editorial .writing-read-more:hover .writing-read-more-arrow{transform:translate(3px,-3px)}
+.writing.writing-editorial .writing-orbit-art{display:block;width:min(100%,490px);height:auto;margin:42px 0 0 -18px;opacity:.85;filter:drop-shadow(0 10px 26px rgba(233,118,174,.14));}
+.writing.writing-editorial .writing-reading-list{min-width:0;}
+.writing.writing-editorial .writing-list-meta{
+  display:flex;justify-content:space-between;align-items:center;
+  color:#a4508a;letter-spacing:.16em;text-transform:uppercase;
+  font-size:11px;font-weight:850;padding:6px 0 18px;
+}
+.writing.writing-editorial .essay-list{border-top:1px solid #d9bfce;}
+.writing.writing-editorial .essay.essay-editorial{
+  display:grid;grid-template-columns:50px minmax(0,1fr) 46px;
+  gap:16px;align-items:center;min-height:117px;
+  padding:22px 4px 23px 2px;
+  border-bottom:1px solid #e7d9e2;
+  background:transparent;text-decoration:none;position:relative;isolation:isolate;
+  transition:color .2s ease,padding .2s ease;
+}
+.writing.writing-editorial .essay.essay-editorial:before{
+  content:"";position:absolute;inset:0 -12px;z-index:-1;opacity:0;
+  background:linear-gradient(90deg,rgba(252,219,231,.48),rgba(255,232,214,.21) 53%,transparent);
+  transition:opacity .23s ease;
+}
+.writing.writing-editorial .essay.essay-editorial:hover{padding-left:12px;color:#c02572;}
+.writing.writing-editorial .essay.essay-editorial:hover:before{opacity:1}
+.writing.writing-editorial .essay.essay-editorial .no{
+  font-family:Georgia,"Times New Roman",serif;
+  font-style:italic;font-size:20px;letter-spacing:-.04em;font-weight:400;color:#bf598d;
+  align-self:start;margin-top:9px;
+}
+.writing.writing-editorial .essay.essay-editorial .name{
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(21px,2vw,28px);line-height:1.28;
+  color:#31213a;font-weight:500;letter-spacing:-.027em;
+}
+.writing.writing-editorial .essay.essay-editorial:hover .name{color:#a81c63}
+.writing.writing-editorial .essay.essay-editorial .arr{
+  display:grid;place-items:center;width:42px;height:42px;
+  border:1px solid #e9c7d9;border-radius:50%;
+  color:#cf3884;background:rgba(255,255,255,.68);
+  transition:background .18s ease,border-color .18s ease,transform .18s ease;
+}
+.writing.writing-editorial .essay.essay-editorial:hover .arr{background:#fff;border-color:#d287ba;transform:translate(2px,-2px)}
+.writing.writing-editorial .writing-list-footer{
+  margin:19px 0 0;display:flex;gap:10px;align-items:center;
+  font-size:12px;letter-spacing:.055em;color:#976d90;
+}
+.writing.writing-editorial .writing-list-star{font-size:16px;color:#d76fa0;}
+@media(max-width:900px){
+  .writing.writing-editorial{padding:80px 0 90px;}
+  .writing.writing-editorial .writing-layout{grid-template-columns:1fr;gap:34px;}
+  .writing.writing-editorial h2{font-size:clamp(54px,9vw,75px);margin:20px 0 19px;}
+  .writing.writing-editorial h2 em{display:inline;}
+  .writing.writing-editorial .writing-lead{max-width:700px;font-size:20px;margin-bottom:22px;}
+  .writing.writing-editorial .writing-orbit-art{display:none;}
+}
+@media(max-width:600px){
+  .writing.writing-editorial{padding:66px 0 72px;}
+  .writing.writing-editorial h2{font-size:clamp(45px,11vw,59px);line-height:1.05;}
+  .writing.writing-editorial .writing-lead{font-size:18px;line-height:1.65;}
+  .writing.writing-editorial .writing-layout{gap:38px;}
+  .writing.writing-editorial .essay.essay-editorial{grid-template-columns:32px minmax(0,1fr) 36px;gap:10px;min-height:104px;padding:20px 0 21px;}
+  .writing.writing-editorial .essay.essay-editorial:hover{padding-left:0;}
+  .writing.writing-editorial .essay.essay-editorial .no{font-size:17px;margin-top:5px;}
+  .writing.writing-editorial .essay.essay-editorial .name{font-size:clamp(20px,5.4vw,24px);line-height:1.25;}
+  .writing.writing-editorial .essay.essay-editorial .arr{width:34px;height:34px;}
+  .writing.writing-editorial .essay.essay-editorial .arr svg{width:18px;height:18px;}
+  .writing.writing-editorial .writing-list-footer{font-size:11px;}
+}
+@media(prefers-reduced-motion:reduce){
+  .writing.writing-editorial .essay.essay-editorial,
+  .writing.writing-editorial .writing-read-more-arrow {transition:none!important;}
+}
+
+
+/* v5.6 — Editorial background & teaching. All previous sections remain locked. */
+.background.background-editorial{
+  position:relative;isolation:isolate;overflow:hidden;
+  background:
+    radial-gradient(ellipse 52% 47% at 0% 22%,rgba(255,185,148,.20),transparent 80%),
+    radial-gradient(ellipse 48% 48% at 100% 76%,rgba(153,95,241,.14),transparent 83%),
+    linear-gradient(126deg,#fff9f7 0%,#fff8fd 49%,#f9f5ff 100%);
+  border-top:1px solid rgba(185,100,144,.14);
+  padding:112px 0 108px;
+}
+.background.background-editorial:before{
+  content:"";inset:0;position:absolute;z-index:-1;pointer-events:none;
+  background-image:radial-gradient(circle at center,rgba(182,119,193,.20) 0 1px,transparent 1.6px);
+  background-size:175px 175px;opacity:.48;
+}
+.background.background-editorial .background-main{
+  display:grid;grid-template-columns:minmax(0,.87fr) minmax(0,1.13fr);
+  gap:clamp(66px,7.7vw,128px);align-items:start;
+}
+.background.background-editorial .background-intro{position:relative;z-index:1;}
+.background.background-editorial .background-kicker{
+  display:inline-block;color:#af2b77;padding-left:18px;position:relative;
+  font-size:11px;letter-spacing:.20em;
+}
+.background.background-editorial .background-kicker:before{
+  content:"";position:absolute;left:0;top:2px;bottom:2px;width:3px;border-radius:3px;
+  background:linear-gradient(180deg,#ffa04b,#e72c82,#8942e4);
+}
+.background.background-editorial h2{
+  font-family:Georgia,"Times New Roman",serif;font-weight:700;
+  font-size:clamp(55px,5.2vw,81px);line-height:1.01;
+  letter-spacing:-.065em;color:#281c34;margin:28px 0 26px;
+}
+.background.background-editorial h2 em{
+  font-weight:400;display:block;letter-spacing:-.05em;
+  background:linear-gradient(107deg,#dd287c 3%,#f07750 54%,#9749ce 94%);
+  color:transparent;-webkit-background-clip:text;background-clip:text;
+  padding-bottom:.08em;
+}
+.background.background-editorial .background-standfirst{
+  font-family:Georgia,"Times New Roman",serif;font-size:clamp(18px,1.7vw,22px);
+  color:#58485f;line-height:1.72;max-width:420px;margin:0 0 28px;
+}
+.background.background-editorial .background-constellation{
+  width:100%;max-width:420px;height:auto;margin:18px 0 0 -3px;
+  display:block;overflow:visible;
+  filter:drop-shadow(0 12px 28px rgba(193,99,171,.10));
+}
+.background.background-editorial .background-constellation .orbit-track{fill:none;stroke-width:1;stroke-linecap:round;}
+.background.background-editorial .background-constellation .orbit-pin{filter:drop-shadow(0 0 7px rgba(245,101,164,.35));}
+.background.background-editorial .background-chapters{position:relative;padding:0 0 0 39px;min-width:0;}
+.background.background-editorial .background-chapters:before{
+  content:"";position:absolute;left:9px;top:26px;bottom:68px;width:1px;
+  background:linear-gradient(#df74b4 0%,#ddaaab 49%,#9576d5 100%);
+  box-shadow:0 0 13px rgba(207,96,162,.20);
+}
+.background.background-editorial .background-chapter{
+  position:relative;padding:0 0 37px 0;
+  margin:0 0 31px;border-bottom:1px solid rgba(119,73,114,.16);
+}
+.background.background-editorial .background-chapter:last-child{margin-bottom:0;padding-bottom:0;border-bottom:0;}
+.background.background-editorial .background-chapter:before{
+  content:"";position:absolute;top:13px;left:-36px;width:13px;height:13px;
+  border:3px solid #fff6fd;border-radius:100%;
+  background:linear-gradient(125deg,#ff8a55,#dc398d,#8b56e4);
+  box-shadow:0 0 0 1px rgba(198,94,159,.34),0 0 18px rgba(237,107,168,.37);
+}
+.background.background-editorial .chapter-topline{
+  display:flex;justify-content:space-between;align-items:center;gap:14px;
+  font-size:11px;font-weight:780;letter-spacing:.16em;text-transform:uppercase;color:#ad4287;
+  margin:0 0 16px;
+}
+.background.background-editorial .chapter-no{
+  font-family:Georgia,"Times New Roman",serif;font-size:20px;font-style:italic;
+  font-weight:400;letter-spacing:-.02em;color:#cf488f;
+}
+.background.background-editorial .chapter-tag{color:#9c608b;font-size:10px;letter-spacing:.16em;text-align:right;}
+.background.background-editorial .background-chapter h3{
+  font-family:Georgia,"Times New Roman",serif;color:#30213a;font-weight:550;
+  font-size:clamp(28px,2.6vw,35px);letter-spacing:-.04em;line-height:1.19;
+  margin:0 0 22px;
+}
+.background.background-editorial .background-chapter p{
+  font-size:15px;line-height:1.86;color:#5a5261;margin:0 0 17px;
+}
+.background.background-editorial .background-chapter p:last-child{margin-bottom:0}
+.background.background-editorial .chapter-link{
+  color:#ae216a;font-size:14px;font-weight:750;text-decoration:none;
+  display:inline-flex;align-items:center;gap:9px;border-bottom:1px solid rgba(199,78,133,.55);
+  transition:color .2s,border-color .2s;
+}
+.background.background-editorial .chapter-link:hover{color:#7b2ff7;border-color:#7b2ff7}
+.background.background-editorial .chapter-link svg{width:16px;height:16px;flex:none;}
+.background.background-editorial .background-qualification{
+  position:relative;margin-top:68px;padding:26px 30px;
+  display:grid;grid-template-columns:200px minmax(0,1fr);align-items:start;gap:30px;
+  background:rgba(255,255,255,.53);
+  border:1px solid rgba(176,101,163,.19);border-radius:20px;
+  box-shadow:0 16px 56px rgba(108,44,108,.055);
+  backdrop-filter:blur(14px);
+}
+.background.background-editorial .background-qualification:before{
+  content:"";width:118px;height:2px;position:absolute;top:-1px;left:30px;
+  border-radius:6px;background:linear-gradient(90deg,#ff985c,#e33694,#8b4de4);
+}
+.background.background-editorial .qualification-label{
+  font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#a03a7c;
+  font-weight:820;margin:4px 0 0;
+}
+.background.background-editorial .qualification-list{
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:clamp(17px,1.55vw,21px);line-height:1.58;color:#45344b;margin:0;
+}
+@media(max-width:1000px){
+  .background.background-editorial{padding:85px 0 88px;}
+  .background.background-editorial .background-main{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:52px;}
+  .background.background-editorial h2{font-size:clamp(54px,5.9vw,67px);}
+  .background.background-editorial .background-chapters{padding-left:31px;}
+  .background.background-editorial .background-chapters:before{left:6px;}
+  .background.background-editorial .background-chapter:before{left:-30px;}
+}
+@media(max-width:760px){
+  .background.background-editorial{padding:70px 0 78px;}
+  .background.background-editorial .background-main{grid-template-columns:1fr;gap:43px;}
+  .background.background-editorial h2{font-size:clamp(55px,9.5vw,73px);margin:22px 0 24px;}
+  .background.background-editorial h2 em{display:inline;}
+  .background.background-editorial .background-standfirst{max-width:670px;margin-bottom:0;}
+  .background.background-editorial .background-constellation{display:none;}
+  .background.background-editorial .background-qualification{grid-template-columns:1fr;gap:13px;margin-top:48px;padding:23px;}
+}
+@media(max-width:480px){
+  .background.background-editorial h2{font-size:clamp(44px,11vw,56px);}
+  .background.background-editorial .background-standfirst{font-size:18px;line-height:1.65;}
+  .background.background-editorial .background-chapters{padding-left:28px;}
+  .background.background-editorial .background-chapters:before{left:5px;top:20px;bottom:45px;}
+  .background.background-editorial .background-chapter:before{left:-29px;top:11px;}
+  .background.background-editorial .background-chapter h3{font-size:27px;}
+  .background.background-editorial .background-chapter p{font-size:14px;line-height:1.78;}
+  .background.background-editorial .chapter-topline{gap:8px;margin-bottom:12px;}
+  .background.background-editorial .chapter-tag{font-size:9px;max-width:170px;}
+  .background.background-editorial .qualification-list{font-size:18px;}
+}
+@media(prefers-reduced-motion:reduce){.background.background-editorial *{transition:none!important;}}
+
+</style>
 </head>
 <body>
-  <a href="#main" class="skip-link">Skip to content</a>
-  <header>
-    <div class="container">
-      <nav aria-label="Main navigation">
-        <a class="brand" href="#main">S. Palis</a>
-        <div class="nav-links">
-          <a href="#practice">Practice</a>
-          <a href="#projects">Projects</a>
-          <a href="#research">Research</a>
-          <a href="#writing">Writing</a>
-          <a href="#background">Background</a>
-          <a href="#contact">Contact</a>
-          <a class="lang" href="/fr/" aria-label="Voir la version française">FR</a>
+<a class="skip" href="#main">Skip to content</a>
+<div aria-hidden="true" class="top-progress"><span id="scroll-progress"></span></div>
+<header class="topbar">
+<div class="container nav">
+<a class="brand" href="#main">
+<svg aria-hidden="true" class="brand-mark" viewbox="0 0 40 40">
+<defs><lineargradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#ff8a00"></stop><stop offset="45%" stop-color="#d81b60"></stop><stop offset="100%" stop-color="#7b2ff7"></stop></lineargradient></defs>
+<path d="M9.3 20.2c0-6.8 5.6-12.5 12.5-12.5 4.8 0 8.9 2.7 11 6.7" fill="none" stroke="url(#g)" stroke-linecap="round" stroke-width="2.2"></path>
+<path d="M30.5 18c0 7.2-5.9 13.1-13.1 13.1-3.1 0-6-1-8.3-2.9" fill="none" stroke="url(#g)" stroke-linecap="round" stroke-width="2.2"></path>
+<circle cx="29.8" cy="10.1" fill="#ff8a00" r="2.2"></circle>
+<circle cx="10.6" cy="29.8" fill="#d81b60" r="1.8"></circle>
+</svg>
+<span class="brand-name">Sabrina <strong>Palis</strong></span>
+</a>
+<nav aria-label="Primary" class="nav-links">
+<a href="#projects">Projects</a>
+<a href="#research">Research</a>
+<a href="#writing">Writing</a>
+<a href="#practice">Teaching &amp; Mentoring</a>
+<a href="#background">About</a>
+<a href="#contact">Contact</a>
+</nav>
+<div class="nav-actions">
+<div class="lang"><span class="active">EN</span><span>|</span><a aria-label="Version française" href="/fr/" lang="fr">FR</a></div>
+<a aria-label="View on GitHub" class="github-btn" href="https://github.com/MinervaRose" rel="noopener noreferrer" target="_blank">
+<svg aria-hidden="true" height="18" viewbox="0 0 24 24" width="18"><path d="M12 .5C5.65.5.5 5.65.5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.56l-.02-2.17c-3.2.7-3.88-1.37-3.88-1.37-.52-1.33-1.28-1.68-1.28-1.68-1.05-.72.08-.71.08-.71 1.16.08 1.77 1.2 1.77 1.2 1.03 1.76 2.69 1.25 3.35.95.1-.75.4-1.25.72-1.54-2.56-.29-5.26-1.28-5.26-5.7 0-1.26.45-2.28 1.2-3.08-.12-.3-.52-1.5.12-3.12 0 0 .98-.31 3.21 1.18a11.2 11.2 0 0 1 5.84 0c2.22-1.5 3.2-1.18 3.2-1.18.65 1.62.25 2.82.13 3.12.75.8 1.2 1.82 1.2 3.08 0 4.43-2.7 5.41-5.28 5.69.42.36.78 1.05.78 2.12l-.01 3.15c0 .31.21.67.8.56A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z" fill="currentColor"></path></svg>
+          View on GitHub
+        </a>
+<details class="mobile-nav"><summary>Menu</summary><nav aria-label="Mobile navigation"><a href="#practice">Practice</a><a href="#projects">Projects</a><a href="#research">Research</a><a href="#writing">Writing</a><a href="#background">Background</a><a href="#contact">Contact</a><a href="/fr/" lang="fr">Français</a></nav></details>
+</div>
+</div>
+</header>
+<main id="main">
+<section aria-labelledby="hero-title" class="hero">
+<div class="container hero-wrap">
+<div class="hero-copy">
+<div class="hero-panel">
+<div class="eyebrow"><span>AI</span><span>·</span><span>Data</span><span>·</span><span>Science</span><span>·</span><span>Education</span></div>
+<h1 id="hero-title">Sabrina <span>Palis</span></h1>
+<p class="hero-intro">I work across artificial intelligence, data science and technical education. My projects explore decision-support architectures, scientific data and the evaluation of AI systems.</p>
+<p class="hero-second">Alongside my independent technical work, I mentor learners in data and AI and serve as a juror for professional generative AI certification.</p>
+<div class="hero-buttons">
+<a class="btn primary" href="#projects">Explore my projects
+                <svg aria-hidden="true" viewbox="0 0 20 20"><path d="M3 10h11.3l-3.8-3.8 1.4-1.4L18 11l-6.1 6.2-1.4-1.4 3.8-3.8H3z" fill="currentColor"></path></svg>
+</a>
+<a class="btn" href="#background">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M12 12a4 4 0 1 0-4-4 4 4 0 0 0 4 4Zm0 2c-4.4 0-8 2.24-8 5v1h16v-1c0-2.76-3.6-5-8-5Z" fill="none" stroke="currentColor" stroke-width="1.8"></path></svg>
+                About me
+              </a>
+<a class="btn" href="#writing">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M5 5.5A2.5 2.5 0 0 0 2.5 8v8A2.5 2.5 0 0 0 5 18.5h14a2.5 2.5 0 0 0 2.5-2.5V8A2.5 2.5 0 0 0 19 5.5Zm0 0v13m14-13v13M7.8 9.3H16m-8.2 4H13" fill="none" stroke="currentColor" stroke-width="1.8"></path></svg>
+                Read my writing
+              </a>
+</div>
+</div>
+
+</div>
+<div aria-hidden="true" class="hero-stage">
+<div class="hero-image-wrap">
+<img alt="" class="hero-image" decoding="async" fetchpriority="high" src="assets/approved-hero-art.webp"/>
+<div class="hero-earth-tint" aria-hidden="true"></div>
+<div class="hero-earth-light" aria-hidden="true"></div>
+<svg class="hero-satellite hero-satellite--a" viewBox="0 0 170 118" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="satA-wing" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#3c2272"/><stop offset=".46" stop-color="#6d3bb1"/><stop offset="1" stop-color="#271d59"/></linearGradient>
+    <linearGradient id="satA-body" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#ffeed7"/><stop offset=".45" stop-color="#e9a965"/><stop offset="1" stop-color="#a95c82"/></linearGradient>
+  </defs>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <g transform="rotate(-10 85 60)">
+      <path d="M12 48 L65 41 L64 77 L10 84 Z" fill="url(#satA-wing)" stroke="#f1b7e7" stroke-width="1.7"/>
+      <path d="M108 41 L161 48 L163 84 L107 77 Z" fill="url(#satA-wing)" stroke="#f1b7e7" stroke-width="1.7"/>
+      <g stroke="#d897e6" opacity=".56" stroke-width=".9">
+        <path d="M29 46L27 82M45 44L45 80M14 60L64 56M12 72L64 69"/>
+        <path d="M124 43L126 80M144 46L146 83M108 56L162 60M107 69L163 73"/>
+      </g>
+      <path d="M64 59L74 59M98 59L108 59" stroke="#ffdbaf" stroke-width="3"/>
+      <path d="M74 46L98 48L102 75L78 77Z" fill="url(#satA-body)" stroke="#fff1db" stroke-width="1.8"/>
+      <path d="M78 50L98 52L100 71L80 73Z" fill="none" stroke="#7a3e88" stroke-width="1.3"/>
+      <path d="M85 46L85 27L92 21" stroke="#ffe0b4" stroke-width="2" fill="none"/>
+      <circle cx="94" cy="20" r="3.4" fill="#ffe8bb"/>
+      <path d="M84 77L88 91L99 96" stroke="#ffdbad" stroke-width="2" fill="none"/>
+      <path d="M95 92L102 99" stroke="#f7b3e8" stroke-width="1.4"/>
+    </g>
+  </g>
+</svg>
+<svg class="hero-satellite hero-satellite--b" viewBox="0 0 170 118" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="satB-wing" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#713aa6"/><stop offset=".52" stop-color="#b45bb0"/><stop offset="1" stop-color="#3a236d"/></linearGradient>
+    <linearGradient id="satB-body" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fff0d1"/><stop offset=".6" stop-color="#f8ac67"/><stop offset="1" stop-color="#bd5d87"/></linearGradient>
+  </defs>
+  <g transform="rotate(13 85 60)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 43L59 40L60 77L12 79Z" fill="url(#satB-wing)" stroke="#ffcbdf" stroke-width="1.8"/>
+    <path d="M111 40L156 43L159 79L110 77Z" fill="url(#satB-wing)" stroke="#ffcbdf" stroke-width="1.8"/>
+    <g stroke="#e8b0e9" stroke-width="1" opacity=".7">
+      <path d="M29 42L29 78M45 41L45 77M14 55L60 55M13 67L60 66"/>
+      <path d="M124 41L124 77M141 42L141 78M111 55L158 55M111 66L158 67"/>
+    </g>
+    <path d="M60 58L75 58M95 58L110 58" stroke="#ffdfb6" stroke-width="3.2"/>
+    <path d="M75 46L94 46L99 74L73 74Z" fill="url(#satB-body)" stroke="#fff2d9" stroke-width="1.6"/>
+    <circle cx="85" cy="59" r="5.1" fill="#6b3c81" stroke="#ffd9ac" stroke-width="1.7"/>
+    <path d="M84 46L87 27" stroke="#fff0d5" stroke-width="2"/>
+    <path d="M68 21Q87 11 106 21Q87 42 68 21Z" fill="rgba(255,227,188,.75)" stroke="#fff5e2" stroke-width="1.5"/>
+    <path d="M87 30L87 21" stroke="#ef9bc7" stroke-width="1.5"/>
+  </g>
+</svg>
+
+<svg class="hero-orbit" preserveaspectratio="none" viewbox="0 0 1000 600">
+<g class="orbit-motion-a">
+<path class="orbit-a" d="M58 512C218 384 383 399 498 487 630 588 794 570 949 400"></path>
+<path class="orbit-b" d="M162 470C309 255 560 228 747 322 841 370 909 452 948 538"></path>
+<circle class="spark" cx="161" cy="470" r="5.2"></circle>
+<circle class="spark pink" cx="496" cy="486" r="6.3"></circle>
+<circle class="spark white" cx="820" cy="366" r="4.6"></circle>
+</g>
+<g class="orbit-motion-b">
+<path class="orbit-c" d="M88 180C210 143 344 161 448 237 552 312 650 319 796 235 873 191 930 184 972 199"></path>
+<path class="orbit-a" d="M330 559C403 502 470 486 551 486 662 487 741 533 840 582" opacity=".72"></path>
+<circle class="spark white" cx="447" cy="238" r="4.2"></circle>
+<circle class="spark" cx="553" cy="485" r="5.7"></circle>
+</g>
+<g class="orbit-motion-c">
+<path class="orbit-b" d="M37 336C177 261 316 255 414 290 522 329 636 419 721 507"></path>
+<circle class="spark pink" cx="719" cy="507" r="4.9"></circle>
+<circle class="spark" cx="275" cy="276" r="4.2"></circle>
+</g>
+</svg>
+</div>
+</div>
+</div>
+</section>
+<section aria-labelledby="practice-heading" class="section practice practice-refined" id="practice">
+<div class="container practice-content">
+  <div class="section-heading practice-heading reveal">
+    <div><span class="kicker">Professional practice</span><h2 id="practice-heading">What I do</h2></div>
+    <p class="section-note">Technical investigation, applied AI systems and the work of helping others learn, evaluate and understand them.</p>
+  </div>
+  <div class="practice-grid practice-fields">
+    <article class="practice-item practice-field practice-field--explore reveal">
+      <div class="practice-top"><span class="practice-number">01 / EXPLORE</span><span aria-hidden="true" class="practice-short-rule"></span></div>
+      <div class="practice-orbit-art" aria-hidden="true">
+        <span class="practice-halo"></span><span class="practice-planet"></span>
+        <svg class="practice-glyph" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <ellipse cx="64" cy="64" rx="46" ry="21" transform="rotate(-28 64 64)" stroke="#FFDCB7" stroke-opacity=".76" stroke-width="1.3"/>
+          <ellipse cx="64" cy="64" rx="20" ry="47" transform="rotate(-24 64 64)" stroke="#FFC0E9" stroke-opacity=".63" stroke-width="1.3"/>
+          <path d="M30 86C51 73 78 48 99 40" stroke="#FFDDB9" stroke-opacity=".68" stroke-width="1.3" stroke-dasharray="2 6"/>
+          <circle cx="44" cy="41" r="4.1" fill="#FFD68C"/><circle cx="96" cy="45" r="2.9" fill="#FFD2D2"/><circle cx="71" cy="91" r="3.2" fill="#DE96FF"/>
+          <circle cx="64" cy="64" r="4.7" fill="#FFF8EC"/>
+        </svg><span class="practice-glint"></span>
+      </div>
+      <h3>Research and technical exploration</h3>
+      <p>Independent investigations involving scientific data, visualisation, computational models, research notebooks and critical analysis.</p>
+    </article>
+    <article class="practice-item practice-field practice-field--evaluate reveal">
+      <div class="practice-top"><span class="practice-number">02 / EVALUATE</span><span aria-hidden="true" class="practice-short-rule"></span></div>
+      <div class="practice-orbit-art" aria-hidden="true">
+        <span class="practice-halo"></span><span class="practice-planet"></span>
+        <svg class="practice-glyph" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="64" cy="64" r="37" stroke="#FFAADD" stroke-opacity=".54" stroke-width="1.2"/>
+          <circle cx="64" cy="64" r="26" stroke="#FFE6CC" stroke-opacity=".55" stroke-width="1" stroke-dasharray="3 5"/>
+          <path d="M30 81L47 69 57 76 75 48 98 58" stroke="#FFF0DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M30 91H99" stroke="#FFB7F0" stroke-opacity=".44" stroke-width="1"/>
+          <circle cx="47" cy="69" r="3.5" fill="#FFB59B"/><circle cx="75" cy="48" r="4.2" fill="#FFE7B6"/><circle cx="98" cy="58" r="2.8" fill="#EBA7FF"/>
+          <path d="M28 33L33 33M30.5 30.5L30.5 35.5M101 94L106 94M103.5 91.5L103.5 96.5" stroke="#FFD7BA" stroke-width="1.3" stroke-linecap="round"/>
+        </svg><span class="practice-glint"></span>
+      </div>
+      <h3>AI systems and evaluation</h3>
+      <p>Prototypes and technical reviews involving data analysis, machine learning, LLMs, agentic workflows, traceability and human oversight.</p>
+    </article>
+    <article class="practice-item practice-field practice-field--teach reveal">
+      <div class="practice-top"><span class="practice-number">03 / TEACH</span><span aria-hidden="true" class="practice-short-rule"></span></div>
+      <div class="practice-orbit-art" aria-hidden="true">
+        <span class="practice-halo"></span><span class="practice-planet"></span>
+        <svg class="practice-glyph" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M64 46C53 39 40 38 25 43V84C40 80 53 81 64 88V46Z" fill="#FFA2DA" fill-opacity=".12" stroke="#FFDBF0" stroke-width="1.6" stroke-linejoin="round"/>
+          <path d="M64 46C75 39 88 38 103 43V84C88 80 75 81 64 88V46Z" fill="#FFD4A9" fill-opacity=".11" stroke="#FFE6CA" stroke-width="1.6" stroke-linejoin="round"/>
+          <path d="M64 46V88M33 55C43 53 50 55 56 58M33 65C43 63 50 65 56 68M72 58C80 55 89 54 95 55M72 68C80 65 89 64 95 65" stroke="#FFF4E6" stroke-opacity=".72" stroke-width="1.2" stroke-linecap="round"/>
+          <circle cx="64" cy="30" r="4.3" fill="#FFE5BC"/><path d="M64 22V16M57 30H51M71 30H77" stroke="#FFE5BC" stroke-opacity=".65" stroke-width="1.3" stroke-linecap="round"/>
+          <path d="M43 95Q64 103 86 95" stroke="#FEB8E6" stroke-opacity=".56" stroke-width="1.2"/>
+        </svg><span class="practice-glint"></span>
+      </div>
+      <h3>Teaching and expert assessment</h3>
+      <p>Higher-education teaching and mentoring; subject-matter review of AI/data learning content; professional generative AI certification assessment.</p>
+    </article>
+  </div>
+</div>
+</section>
+<section aria-labelledby="projects-heading" class="section projects projects-editorial" id="projects">
+<div class="container">
+<div class="section-heading reveal"><div><span class="kicker">Selected technical work</span><h2 id="projects-heading">Projects &amp; experiments</h2></div><p class="section-note">Some are developed systems; others are exploratory research projects. Their methods, decisions and limitations matter as much as the finished result.</p></div>
+<div class="featured-grid">
+<article class="project-feature reveal">
+<div aria-label="Conceptual cinematic illustration of a satellite above Earth and a translucent anomaly-triage visualisation, not actual operational data." class="project-media project-media--aerospace" role="img"><img alt="" decoding="async" loading="lazy" src="assets/aerospace-visual.webp"/><span class="project-index">01 / AEROSPACE AI</span></div>
+<div class="project-copy"><span class="overline">System design · Evaluation · Governance</span><h3>Industry-Integrated AI Systems Synthesis</h3><p>An auditable architecture for anomaly triage in aerospace operations, integrating analytical components with escalation, uncertainty handling and human decision-making.</p><div class="project-tags">Aerospace · Decision support · Human oversight</div><a class="text-link" href="https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis" rel="noopener noreferrer" target="_blank">Explore the project ↗</a></div>
+</article>
+<article class="project-feature reveal">
+<div aria-label="Conceptual illustration of a great tit and acoustic signal analysis, not a measured spectrogram." class="project-media project-media--bioacoustics" role="img"><img alt="" decoding="async" loading="lazy" src="assets/bioacoustic-visual.webp"/><span class="project-index">02 / BIOACOUSTICS</span></div>
+<div class="project-copy"><span class="overline">Scientific signals · Manifold learning</span><h3>Bioacoustic Topology</h3><p>An exploration of great tit birdsong using acoustic features, manifold learning, motif structure and trajectory analysis, examining what different representations reveal about a complex signal.</p><div class="project-tags">Birdsong · Dynamical systems · Visualisation</div><a class="text-link" href="https://github.com/MinervaRose/bioacoustic-topology" rel="noopener noreferrer" target="_blank">Explore the project ↗</a></div>
+</article>
+</div>
+<div class="extra-work reveal"><h3>More projects</h3>
+<div class="extra-grid">
+<article class="extra-card"><h4>Latent Physiological Topology</h4><svg aria-label="Stylized cardiac sound waveform" class="small-wave" role="img" viewbox="0 0 210 30"><path d="M0 15Q11 15 16 15Q21 5 26 15Q31 27 36 15Q41 15 46 15Q52 9 57 15Q63 19 70 15Q76 15 85 15Q92 5 97 15Q103 27 109 15Q115 15 120 15Q126 11 132 15Q140 18 148 15Q155 15 161 15Q169 4 174 15Q180 26 184 15Q190 14 210 15" fill="none" stroke="#b52778" stroke-width="1.8"></path></svg><p>Non-diagnostic investigation of cardiac acoustic signals using state-space representations and anomaly analysis.</p><a href="https://github.com/MinervaRose/latent-physiological-topology" rel="noopener noreferrer" target="_blank">Repository ↗</a></article>
+<article class="extra-card"><h4>BeLedgerReady</h4><p>Financial anomaly analysis and audit-readiness tools with explainable outputs and evidence tracking.</p><a href="https://github.com/MinervaRose/BeLedgerReady" rel="noopener noreferrer" target="_blank">Repository ↗</a></article>
+<article class="extra-card"><h4>Design of Agentic Workflows</h4><p>Multi-agent workflow design with explicit handoffs, verification stages, escalation and governance.</p><a href="https://github.com/MinervaRose/design-of-agentic-workflows" rel="noopener noreferrer" target="_blank">Repository ↗</a></article>
+<article class="extra-card"><h4>intibi</h4><p>An interactive solar companion influenced by observations of the Sun in H-alpha.</p><small>In development</small></article>
+<article class="extra-card"><h4>Airline Said No</h4><p>A public-interest prototype for reviewing disrupted travel cases and explaining possible passenger rights.</p><small>Exploratory project</small></article>
+</div>
+</div>
+</div>
+</section>
+<section id="research" class="section research research-editorial" aria-labelledby="research-heading">
+  <div class="container research-layout">
+    <div class="research-foreword reveal">
+      <div class="research-introduction">
+        <span class="kicker research-kicker">Research / Areas of inquiry</span>
+        <h2 id="research-heading">Research <em>interests</em></h2>
+        <p class="research-main">I'm interested in what computation can help us discover in complex scientific and technical settings, and how to distinguish a useful pattern from an overconfident interpretation.</p>
+      </div>
+      <div class="research-investigations">
+        <div class="research-entry">
+          <div class="research-entry-index" aria-hidden="true">01</div>
+          <div class="research-entry-content">
+            <h3>Current investigations</h3>
+            <p class="research-detail">Current lines of work include scientific triage, multimodal evidence, anomaly detection, AI-assisted investigation and the behaviour of agentic systems under human oversight. I document experiments through code, notebooks and technical reports where possible.</p>
+          </div>
         </div>
-      </nav>
+        <div class="research-entry">
+          <div class="research-entry-index" aria-hidden="true">02</div>
+          <div class="research-entry-content">
+            <h3>Developing directions</h3>
+            <p class="research-detail">I'm deepening my knowledge of Earth observation and geospatial data science, particularly satellite-derived information and environmental monitoring. I'm also exploring spacecraft telemetry and digital forensics as further technical directions.</p>
+          </div>
+        </div>
+      </div>
     </div>
-  </header>
-
-  <main id="main">
-    <section class="hero" aria-labelledby="hero-title">
-      <div class="container hero-layout">
-        <div>
-          <p class="eyebrow">Independent research · AI systems & data · Education</p>
-          <h1 id="hero-title">Sabrina <span>Palis</span></h1>
-          <p class="hero-intro">I work across artificial intelligence, data science and technical education. My projects explore decision-support architectures, scientific data and the evaluation of AI systems.</p>
-          <p class="hero-second">Alongside my independent technical work, I mentor learners in data and AI and serve as a juror for professional generative AI certification.</p>
-          <div class="actions">
-            <a class="button primary" href="#projects">Explore selected work</a>
-            <a class="button" href="https://github.com/MinervaRose" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a class="button" href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a class="button" href="https://orcid.org/0009-0009-4663-9778" target="_blank" rel="noopener noreferrer">ORCID</a>
-          </div>
-        </div>
-        <aside class="portrait-zone" aria-label="Profile photograph and academic background">
-          <div class="portrait-frame"><img class="portrait" src="photo.png" alt="Portrait of Sabrina Palis" /></div>
-          <p class="portrait-note">MSc Artificial Intelligence, First Class Honours · MBA, Excellent · Master in AI for Business, Excellent · MA Education, Merit · PGCE/QTS</p>
-        </aside>
+    <div class="research-horizon reveal">
+      <div class="research-horizon-topline"><span class="research-horizon-title">Connections between disciplines</span><span class="research-horizon-rule" aria-hidden="true"></span><span class="research-horizon-glyph" aria-hidden="true">✦</span></div>
+      <div class="research-visual" role="img" aria-label="Conceptual illustration of celestial spheres linked by luminous orbital lines, reflecting the interconnected nature of different scientific questions">
+        <img src="assets/research-interconnections.webp" alt="" loading="lazy" decoding="async" />
       </div>
-    </section>
-
-    <section id="practice" class="practice section-pad">
-      <div class="container practice-layout">
-        <div class="practice-intro">
-          <div class="kicker">Professional practice</div>
-          <h2>What I do</h2>
-        </div>
-        <div class="practice-list">
-          <div class="practice-line">
-            <span class="num">01</span>
-            <div><h3>Research and technical exploration</h3><p>Independent investigations involving scientific data, visualisation, computational models, research notebooks and critical analysis.</p></div>
-          </div>
-          <div class="practice-line">
-            <span class="num">02</span>
-            <div><h3>AI systems and evaluation</h3><p>Prototypes and technical reviews involving data analysis, machine learning, LLMs, agentic workflows, traceability and human oversight.</p></div>
-          </div>
-          <div class="practice-line">
-            <span class="num">03</span>
-            <div><h3>Teaching and expert assessment</h3><p>Higher-education teaching and mentoring; subject-matter review of AI/data learning content; professional generative AI certification assessment.</p></div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="projects" class="section-pad">
-      <div class="container">
-        <div class="section-top projects-heading">
-          <div><div class="kicker">Selected technical work</div><h2>Projects and experiments</h2></div>
-          <p class="section-description">Some are developed systems; others are exploratory research projects. Their methods, decisions and limitations matter as much as the finished result.</p>
-        </div>
-        <article class="feature">
-          <div class="feature-visual purple"><span class="feature-label">AI systems · Aerospace</span><span class="feature-number">01</span></div>
-          <div class="feature-copy">
-            <h3>Industry-Integrated AI Systems Synthesis</h3>
-            <p>An auditable architecture for anomaly triage in aerospace operations, integrating analytical components with escalation, uncertainty handling and human decision-making.</p>
-            <div class="feature-tags">System design · Evaluation · Governance · Decision support</div>
-            <a class="inline-link" href="https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis" target="_blank" rel="noopener noreferrer">Explore the project →</a>
-          </div>
-        </article>
-        <article class="feature">
-          <div class="feature-visual orange"><span class="feature-label">Scientific computing · Bioacoustics</span><span class="feature-number">02</span></div>
-          <div class="feature-copy">
-            <h3>Bioacoustic Topology</h3>
-            <p>An exploration of birdsong using acoustic features, manifold learning, motif structure and trajectory analysis, examining what different representations reveal about a complex signal.</p>
-            <div class="feature-tags">Scientific signals · Dynamical systems · Visualisation</div>
-            <a class="inline-link" href="https://github.com/MinervaRose/bioacoustic-topology" target="_blank" rel="noopener noreferrer">Explore the project →</a>
-          </div>
-        </article>
-
-        <div class="other-work">
-          <h3>More projects</h3>
-          <div class="project-row">
-            <strong>BeLedgerReady</strong>
-            <p>Financial anomaly analysis and audit-readiness tools with explainable outputs and evidence tracking.</p>
-            <a href="https://github.com/MinervaRose/BeLedgerReady" target="_blank" rel="noopener noreferrer">Repository ↗</a>
-          </div>
-          <div class="project-row">
-            <strong>Airline Said No</strong>
-            <p>A public-interest prototype for reviewing disrupted travel cases and explaining possible passenger rights.</p>
-            <span class="status">Exploratory project</span>
-          </div>
-          <div class="project-row">
-            <strong>intibi</strong>
-            <p>An interactive solar companion influenced by observations of the Sun in H-alpha.</p>
-            <span class="status">In development</span>
-          </div>
-          <div class="project-row">
-            <strong>Latent Physiological Topology</strong>
-            <p>Non-diagnostic investigation of cardiac acoustic signals using state-space representations and anomaly analysis.</p>
-            <a href="https://github.com/MinervaRose/latent-physiological-topology" target="_blank" rel="noopener noreferrer">Repository ↗</a>
-          </div>
-          <div class="project-row">
-            <strong>Design of Agentic Workflows</strong>
-            <p>Multi-agent workflow design with explicit handoffs, verification stages, escalation and governance.</p>
-            <a href="https://github.com/MinervaRose/design-of-agentic-workflows" target="_blank" rel="noopener noreferrer">Repository ↗</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="research" class="research section-pad">
-      <div class="container research-layout">
-        <div><div class="kicker">Research</div><h2>Research interests</h2></div>
-        <div>
-          <p class="research-main">I'm interested in what computation can help us discover in complex scientific and technical settings, and how to distinguish a useful pattern from an overconfident interpretation.</p>
-          <p class="research-detail">Current lines of work include scientific triage, multimodal evidence, anomaly detection, AI-assisted investigation and the behaviour of agentic systems under human oversight. I document experiments through code, notebooks and technical reports where possible.</p>
-          <p class="research-detail">I'm deepening my knowledge of Earth observation and geospatial data science, particularly satellite-derived information and environmental monitoring. I'm also exploring spacecraft telemetry and digital forensics as further technical directions.</p>
-          <p class="research-topics">Scientific signals · Earth observation · Geospatial data · Uncertainty · Complex systems · AI evaluation · Human–AI collaboration</p>
-      </div>
-    </section>
-
-    <section id="writing" class="section-pad">
-      <div class="container">
-        <div class="section-top">
-          <div><div class="kicker">Selected writing</div><h2>Selected essays</h2></div>
-          <p class="section-description">My writing ranges across AI, mathematics, language, scientific reasoning and the limits of interpretation.</p>
-        </div>
-        <div class="writing-list">
-          <div class="writing-row"><span class="no">01</span><a href="https://medium.com/@sabrina.jorgenson/when-correct-answers-make-us-know-less-8d67d407d932" target="_blank" rel="noopener noreferrer">When Correct Answers Make Us Know Less</a><span class="arr">↗</span></div>
-          <div class="writing-row"><span class="no">02</span><a href="https://medium.com/@sabrina.jorgenson/the-human-was-in-the-loop-was-there-enough-time-aa388bb71afc" target="_blank" rel="noopener noreferrer">The Human Was in the Loop. Was There Enough Time?</a><span class="arr">↗</span></div>
-          <div class="writing-row"><span class="no">03</span><a href="https://medium.com/@sabrina.jorgenson/what-comes-before-symmetry-557bb2e1a70b" target="_blank" rel="noopener noreferrer">What Comes Before Symmetry?</a><span class="arr">↗</span></div>
-          <div class="writing-row"><span class="no">04</span><a href="https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2" target="_blank" rel="noopener noreferrer">The World Is Not Made of Things</a><span class="arr">↗</span></div>
-        </div>
-        <a class="more-link" href="https://medium.com/@sabrina.jorgenson" target="_blank" rel="noopener noreferrer">Read more on Medium →</a>
-      </div>
-    </section>
-
-    <section id="background" class="background section-pad">
-      <div class="container">
-        <div class="section-top">
-          <div><div class="kicker">Background</div><h2>Technical background and teaching</h2></div>
-          <p class="section-description">A technical path developed over time, alongside an earlier grounding in education, language and the humanities.</p>
-        </div>
-        <div class="background-columns">
-          <div>
-            <h3>Technical development</h3>
-            <p>Since 2017, I've developed my technical practice through scholarships, specialist programmes, postgraduate study and independent projects in software development, machine learning, computer vision, autonomous systems, data science and generative AI.</p>
-            <p class="background-small">The path began with a Google Developer Scholarship Challenge and led to an MSc in Artificial Intelligence with First Class Honours in 2026.</p>
-            <p class="credentials">MSc Artificial Intelligence · MBA · Master in AI for Business · MA Education · PGCE/QTS · BA English Language & Literature</p>
-          </div>
-          <div>
-            <h3>Education and professional review</h3>
-            <p>I teach technical subjects in higher education and mentor adults working through data and AI projects. I also serve as a generative AI certification juror and review specialist content in AI and data.</p>
-            <p class="background-small">My work in education includes curriculum design, assessment, technical feedback and resources that explain difficult ideas without discarding their complexity.</p>
-            <p class="credentials">For a fuller record of qualifications and professional experience, see my <a class="more-link" href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-      <!-- Celestial Artifact -->
-    <section
-      aria-label="Interactive LinkedIn contact"
-      style="padding:2rem 0; background:#fffafc;">
-      <div class="container" style="text-align:center;">
-        <iframe
-          src="celestial-artifact.html"
-          title="Interactive Celestial Artifact revealing a LinkedIn QR code"
-          loading="lazy"
-          style="display:block; width:100%; max-width:620px;
-                 height:535px; margin:0 auto; border:0;
-                 background:#fffafc;">
-        </iframe>
-      </div>
-    </section>
-    
-  </main>
-  <footer id="contact">
-    <div class="container footer-layout">
-      <div><strong>Sabrina Palis</strong><p>Independent research · AI systems · Education · Writing</p></div>
-      <div class="footer-links">
-        <a href="https://github.com/MinervaRose" target="_blank" rel="noopener noreferrer">GitHub</a>
-        <a href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="https://orcid.org/0009-0009-4663-9778" target="_blank" rel="noopener noreferrer">ORCID</a>
-        <a href="/profile.html">Full profile</a>
-        <a href="/mentions-legales.html">Legal notice</a>
-        <a href="/fr/">Français</a>
-      </div>
+      <div class="research-topics" aria-label="Research themes"><span>Scientific signals</span><span>Earth observation</span><span>Geospatial data</span><span>Uncertainty</span><span>Complex systems</span><span>AI evaluation</span><span>Human–AI collaboration</span></div>
     </div>
-  </footer>
+  </div>
+</section>
+<section id="writing" class="section writing writing-editorial" aria-labelledby="writing-heading">
+  <div class="container writing-layout">
+    <div class="writing-introduction reveal">
+      <span class="kicker writing-kicker">Selected writing / essays</span>
+      <h2 id="writing-heading">Selected <em>essays</em></h2>
+      <p class="writing-lead">My writing ranges across AI, mathematics, language, scientific reasoning and the limits of interpretation.</p>
+      <a class="writing-read-more" href="https://medium.com/@sabrina.jorgenson" target="_blank" rel="noopener noreferrer"><span>Read more on Medium</span><span class="writing-read-more-arrow" aria-hidden="true">↗</span></a>
+      <svg class="writing-orbit-art" viewBox="0 0 520 190" aria-hidden="true" focusable="false">
+        <defs>
+          <linearGradient id="writingOrbitGradient" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f4a14a"/><stop offset=".48" stop-color="#e54e95"/><stop offset="1" stop-color="#8a47df"/></linearGradient>
+          <radialGradient id="writingPlanetGradient" cx=".27" cy=".25" r=".78"><stop offset="0" stop-color="#fff3d5"/><stop offset=".27" stop-color="#ff9b74"/><stop offset=".62" stop-color="#d84ba2"/><stop offset="1" stop-color="#6140a5"/></radialGradient>
+        </defs>
+        <ellipse cx="250" cy="94" rx="205" ry="47" transform="rotate(-11 250 94)" fill="none" stroke="url(#writingOrbitGradient)" opacity=".47" stroke-width="1.2"/>
+        <ellipse cx="250" cy="94" rx="165" ry="28" transform="rotate(14 250 94)" fill="none" stroke="url(#writingOrbitGradient)" opacity=".32" stroke-width="1"/>
+        <circle cx="382" cy="57" r="30" fill="url(#writingPlanetGradient)" opacity=".89"/>
+        <circle cx="110" cy="107" r="7" fill="#e85ba9" opacity=".9"/>
+        <circle cx="456" cy="115" r="5" fill="#fda652"/>
+        <circle cx="212" cy="155" r="4" fill="#a17be8"/>
+        <g fill="#dc6da3"><circle cx="69" cy="68" r="2.1"/><circle cx="319" cy="28" r="1.7"/><circle cx="424" cy="160" r="1.7"/></g>
+        <g stroke="#ed83b0" stroke-width="1.2" stroke-linecap="round"><path d="M52 91v9m-4.5-4.5h9"/><path d="M479 49v10m-5-5h10"/></g>
+      </svg>
+    </div>
+    <div class="writing-reading-list reveal" aria-label="Four selected essays">
+      <div class="writing-list-meta"><span>Selected pieces</span><span>01 <span aria-hidden="true">—</span> 04</span></div>
+      <div class="essay-list"><a class="essay essay-editorial" href="https://medium.com/@sabrina.jorgenson/when-correct-answers-make-us-know-less-8d67d407d932" target="_blank" rel="noopener noreferrer">
+  <span class="no" aria-hidden="true">01</span>
+  <span class="name">When Correct Answers Make Us Know Less</span>
+  <span class="arr" aria-hidden="true"><svg viewBox="0 0 24 24" width="21" height="21" fill="none"><path d="M5 18L18 5M7 5h11v11" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+</a>
+<a class="essay essay-editorial" href="https://medium.com/@sabrina.jorgenson/the-human-was-in-the-loop-was-there-enough-time-aa388bb71afc" target="_blank" rel="noopener noreferrer">
+  <span class="no" aria-hidden="true">02</span>
+  <span class="name">The Human Was in the Loop. Was There Enough Time?</span>
+  <span class="arr" aria-hidden="true"><svg viewBox="0 0 24 24" width="21" height="21" fill="none"><path d="M5 18L18 5M7 5h11v11" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+</a>
+<a class="essay essay-editorial" href="https://medium.com/@sabrina.jorgenson/what-comes-before-symmetry-557bb2e1a70b" target="_blank" rel="noopener noreferrer">
+  <span class="no" aria-hidden="true">03</span>
+  <span class="name">What Comes Before Symmetry?</span>
+  <span class="arr" aria-hidden="true"><svg viewBox="0 0 24 24" width="21" height="21" fill="none"><path d="M5 18L18 5M7 5h11v11" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+</a>
+<a class="essay essay-editorial" href="https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2" target="_blank" rel="noopener noreferrer">
+  <span class="no" aria-hidden="true">04</span>
+  <span class="name">The World Is Not Made of Things</span>
+  <span class="arr" aria-hidden="true"><svg viewBox="0 0 24 24" width="21" height="21" fill="none"><path d="M5 18L18 5M7 5h11v11" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+</a></div>
+      <p class="writing-list-footer"><span class="writing-list-star" aria-hidden="true">✦</span> AI · Mathematics · Language · Scientific reasoning</p>
+    </div>
+  </div>
+</section>
+<section aria-labelledby="background-heading" class="section background background-editorial" id="background">
+  <div class="container background-main">
+    <div class="background-intro reveal">
+      <span class="kicker background-kicker">Background / experience</span>
+      <h2 id="background-heading">Technical <em>background</em> &amp; teaching</h2>
+      <p class="background-standfirst">A technical path developed over time, alongside an earlier grounding in education, language and the humanities.</p>
+      <svg class="background-constellation" viewBox="0 0 420 285" aria-hidden="true" focusable="false">
+        <defs>
+          <linearGradient id="bgOrbit" x1=".05" y1="0" x2=".95" y2="1">
+            <stop offset="0%" stop-color="#f5a04a"/><stop offset="52%" stop-color="#ed70a7"/><stop offset="100%" stop-color="#a976f6"/>
+          </linearGradient>
+          <radialGradient id="bgPlanet" cx="30%" cy="26%" r="74%">
+            <stop offset="0%" stop-color="#fff8eb"/><stop offset="24%" stop-color="#ffc881"/>
+            <stop offset="63%" stop-color="#e758a0"/><stop offset="100%" stop-color="#7540c4"/>
+          </radialGradient>
+        </defs>
+        <ellipse class="orbit-track" cx="212" cy="151" rx="185" ry="66" transform="rotate(-20 212 151)" stroke="url(#bgOrbit)" opacity=".70"/>
+        <ellipse class="orbit-track" cx="212" cy="151" rx="177" ry="54" transform="rotate(20 212 151)" stroke="url(#bgOrbit)" opacity=".38"/>
+        <ellipse class="orbit-track" cx="212" cy="151" rx="116" ry="24" transform="rotate(-49 212 151)" stroke="#c89bde" opacity=".48"/>
+        <circle cx="212" cy="151" r="31" fill="url(#bgPlanet)" opacity=".94"/>
+        <circle cx="212" cy="151" r="40" fill="none" stroke="#eb8fb7" opacity=".30"/>
+        <circle cx="49" cy="172" r="5.5" fill="#f58c68" class="orbit-pin"/>
+        <circle cx="349" cy="74" r="4.5" fill="#a67be6" class="orbit-pin"/>
+        <circle cx="380" cy="175" r="3.5" fill="#fba75b"/>
+        <circle cx="124" cy="79" r="2.5" fill="#e76aaa"/>
+        <circle cx="109" cy="242" r="2.2" fill="#c088df"/>
+        <circle cx="319" cy="225" r="2.9" fill="#ea69a5"/>
+        <circle cx="15" cy="98" r="1.6" fill="#d4a4d6"/>
+        <circle cx="407" cy="100" r="1.6" fill="#c69de4"/>
+        <path d="M359 230h11m-5.5-5.5v11" stroke="#ec86af" stroke-width="1.3" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div class="background-chapters">
+      <article class="background-chapter reveal">
+        <div class="chapter-topline"><span class="chapter-no">01</span><span class="chapter-tag">Technical exploration / since 2017</span></div>
+        <h3>Technical development</h3>
+        <p>Since 2017, I've developed my technical practice through scholarships, specialist programmes, postgraduate study and independent projects in software development, machine learning, computer vision, autonomous systems, data science and generative AI.</p>
+        <p>The path began with a Google Developer Scholarship Challenge and led to an MSc in Artificial Intelligence with First Class Honours in 2026.</p>
+      </article>
+      <article class="background-chapter reveal">
+        <div class="chapter-topline"><span class="chapter-no">02</span><span class="chapter-tag">Education / mentoring / assessment</span></div>
+        <h3>Education and professional review</h3>
+        <p>I teach technical subjects in higher education and mentor adults working through data and AI projects. I also serve as a generative AI certification juror and review specialist content in AI and data.</p>
+        <p>My work in education includes curriculum design, assessment, technical feedback and resources that explain difficult ideas without discarding their complexity.</p>
+        <p>For a fuller record of qualifications and professional experience, see my <a class="chapter-link" href="https://www.linkedin.com/in/sabrina-jp/" target="_blank" rel="noopener noreferrer">LinkedIn <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 18L18 5M7 5h11v11" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.65"/></svg></a>.</p>
+      </article>
+    </div>
+  </div>
+  <div class="container">
+    <div class="background-qualification reveal">
+      <div class="qualification-label">Qualifications</div>
+      <p class="qualification-list">MSc Artificial Intelligence · MBA · Master in AI for Business · MA Education · PGCE/QTS · BA English Language &amp; Literature</p>
+    </div>
+  </div>
+</section>
+<section aria-label="Interactive LinkedIn contact" class="celestial-section"><div class="container celestial-inner"><iframe loading="lazy" scrolling="no" src="celestial-artifact.html" title="Interactive Celestial Artifact revealing a LinkedIn QR code"></iframe></div></section>
+</main>
+<footer id="contact"><div class="container footer-inner"><div><strong>Sabrina Palis</strong><p>Independent research · AI systems · Education · Writing</p></div><div class="footer-links"><a href="https://github.com/MinervaRose" rel="noopener noreferrer" target="_blank">GitHub</a><a href="https://www.linkedin.com/in/sabrina-jp/" rel="noopener noreferrer" target="_blank">LinkedIn</a><a href="https://orcid.org/0009-0009-4663-9778" rel="noopener noreferrer" target="_blank">ORCID</a><a href="/profile.html">Full profile</a><a href="/mentions-legales.html">Legal notice</a><a href="/fr/">Français</a></div></div></footer>
+<script>
+    document.documentElement.classList.add('js-motion');
+    const progress=document.getElementById('scroll-progress');
+    function updateProgress(){const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?Math.min(100,scrollY/max*100):0)+'%'}
+    window.addEventListener('scroll',updateProgress,{passive:true});updateProgress();
+    const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!reduce && 'IntersectionObserver' in window){
+      const ob=new IntersectionObserver(entries=>{for(const entry of entries){if(entry.isIntersecting){entry.target.classList.add('visible');ob.unobserve(entry.target)}}},{threshold:.07});
+      document.querySelectorAll('.reveal').forEach(el=>ob.observe(el));
+    }else{document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'))}
+    document.querySelectorAll('.mobile-menu nav a').forEach(link=>link.addEventListener('click',()=>link.closest('details').open=false));
+  </script>
 </body>
 </html>
