@@ -1136,6 +1136,21 @@ a { color:inherit; }
   }
 }    
 
+/* Gently blend the upper edge of the hero artwork */
+.hero-image-wrap {
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 20px,
+    black 45px
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 20px,
+    black 45px
+  );
+}
 </style>
 </head>
 <body>
