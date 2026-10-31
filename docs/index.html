@@ -1484,22 +1484,95 @@ a { color:inherit; }
       <p class="qualification-list">MSc Artificial Intelligence · MBA · Master in AI for Business · MA Education · PGCE/QTS · BA English Language &amp; Literature</p>
     </div>
   </div>
+
 </section>
-<section aria-label="Interactive LinkedIn contact" class="celestial-section"><div class="container celestial-inner"><iframe loading="lazy" scrolling="no" src="celestial-artifact.html" title="Interactive Celestial Artifact revealing a LinkedIn QR code"></iframe></div></section>
+
+<section aria-label="Interactive LinkedIn contact" class="celestial-section">
+  <div class="container celestial-inner">
+    <iframe
+      loading="lazy"
+      scrolling="no"
+      src="celestial-artifact.html"
+      title="Interactive Celestial Artifact revealing a LinkedIn QR code">
+    </iframe>
+  </div>
+</section>
+
 </main>
-<footer id="contact"><div class="container footer-inner"><div><strong>Sabrina Palis</strong><p>Independent research · AI systems · Education · Writing</p></div><div class="footer-links"><a href="https://github.com/MinervaRose" rel="noopener noreferrer" target="_blank">GitHub</a><a href="https://www.linkedin.com/in/sabrina-jp/" rel="noopener noreferrer" target="_blank">LinkedIn</a><a href="https://orcid.org/0009-0009-4663-9778" rel="noopener noreferrer" target="_blank">ORCID</a><a href="/profile.html">Full profile</a><a href="/mentions-legales.html">Legal notice</a><a href="/fr/">Français</a></div></div></footer>
-<small>Some images on this website were generated or modified using artificial intelligence and are provided for illustrative purposes.</small>
-    <script>
-    document.documentElement.classList.add('js-motion');
-    const progress=document.getElementById('scroll-progress');
-    function updateProgress(){const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?Math.min(100,scrollY/max*100):0)+'%'}
-    window.addEventListener('scroll',updateProgress,{passive:true});updateProgress();
-    const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
-    if (!reduce && 'IntersectionObserver' in window){
-      const ob=new IntersectionObserver(entries=>{for(const entry of entries){if(entry.isIntersecting){entry.target.classList.add('visible');ob.unobserve(entry.target)}}},{threshold:.07});
-      document.querySelectorAll('.reveal').forEach(el=>ob.observe(el));
-    }else{document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'))}
-    document.querySelectorAll('.mobile-menu nav a').forEach(link=>link.addEventListener('click',()=>link.closest('details').open=false));
-  </script>
+
+<footer id="contact">
+
+  <div class="container footer-inner">
+    <div>
+      <strong>Sabrina Palis</strong>
+      <p>Independent research · AI systems · Education · Writing</p>
+    </div>
+
+    <div class="footer-links">
+      <a href="https://github.com/MinervaRose" rel="noopener noreferrer" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/sabrina-jp/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+      <a href="https://orcid.org/0009-0009-4663-9778" rel="noopener noreferrer" target="_blank">ORCID</a>
+      <a href="/profile.html">Full profile</a>
+      <a href="/mentions-legales.html">Legal notice</a>
+      <a href="/fr/">Français</a>
+    </div>
+  </div>
+
+  <!-- AI image disclosure -->
+  <p class="container" style="
+    margin-top:24px;
+    padding-top:18px;
+    border-top:1px solid rgba(255,255,255,.3);
+    color:#f4e6f3;
+    font-size:14px;
+    line-height:1.7;
+  ">
+    <strong style="color:#ffffff; font-size:14px;">
+      Image transparency:
+    </strong>
+    Some images on this website were generated or modified using
+    artificial intelligence and are provided for illustrative purposes.
+  </p>
+
+</footer>
+
+<script>
+  document.documentElement.classList.add('js-motion');
+
+  const progress=document.getElementById('scroll-progress');
+
+  function updateProgress(){
+    const max=document.documentElement.scrollHeight-innerHeight;
+    progress.style.width=(max>0?Math.min(100,scrollY/max*100):0)+'%';
+  }
+
+  window.addEventListener('scroll',updateProgress,{passive:true});
+  updateProgress();
+
+  const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (!reduce && 'IntersectionObserver' in window){
+    const ob=new IntersectionObserver(entries=>{
+      for(const entry of entries){
+        if(entry.isIntersecting){
+          entry.target.classList.add('visible');
+          ob.unobserve(entry.target);
+        }
+      }
+    },{threshold:.07});
+
+    document.querySelectorAll('.reveal').forEach(el=>ob.observe(el));
+  }else{
+    document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'));
+  }
+
+  document.querySelectorAll('.mobile-menu nav a').forEach(
+    link=>link.addEventListener('click',()=>{
+      link.closest('details').open=false;
+    })
+  );
+</script>
+
 </body>
 </html>
+
