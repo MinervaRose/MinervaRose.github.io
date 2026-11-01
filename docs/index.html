@@ -1151,6 +1151,50 @@ a { color:inherit; }
     black 45px
   );
 }
+    
+/* Mobile text and layout correction */
+@media (max-width: 980px) {
+  .hero .hero-wrap {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .hero .hero-copy,
+  .hero .hero-panel,
+  .hero .hero-stage {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .hero .eyebrow {
+    flex-wrap: wrap;
+    row-gap: 3px;
+    column-gap: 8px;
+  }
+}
+/* Extra-small phones */
+@media (max-width: 360px) {
+  .topbar .nav,
+  .topbar .nav-actions {
+    gap: 8px;
+  }
+
+  .topbar .brand {
+    gap: 6px;
+  }
+
+  .topbar .brand-name {
+    font-size: 15px;
+  }
+
+  .topbar .brand-mark {
+    width: 27px;
+    height: 27px;
+  }
+
+  .topbar .mobile-nav summary {
+    padding: 8px 10px;
+  }
+}
 </style>
 </head>
 <body>
