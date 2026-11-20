@@ -790,6 +790,44 @@ a { color:inherit; }
   mask-image:linear-gradient(90deg,transparent,#000 2.5%,#000 97.5%,transparent);
   -webkit-mask-image:linear-gradient(90deg,transparent,#000 2.5%,#000 97.5%,transparent);
 }
+
+.research-constellation-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.45rem;
+  margin: 1.4rem 0;
+  padding: 1.1rem 1.4rem;
+  background: linear-gradient(
+    100deg,
+    rgba(172, 79, 151, 0.09),
+    rgba(232, 150, 197, 0.04)
+  );
+  border-left: 3px solid #b64b98;
+  border-radius: 0 10px 10px 0;
+}
+
+.research-constellation-link a {
+  color: #842b78;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-underline-offset: 0.25em;
+  transition: color 0.2s ease;
+}
+
+.research-constellation-link a:hover,
+.research-constellation-link a:focus-visible {
+  color: #c14d94;
+  text-decoration: underline;
+}
+
+.research-constellation-link span {
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
 .research.research-editorial .research-topics {
   position:relative;z-index:1;margin-top:0;
   padding:22px 0 0;
