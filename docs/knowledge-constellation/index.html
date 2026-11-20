@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#110d20" />
+    <title>Knowledge Constellation — education, research and published work</title>
+    <meta name="description" content="Explore my education, research, software projects, and published writing to discover the connections between them." />
+    <link rel="canonical" href="https://minervarose.github.io/knowledge-constellation/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Knowledge Constellation" />
+    <meta property="og:description" content="Explore my education, research, software projects, and published writing to discover the connections between them." />
+    <meta property="og:url" content="https://minervarose.github.io/knowledge-constellation/" />
+    <meta name="twitter:card" content="summary" />
+    <script type="module" crossorigin src="/knowledge-constellation/assets/index-B8L7ufo9.js"></script>
+    <link rel="stylesheet" crossorigin href="/knowledge-constellation/assets/index-Jnydp7Ps.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#explore">Skip constellation</a>
+    <div id="app">
+      <header class="masthead">
+        <div><span class="eyebrow">Education · inquiry · creative work</span><h1>Knowledge <em>Constellation</em></h1><p class="intro">Explore my education, research, software projects, and published writing to discover the connections between them.</p></div>
+        <div class="masthead-side"><span class="folio">01 / constellation</span><p>Connections grounded in documented work</p></div>
+      </header>
+      <main id="explore" class="explore">
+        <section class="visual" aria-label="Interactive constellation">
+          <div id="scene" class="scene" aria-hidden="true"></div>
+          <div class="scene-heading"><span class="eyebrow">The constellation</span><p id="scene-caption">Select a star to unfold its documented connections.</p><p id="preview-caption" class="preview-caption" hidden></p></div>
+          <div class="scene-controls"><button id="motion" type="button" aria-pressed="false">Pause motion</button><button id="reset" type="button">Reset view</button></div>
+          <p class="scene-hint">Drag to turn · scroll to zoom · all stars are accessible in the list</p>
+          <div id="fallback" class="fallback" hidden>3D view unavailable. Explore every record with the searchable list.</div>
+        </section>
+        <aside class="rail" aria-label="Atlas navigation and details">
+          <div id="explore-panel">
+          <div class="rail-top"><span class="eyebrow">Navigate the evidence</span><span id="count" class="count"></span></div>
+          <label for="search">Find education, research, projects or writing</label>
+          <input id="search" type="search" autocomplete="off" placeholder="Search the constellation…" />
+          <label for="category">Browse by type</label>
+          <select id="category" aria-label="Browse by type"></select>
+          <div class="list-head"><h2>Explore</h2><span id="list-context">Overview</span></div>
+          <div id="list" class="record-list"></div>
+          </div>
+          <section id="detail" class="detail" aria-labelledby="detail-title" hidden></section>
+        </aside>
+      </main>
+      <footer><span>Knowledge Constellation</span><span>Source-grounded links and editorial concepts remain distinct.</span></footer>
+    </div>
+  </body>
+</html>
